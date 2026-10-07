@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Moving Day Truck Ramp",
+   "carrying a heavy box down the ramp"
+  ],
+  [
+   "Friend's New Apartment Hallway",
+   "holding one end of a couch"
+  ],
+  [
+   "Airport Pickup Curb",
+   "loading a friend's suitcase into the trunk"
+  ],
+  [
+   "Train Station Pickup",
+   "waving from the car with the window down"
+  ],
+  [
+   "Brother's Driveway",
+   "jump-starting a car with cables"
+  ],
+  [
+   "Neighbor's Lawn",
+   "pushing a borrowed lawn mower back"
+  ],
+  [
+   "Sister's Kitchen",
+   "holding a baking dish someone asked for"
+  ],
+  [
+   "Friend's Garage",
+   "holding up a borrowed drill"
+  ],
+  [
+   "Roommate's Living Room",
+   "holding a stack of unpaid bills"
+  ],
+  [
+   "Coworker's Desk",
+   "handing over a phone charger"
+  ],
+  [
+   "IT Help Desk",
+   "fixing a coworker's laptop"
+  ],
+  [
+   "Office Printer",
+   "fixing a paper jam for someone else"
+  ],
+  [
+   "Office Kitchen",
+   "refilling the coffee pot nobody else refills"
+  ],
+  [
+   "Monday Morning Meeting",
+   "taking notes for the whole team"
+  ],
+  [
+   "Office Birthday Card Table",
+   "holding a card everyone forgot to sign"
+  ],
+  [
+   "Video Call Desk",
+   "unmuting to answer one more question"
+  ],
+  [
+   "Coworking Space Lounge",
+   "lending someone a pen"
+  ],
+  [
+   "Bank Lobby",
+   "co-signing paperwork with a deep breath"
+  ],
+  [
+   "Accountant's Desk",
+   "going over someone else's receipts"
+  ],
+  [
+   "Car Dealership Finance Desk",
+   "signing as a co-signer"
+  ],
+  [
+   "Apartment Leasing Office",
+   "signing as a guarantor"
+  ],
+  [
+   "Pet Sitting At A Friend's House",
+   "holding a friend's dog leash"
+  ],
+  [
+   "House Sitting Kitchen",
+   "watering a friend's plants"
+  ],
+  [
+   "Plant Shop",
+   "buying a plant for a friend's housewarming"
+  ],
+  [
+   "Wedding Rehearsal Hall",
+   "setting up folding chairs"
+  ],
+  [
+   "Wedding Reception Gift Table",
+   "arranging gifts"
+  ],
+  [
+   "Party Rental Store",
+   "loading folding tables into a truck"
+  ],
+  [
+   "Bridal Shower Kitchen",
+   "assembling a fruit tray"
+  ],
+  [
+   "Dinner Party Kitchen",
+   "washing dishes while everyone chats"
+  ],
+  [
+   "Thanksgiving Kitchen",
+   "basting the turkey alone"
+  ],
+  [
+   "Christmas Gift Wrapping Table",
+   "wrapping a stack of gifts"
+  ],
+  [
+   "Holiday Party Coat Room",
+   "holding a pile of coats"
+  ],
+  [
+   "Potluck Table",
+   "setting down a homemade casserole"
+  ],
+  [
+   "Group Trip Rental Car",
+   "driving with friends asleep in the back"
+  ],
+  [
+   "Road Trip Gas Station",
+   "paying for everyone's gas"
+  ],
+  [
+   "Restaurant Booth",
+   "holding the bill with everyone looking away"
+  ],
+  [
+   "Brunch Table",
+   "splitting a check on a phone calculator"
+  ],
+  [
+   "Bar Tab Counter",
+   "paying the group tab"
+  ],
+  [
+   "Sports Bar",
+   "holding a round of drinks for the table"
+  ],
+  [
+   "Concert Ticket Line",
+   "buying tickets for the whole group"
+  ],
+  [
+   "Hardware Store Checkout",
+   "buying supplies for someone else's project"
+  ],
+  [
+   "Home Depot Style Lumber Cart",
+   "pushing a cart of boards"
+  ],
+  [
+   "Deck Building Backyard",
+   "holding a level for a friend"
+  ],
+  [
+   "Painting A Friend's Apartment",
+   "rolling paint on a wall"
+  ],
+  [
+   "Furniture Assembly Living Room",
+   "reading an instruction sheet"
+  ],
+  [
+   "Storage Unit",
+   "carrying a friend's boxes"
+  ],
+  [
+   "Apartment Laundry Room",
+   "folding someone else's laundry"
+  ],
+  [
+   "Warehouse Club Checkout",
+   "buying groceries for a neighbor"
+  ],
+  [
+   "Pharmacy Counter",
+   "picking up someone else's prescription"
+  ],
+  [
+   "Post Office Counter",
+   "mailing a package for a friend"
+  ],
+  [
+   "Self-Serve Car Wash Bay",
+   "washing a friend's borrowed car"
+  ],
+  [
+   "Auto Shop Counter",
+   "picking up a friend's car"
+  ],
+  [
+   "Vet Clinic Lobby",
+   "holding a friend's cat carrier"
+  ],
+  [
+   "Hospital Parking Lot",
+   "waiting in the car with a coffee"
+  ],
+  [
+   "Urgent Care Waiting Room",
+   "sitting with a friend's coat on the lap"
+  ],
+  [
+   "Community Center Kitchen",
+   "stirring a big pot of chili"
+  ],
+  [
+   "Volunteer Food Bank",
+   "stacking cans on a shelf"
+  ],
+  [
+   "Community Garden",
+   "watering everyone's plants"
+  ],
+  [
+   "HOA Meeting",
+   "raising a hand to volunteer again"
+  ],
+  [
+   "Neighborhood Yard Sale",
+   "running the cash box"
+  ],
+  [
+   "Wine Night Host Kitchen",
+   "setting out snacks"
+  ],
+  [
+   "Game Night Host Kitchen",
+   "refilling the chip bowls"
+  ],
+  [
+   "Birthday Party Host Patio",
+   "lighting candles on a cake"
+  ],
+  [
+   "Fantasy Football Draft",
+   "running the draft board"
+  ],
+  [
+   "Group Chat On The Couch",
+   "staring at a phone full of requests"
+  ],
+  [
+   "Office Coffee Run",
+   "carrying a drink carrier with six coffees"
+  ],
+  [
+   "Food Truck Line",
+   "ordering for a whole group"
+  ],
+  [
+   "Airport Baggage Claim",
+   "grabbing everyone's suitcases off the belt"
+  ],
+  [
+   "Hotel Front Desk",
+   "checking in for the whole group"
+  ],
+  [
+   "Ski Lodge Rental Counter",
+   "carrying a stack of rental skis"
+  ]
+ ],
+ "openers": [
+  "Oh, you need something? Shocking.",
+  "This shirt is for everyone who only calls when they need a favor.",
+  "Okay, read this one slowly.",
+  "My phone only rings when someone needs help.",
+  "I'm the friend with the truck, so here's my shirt.",
+  "Wore this today on purpose.",
+  "Everybody suddenly remembered my number.",
+  "This is my official favor uniform.",
+  "My family laughed, then asked me for a ride.",
+  "This shirt says it so I don't have to.",
+  "Shirt check, helpful friend edition.",
+  "If you only text me for help, read this.",
+  "Somebody had to say it.",
+  "The most honest shirt I own."
+ ],
+ "details": [
+  "That giant teal EXIST is the whole joke.",
+  "The teal dashes on either side make EXIST pop.",
+  "The mix of light and heavy caps reads so well.",
+  "It's soft, fits great, and the print stays sharp.",
+  "Perfect gift for the friend everyone always calls.",
+  "The white and teal look great on black cotton.",
+  "It reads like a polite apology with a twist.",
+  "Great gift for the oldest sibling in any family.",
+  "The print still looks new after lots of washes.",
+  "Everyone reads it top to bottom and then laughs.",
+  "It's comfy enough for every moving day.",
+  "Bold, sarcastic and painfully accurate."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then they tap the teal word EXIST and raise an eyebrow.",
+  "Then they hold up their phone and sigh dramatically.",
+  "Then they hold the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Add soft giggles and a short burst of laughter from people just off-camera.",
+  "Include a friend off-camera laughing and saying \"No way,\" mixed with natural ambient sound."
+ ],
+ "titles": [
+  "Oh, Now You Need Me 😂",
+  "The Favor Friend Shirt",
+  "Only When You Need Something",
+  "Gift Idea For The Helpful Friend",
+  "Family Favor Shirt 😅",
+  "Read It Slowly",
+  "The Friend With The Truck",
+  "Most Honest Shirt Ever",
+  "Shirt Check: Favor Edition",
+  "This One's For You 😂"
+ ],
+ "tags": [
+  "#OnlyWhenYouNeedSomething",
+  "#SarcasticShirt",
+  "#FamilyHumor",
+  "#FriendHumor",
+  "#OfficeHumor",
+  "#FunnyTShirt",
+  "#SarcasmLovers",
+  "#FunnyGift",
+  "#GiftIdea",
+  "#StatementTee",
+  "#ShirtCheck",
+  "#Relatable",
+  "#HumorShirt"
+ ]
+}

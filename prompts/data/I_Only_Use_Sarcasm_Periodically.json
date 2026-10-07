@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Chemistry Magic Show Theater",
+   "watching a color-changing demo from the front row"
+  ],
+  [
+   "Natural History Museum",
+   "standing by a mineral display case"
+  ],
+  [
+   "Rock And Mineral Shop",
+   "holding up a geode"
+  ],
+  [
+   "Crystal Shop Counter",
+   "holding a quartz crystal to the light"
+  ],
+  [
+   "Chemistry Set Aisle In A Hobby Store",
+   "reading the back of a chemistry kit box"
+  ],
+  [
+   "Homebrewing Supply Shop",
+   "holding a hydrometer"
+  ],
+  [
+   "Craft Brewery Brewhouse Tour",
+   "looking into a fermentation tank"
+  ],
+  [
+   "Distillery Lab Room",
+   "holding a small sample vial"
+  ],
+  [
+   "Winemaking Class",
+   "measuring sugar with a refractometer"
+  ],
+  [
+   "Kombucha Brewing Workshop",
+   "holding a jar of kombucha"
+  ],
+  [
+   "Cooking Science Class",
+   "whisking an egg foam"
+  ],
+  [
+   "Molecular Gastronomy Bar",
+   "receiving a smoking cocktail"
+  ],
+  [
+   "Science Pub Talk",
+   "holding a pint during a science lecture"
+  ],
+  [
+   "Escape Room Science Lab",
+   "solving a chemistry puzzle"
+  ],
+  [
+   "Puzzle Night At A Friend's Place",
+   "fitting a puzzle piece into place"
+  ],
+  [
+   "Tabletop Game Store",
+   "rolling dice at a game table"
+  ],
+  [
+   "Sci-Fi Convention Floor",
+   "holding a convention badge"
+  ],
+  [
+   "Comic Con Panel Line",
+   "waiting with a coffee"
+  ],
+  [
+   "Retro Arcade Bar",
+   "playing a vintage arcade game"
+  ],
+  [
+   "Electronics Repair Bench",
+   "soldering a small circuit board"
+  ],
+  [
+   "Maker Faire Booth",
+   "showing off a small robot"
+  ],
+  [
+   "3D Printing Studio",
+   "holding a freshly printed part"
+  ],
+  [
+   "Coding Bootcamp Lounge",
+   "typing on a laptop"
+  ],
+  [
+   "Tech Startup Office",
+   "standing at a whiteboard full of formulas"
+  ],
+  [
+   "Data Analyst Desk",
+   "pointing at a chart on a monitor"
+  ],
+  [
+   "Engineering Firm Breakroom",
+   "pouring a coffee"
+  ],
+  [
+   "Pharmacy Lab Coat Rack",
+   "hanging up a lab coat"
+  ],
+  [
+   "Hospital Lab Hallway",
+   "carrying a rack of sample tubes"
+  ],
+  [
+   "Water Treatment Plant Tour",
+   "listening to a guide"
+  ],
+  [
+   "Solar Farm Tour",
+   "standing beside a solar panel"
+  ],
+  [
+   "Weather Station Field",
+   "checking a rain gauge"
+  ],
+  [
+   "Observatory Telescope Deck",
+   "adjusting a telescope at dusk"
+  ],
+  [
+   "Stargazing Field",
+   "lying on a blanket and pointing at the sky"
+  ],
+  [
+   "Space Center Rocket Garden",
+   "standing beside a rocket display"
+  ],
+  [
+   "Aquarium Jellyfish Tank",
+   "watching jellyfish glow"
+  ],
+  [
+   "Botanical Garden Greenhouse",
+   "reading a plant label"
+  ],
+  [
+   "Zoo Reptile House",
+   "watching a lizard on a branch"
+  ],
+  [
+   "Science Podcast Studio",
+   "speaking into a microphone"
+  ],
+  [
+   "Library Science Shelf",
+   "pulling a chemistry book from a shelf"
+  ],
+  [
+   "Used Bookstore",
+   "flipping through an old textbook"
+  ],
+  [
+   "Coffee Roastery Lab",
+   "timing a pour-over coffee"
+  ],
+  [
+   "Bubble Tea Shop",
+   "holding a bubble tea"
+  ],
+  [
+   "Pharmacy Vitamin Aisle",
+   "comparing two bottles of vitamins"
+  ],
+  [
+   "Pool Supply Store",
+   "holding a pool chemistry test kit"
+  ],
+  [
+   "Hardware Store Paint Counter",
+   "watching paint get mixed"
+  ],
+  [
+   "Garden Center Soil Aisle",
+   "holding a bag of fertilizer"
+  ],
+  [
+   "Car Battery Shop",
+   "holding a car battery"
+  ],
+  [
+   "Bike Shop",
+   "pumping up a bike tire"
+  ],
+  [
+   "Gym Supplement Store",
+   "holding a tub of protein powder"
+  ],
+  [
+   "Smoothie Bar",
+   "holding a green smoothie"
+  ],
+  [
+   "Work Team Meeting",
+   "raising an eyebrow during a presentation"
+  ],
+  [
+   "Open Office Standing Desk",
+   "typing with headphones on"
+  ],
+  [
+   "Video Call Home Office",
+   "smirking at the webcam"
+  ],
+  [
+   "Office Holiday Party",
+   "holding a cup of punch"
+  ],
+  [
+   "Coworker Birthday Lunch",
+   "holding a slice of cake"
+  ],
+  [
+   "Airport Security Line",
+   "holding a bin with a laptop"
+  ],
+  [
+   "Airplane Window Seat",
+   "reading a science magazine"
+  ],
+  [
+   "Train Commute",
+   "reading on a tablet"
+  ],
+  [
+   "Hotel Business Center",
+   "printing a boarding pass"
+  ],
+  [
+   "Conference Expo Hall",
+   "holding a tote bag of free pens"
+  ],
+  [
+   "Science Fiction Movie Premiere",
+   "holding a popcorn bucket"
+  ],
+  [
+   "Space Museum Gift Shop",
+   "holding a solar system poster tube"
+  ],
+  [
+   "Nerd Karaoke Night",
+   "singing into a microphone"
+  ],
+  [
+   "Craft Beer Bar",
+   "holding a beer flight"
+  ],
+  [
+   "Wine Bar",
+   "swirling a glass of white wine"
+  ],
+  [
+   "Brunch Patio",
+   "holding a mimosa"
+  ],
+  [
+   "Pizza Place Booth",
+   "holding a slice"
+  ],
+  [
+   "Ramen Shop Counter",
+   "lifting noodles with chopsticks"
+  ],
+  [
+   "Taco Truck",
+   "holding two tacos"
+  ],
+  [
+   "Laundromat",
+   "folding a lab coat"
+  ]
+ ],
+ "openers": [
+  "I only use sarcasm periodically, obviously.",
+  "Science nerds, this one's for you.",
+  "Okay, look closely at the green tiles.",
+  "Took you a second, didn't it?",
+  "This shirt is my element.",
+  "Chemistry jokes are always a reaction.",
+  "My lab partner bought me this.",
+  "Everyone reads it, then reads it again.",
+  "Shirt check, science edition.",
+  "Rate this shirt, one to ten.",
+  "This one's elementary, really.",
+  "I wore this to trivia night on purpose.",
+  "The most accurate shirt I own.",
+  "Sarcasm level: periodic."
+ ],
+ "details": [
+  "The four green element tiles spell it out perfectly.",
+  "The dark letters on the green tiles look so clean.",
+  "The white tall caps frame the joke nicely.",
+  "It's soft, fits great, and the print stays crisp.",
+  "Perfect gift for a chemistry teacher or lab tech.",
+  "The green really pops against the black cotton.",
+  "Great gift for anyone who loves a nerdy pun.",
+  "The element tiles look just like a real periodic table.",
+  "It still looks sharp after a bunch of washes.",
+  "Everyone stops to figure out the tiles.",
+  "Simple layout, smart joke, zero explanation needed.",
+  "Science people get it instantly."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then they tap each green element tile one by one.",
+  "Then they raise an eyebrow and point at the tiles.",
+  "Then they hold the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Add soft giggles and a short burst of laughter from people just off-camera.",
+  "Include a friend off-camera laughing and saying \"No way,\" mixed with natural ambient sound."
+ ],
+ "titles": [
+  "Sarcasm Is My Element 😂",
+  "Periodically Sarcastic",
+  "Chemistry Nerds Get It 🧪",
+  "Look At The Tiles",
+  "Science Teacher Gift Idea",
+  "My Element",
+  "Nerdy Pun Shirt",
+  "Read The Green Tiles 😂",
+  "Shirt Check: Science Edition",
+  "Elementary, Really"
+ ],
+ "tags": [
+  "#ChemistryHumor",
+  "#ScienceShirt",
+  "#PeriodicTable",
+  "#NerdHumor",
+  "#ScienceTeacher",
+  "#Sarcasm",
+  "#FunnyTShirt",
+  "#GeekHumor",
+  "#SarcasmLovers",
+  "#FunnyGift",
+  "#GiftIdea",
+  "#StatementTee",
+  "#ShirtCheck"
+ ]
+}

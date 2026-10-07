@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Outdoor Outfitter Store",
+   "trying on a camo ball cap"
+  ],
+  [
+   "Hunting Boot Aisle",
+   "holding up a pair of rubber boots"
+  ],
+  [
+   "Archery Range",
+   "resting an unstrung bow on a stand"
+  ],
+  [
+   "Duck Blind On A Marsh",
+   "sitting with a thermos at dawn"
+  ],
+  [
+   "Hunting Lease Gate",
+   "unlocking a farm gate"
+  ],
+  [
+   "Deer Processing Shop Counter",
+   "picking up wrapped venison"
+  ],
+  [
+   "Wild Game Cook-Off Tent",
+   "stirring a pot of venison chili"
+  ],
+  [
+   "Taxidermy Shop",
+   "admiring a mounted deer head on the wall"
+  ],
+  [
+   "Bass Fishing Tournament Weigh-In",
+   "holding up a largemouth bass"
+  ],
+  [
+   "Fly Fishing Stream",
+   "casting a fly line"
+  ],
+  [
+   "Ice Fishing Shanty",
+   "drilling a hole in the ice"
+  ],
+  [
+   "Pontoon Boat",
+   "steering a pontoon boat on a lake"
+  ],
+  [
+   "Kayak Launch",
+   "carrying a kayak to the water"
+  ],
+  [
+   "Cabin Woodpile",
+   "splitting firewood with an axe"
+  ],
+  [
+   "Farm Tractor",
+   "sitting on a tractor seat"
+  ],
+  [
+   "Hay Barn",
+   "stacking hay bales"
+  ],
+  [
+   "Cattle Auction Barn",
+   "holding up a bidder card"
+  ],
+  [
+   "Rodeo Arena Fence",
+   "leaning on the arena fence"
+  ],
+  [
+   "Horse Stable",
+   "brushing a horse"
+  ],
+  [
+   "Livestock Show Barn",
+   "holding a lead rope"
+  ],
+  [
+   "Country Music Festival",
+   "singing along with arms up"
+  ],
+  [
+   "Saloon Doorway",
+   "stepping through swinging saloon doors"
+  ],
+  [
+   "Two-Step Lesson",
+   "learning a two-step with a partner"
+  ],
+  [
+   "Western Wear Store",
+   "trying on a cowboy hat"
+  ],
+  [
+   "Boot Store Bench",
+   "pulling on new cowboy boots"
+  ],
+  [
+   "Small-Town Coffee Shop",
+   "holding a mug at the counter"
+  ],
+  [
+   "Feed Store Porch",
+   "sitting on a bench with a coffee"
+  ],
+  [
+   "Rural Gas Station",
+   "filling up a pickup"
+  ],
+  [
+   "Truck Accessory Shop",
+   "holding a new truck hitch"
+  ],
+  [
+   "Off-Road Trail",
+   "standing beside a muddy side-by-side"
+  ],
+  [
+   "Mudding Pit",
+   "wiping mud off a truck door"
+  ],
+  [
+   "Monster Truck Rally Stands",
+   "cheering from the stands"
+  ],
+  [
+   "Dirt Track Racing Grandstand",
+   "holding a cold drink"
+  ],
+  [
+   "NASCAR Infield",
+   "waving a flag from a camp chair"
+  ],
+  [
+   "Fourth Of July Fireworks Tent",
+   "holding a boxed fireworks assortment"
+  ],
+  [
+   "Crawfish Boil",
+   "pouring crawfish onto a table"
+  ],
+  [
+   "Smokehouse Barbecue",
+   "slicing brisket on a board"
+  ],
+  [
+   "Backyard Smoker",
+   "opening the lid of a smoker"
+  ],
+  [
+   "Fish Fry",
+   "dropping fish into a fryer"
+  ],
+  [
+   "Wild Hog Barbecue",
+   "serving pulled pork"
+  ],
+  [
+   "Garage Poker Night",
+   "stacking poker chips"
+  ],
+  [
+   "Living Room Recliner On Game Day",
+   "kicking back with a remote"
+  ],
+  [
+   "Sports Bar Booth",
+   "holding a plate of wings"
+  ],
+  [
+   "Dive Bar Pool Table",
+   "chalking a pool cue"
+  ],
+  [
+   "Brewery Taproom",
+   "holding a dark stout"
+  ],
+  [
+   "Whiskey Distillery Tour",
+   "holding a tasting glass"
+  ],
+  [
+   "Cigar Shop Lounge",
+   "holding an unlit cigar in a leather chair"
+  ],
+  [
+   "Golf Cart Path",
+   "driving a golf cart"
+  ],
+  [
+   "Lumber Yard",
+   "loading boards onto a truck"
+  ],
+  [
+   "Home Improvement Store",
+   "holding a cordless drill"
+  ],
+  [
+   "Welding Shop",
+   "lifting a welding helmet"
+  ],
+  [
+   "Auto Repair Garage",
+   "wiping hands with a shop rag"
+  ],
+  [
+   "Car Show",
+   "leaning on a lifted truck"
+  ],
+  [
+   "Motorcycle Shop",
+   "sitting on a cruiser motorcycle"
+  ],
+  [
+   "Camping Store",
+   "testing a folding camp chair"
+  ],
+  [
+   "Campfire Circle",
+   "poking the fire with a stick"
+  ],
+  [
+   "Mountain Cabin Porch",
+   "rocking in a rocking chair"
+  ],
+  [
+   "Lake Cabin Dock",
+   "casting a line off the dock"
+  ],
+  [
+   "Hunting Camp Kitchen",
+   "frying bacon in a cast iron pan"
+  ],
+  [
+   "Trailhead Parking Lot",
+   "lacing up hiking boots"
+  ],
+  [
+   "Survival Gear Expo",
+   "holding a fire starter kit"
+  ],
+  [
+   "Knife Shop Counter",
+   "admiring a pocket knife in a display case"
+  ],
+  [
+   "Pawn Shop Guitar Wall",
+   "looking at an old acoustic guitar"
+  ],
+  [
+   "Flea Market Tool Table",
+   "holding a vintage wrench"
+  ],
+  [
+   "Patriotic Parade Sidewalk",
+   "waving a small flag"
+  ],
+  [
+   "American Legion Hall",
+   "raising a glass at a long table"
+  ],
+  [
+   "Veterans Day Breakfast",
+   "holding a coffee mug"
+  ],
+  [
+   "Biscuit Shop",
+   "eating biscuits and gravy"
+  ],
+  [
+   "Steakhouse Booth",
+   "cutting a thick steak"
+  ],
+  [
+   "Roadside Fruit Stand",
+   "holding a basket of peaches"
+  ]
+ ],
+ "openers": [
+  "Okay, read this one all the way down.",
+  "Second Amendment humor at its finest.",
+  "This shirt always gets a double take.",
+  "Everybody laughs at the last line.",
+  "My hunting buddies loved this one.",
+  "Wore this to the cookout on purpose.",
+  "Shirt check, country edition.",
+  "This one gets read out loud every time.",
+  "Somebody had to say it.",
+  "My dad laughed so hard at this.",
+  "Best shirt in my closet, hands down.",
+  "Wait for the punchline.",
+  "This shirt explains itself.",
+  "Rate this shirt, one to ten."
+ ],
+ "details": [
+  "The mix of italic script and tall caps looks so sharp.",
+  "Those thin rules beside the small lines are a classy touch.",
+  "The punchline at the bottom gets everyone.",
+  "It's soft, fits great, and the print stays crisp.",
+  "Perfect gift for the hunter or range buddy in your life.",
+  "The white print really pops against the black cotton.",
+  "Great Father's Day gift for a dad with jokes.",
+  "It reads like a little story, top to bottom.",
+  "The layout makes you read every single line.",
+  "Still looks brand new after a lot of washes.",
+  "Bold letters, clean layout, great joke.",
+  "Every country boy I know wants one."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then they tap the bottom line and grin.",
+  "Then they tip their cap and show the shirt again.",
+  "Then they hold the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Add soft giggles and a short burst of laughter from people just off-camera.",
+  "Include a friend off-camera laughing and saying \"No way,\" mixed with natural ambient sound."
+ ],
+ "titles": [
+  "Read To The Last Line 😂",
+  "Country Humor Shirt",
+  "Gift Idea For Dad 🇺🇸",
+  "The Punchline Gets Everyone",
+  "Hunting Buddy Approved",
+  "Conceal Carry Humor 😂",
+  "Best Shirt At The Cookout",
+  "Wait For The Ending",
+  "Country Boy Shirt Check",
+  "This Shirt Explains Itself"
+ ],
+ "tags": [
+  "#ConcealCarry",
+  "#2A",
+  "#CountryHumor",
+  "#HuntingLife",
+  "#OutdoorLife",
+  "#FunnyTShirt",
+  "#FunnyGift",
+  "#GiftForDad",
+  "#AdultHumor",
+  "#HumorShirt",
+  "#ShirtCheck",
+  "#StatementTee",
+  "#Patriotic"
+ ]
+}

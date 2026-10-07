@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Topiary Garden Walkway",
+   "shaping a boxwood topiary with hand clippers"
+  ],
+  [
+   "Hedge Maze Entrance",
+   "holding a paper map at the start of the maze"
+  ],
+  [
+   "Succulent Shop Counter",
+   "potting a small cactus into a clay pot"
+  ],
+  [
+   "Houseplant Boutique",
+   "misting a fern on a wooden shelf"
+  ],
+  [
+   "Brewery Beer Garden",
+   "raising a pint at a long picnic table"
+  ],
+  [
+   "Rooftop Bar Planter Lounge",
+   "resting a cocktail on the edge of a planter box"
+  ],
+  [
+   "Sod Farm Field",
+   "rolling out a fresh strip of sod"
+  ],
+  [
+   "Golf Course Putting Green",
+   "lining up a short putt"
+  ],
+  [
+   "Golf Clubhouse Bar",
+   "ordering a drink at the polished bar"
+  ],
+  [
+   "Men's Grooming Lounge",
+   "getting a beard trimmed in a reclining chair"
+  ],
+  [
+   "Unisex Hair Salon Chair",
+   "chatting with a stylist from the styling chair"
+  ],
+  [
+   "Pharmacy Hair Regrowth Aisle",
+   "comparing two boxes of regrowth foam"
+  ],
+  [
+   "Beauty Supply Store",
+   "browsing a wall of hair clippers"
+  ],
+  [
+   "Hat Shop Mirror",
+   "trying on a wide-brimmed straw hat"
+  ],
+  [
+   "Electronics Store Shaver Counter",
+   "testing the weight of an electric shaver"
+  ],
+  [
+   "Christmas Tree Lot",
+   "carrying a small fir tree toward the register"
+  ],
+  [
+   "Apple Orchard Picking Row",
+   "reaching up for a ripe apple"
+  ],
+  [
+   "Lavender Farm",
+   "cutting a bundle of lavender stems"
+  ],
+  [
+   "Sunflower Field",
+   "standing among tall sunflowers"
+  ],
+  [
+   "Herb Garden Patio",
+   "snipping fresh basil into a bowl"
+  ],
+  [
+   "Arboretum Trail",
+   "reading a tree identification sign"
+  ],
+  [
+   "Japanese Tea Garden",
+   "raking lines into a gravel bed"
+  ],
+  [
+   "Desert Cactus Garden",
+   "admiring a towering saguaro"
+  ],
+  [
+   "Mulch Delivery Driveway",
+   "shoveling mulch into a wheelbarrow"
+  ],
+  [
+   "Irrigation Supply Store",
+   "inspecting a sprinkler head"
+  ],
+  [
+   "Feed And Seed Store",
+   "flipping through a rack of seed packets"
+  ],
+  [
+   "Hydroponics Shop",
+   "adjusting a grow light over leafy greens"
+  ],
+  [
+   "Roadside Garden Statue Lot",
+   "patting a concrete frog statue"
+  ],
+  [
+   "Koi Pond Patio",
+   "tossing food pellets into a koi pond"
+  ],
+  [
+   "Lily Pond Boardwalk",
+   "pointing at a frog on a lily pad"
+  ],
+  [
+   "Tiki Bar",
+   "sipping from a coconut cup"
+  ],
+  [
+   "Sports Bar Booth",
+   "cheering at a game on the big screen"
+  ],
+  [
+   "Karaoke Bar Stage",
+   "holding a microphone between songs"
+  ],
+  [
+   "Dive Bar Pool Table",
+   "chalking a pool cue"
+  ],
+  [
+   "Wine Bar Patio",
+   "pouring a glass of white wine"
+  ],
+  [
+   "Craft Cocktail Lounge",
+   "garnishing a drink with a mint sprig"
+  ],
+  [
+   "Backyard Fire Pit",
+   "poking the fire with a long stick"
+  ],
+  [
+   "Lakeside Cabin Deck",
+   "leaning on the railing with a coffee mug"
+  ],
+  [
+   "Bowling Alley Lane",
+   "picking up a bowling ball from the return"
+  ],
+  [
+   "Pub Trivia Night",
+   "writing an answer on a trivia sheet"
+  ],
+  [
+   "Darts Lounge",
+   "lining up a throw at the dartboard"
+  ],
+  [
+   "Steakhouse Bar",
+   "toasting with a glass of bourbon"
+  ],
+  [
+   "Retirement Party Banquet Hall",
+   "holding a slice of sheet cake on a paper plate"
+  ],
+  [
+   "Office Break Room",
+   "pouring coffee from a carafe"
+  ],
+  [
+   "Office Cubicle",
+   "watering a small desk plant"
+  ],
+  [
+   "Self-Serve Car Wash Bay",
+   "drying a truck hood with a towel"
+  ],
+  [
+   "Farm Supply Store",
+   "lifting a bag of grass seed onto a cart"
+  ],
+  [
+   "Riding Mower Showroom",
+   "sitting on a shiny new riding mower"
+  ],
+  [
+   "Driving Range Tee Box",
+   "teeing up a golf ball"
+  ],
+  [
+   "Vineyard Row",
+   "inspecting a cluster of grapes"
+  ],
+  [
+   "Hop Farm Trellis",
+   "touching a hanging cluster of hop cones"
+  ],
+  [
+   "Mountain Cabin Porch",
+   "rocking in a wooden rocking chair"
+  ],
+  [
+   "RV Campground Site",
+   "unfolding a camp chair beside an RV"
+  ],
+  [
+   "Lakefront Kayak Dock",
+   "tying up a kayak to a post"
+  ],
+  [
+   "Comedy Club Table",
+   "clapping at a joke from the stage"
+  ],
+  [
+   "Tattoo Parlor Lobby",
+   "flipping through a design binder"
+  ],
+  [
+   "Day Spa Waiting Lounge",
+   "sipping cucumber water"
+  ],
+  [
+   "Beard Contest Stage",
+   "showing off a wooden beard comb"
+  ],
+  [
+   "Lawn Bowling Green",
+   "rolling a lawn bowl across the grass"
+  ],
+  [
+   "Croquet Lawn",
+   "tapping a croquet ball through a wicket"
+  ],
+  [
+   "Bocce Court",
+   "tossing a bocce ball underhand"
+  ],
+  [
+   "Stadium Tailgate Lot",
+   "tossing a beanbag at a cornhole board"
+  ],
+  [
+   "Plant Shop Repotting Bar",
+   "repotting a leafy monstera"
+  ],
+  [
+   "Moss Terrarium Workshop",
+   "arranging moss inside a glass jar"
+  ],
+  [
+   "Florist Shop Counter",
+   "wrapping a bouquet in brown paper"
+  ],
+  [
+   "Novelty Gift Shop",
+   "holding up a sprouting head-shaped planter"
+  ],
+  [
+   "Golf Course Groundskeeper Shed",
+   "oiling a reel mower blade"
+  ],
+  [
+   "Tree Service Chipper Site",
+   "stacking cut branches beside a wood chipper"
+  ],
+  [
+   "Backyard Hammock Garden",
+   "relaxing in a hammock between two trees"
+  ],
+  [
+   "Rooftop Vegetable Garden",
+   "checking pepper plants in a raised planter"
+  ]
+ ],
+ "openers": [
+  "Okay, read this one all the way to the bottom.",
+  "I'm doing my part for the community.",
+  "Somebody had to wear this to the garden center.",
+  "My buddy with no hair asked where I got this.",
+  "This shirt starts conversations everywhere I go.",
+  "Best gag gift I ever got, hands down.",
+  "I wore this today and nobody could keep a straight face.",
+  "Every bald guy I know wants one of these.",
+  "You have to see this shirt up close.",
+  "My friends voted this the shirt of the year.",
+  "Shirt check, and yes, it's exactly what you think.",
+  "I only wear this one when I want a reaction.",
+  "Strangers keep stopping me to read this thing.",
+  "This might be the funniest shirt in my closet."
+ ],
+ "details": [
+  "That huge green BUSH is impossible to miss.",
+  "The little frog with the watering can is my favorite part.",
+  "The tall white letters stack up perfectly on the black cotton.",
+  "It's super soft and fits just right.",
+  "Look at the size of that green BUSH right in the middle.",
+  "The print is crisp and the green really pops.",
+  "That tiny frog watering the plants totally sells it.",
+  "It's the perfect gag gift for any friend who's losing their hair.",
+  "The fit is relaxed and the fabric feels great all day.",
+  "Every line reads clean, right down to the watering can.",
+  "The white condensed letters make every line easy to read.",
+  "Honestly, the frog icon is what makes it a perfect gift."
+ ],
+ "followups": [
+  "Then they point to the huge green BUSH and grin.",
+  "Then they tap the little frog and watering-can icon.",
+  "Then they smooth the shirt flat so every line shows.",
+  "Then they step back so the whole front fits in frame.",
+  "Then they trace each line of text with one finger.",
+  "Then they pull the hem down and stand up straight.",
+  "Then they turn slightly side to side to show off the print.",
+  "Then they shrug, laugh, and point at the bottom line."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Add a few surprised chuckles and a quiet 'no way' from people off-camera, mixed with the ambient sound.",
+  "Add soft background giggling that builds into a short burst of group laughter, as if people just finished reading the shirt.",
+  "Add an off-camera friend snorting with laughter and others joining in, blended with natural location sounds."
+ ],
+ "titles": [
+  "Doing My Part For Bald Men 😂",
+  "The Frog Is Watering It 🐸",
+  "Read All The Way To The Bottom",
+  "The Perfect Gag Gift For Your Bald Buddy",
+  "Community Service Shirt 😂",
+  "Nobody Reads This Just Once",
+  "Growing My Bush For A Good Cause",
+  "My Bald Friend Needs To See This",
+  "Garden Humor At Its Finest 🌿",
+  "This Shirt Wins Every Room"
+ ],
+ "tags": [
+  "#GrowingMyBush",
+  "#BaldHumor",
+  "#GardenHumor",
+  "#FunnyTShirt",
+  "#GagGift",
+  "#AdultHumor",
+  "#BaldGuy",
+  "#GardeningShirt",
+  "#FrogLover",
+  "#NoveltyTee",
+  "#ShirtCheck",
+  "#FunnyGift",
+  "#GraphicTee"
+ ]
+}

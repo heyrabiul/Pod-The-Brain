@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Timeshare Presentation Room",
+   "fake-coughing into a fist during the sales pitch"
+  ],
+  [
+   "Mattress Store Showroom",
+   "sitting on a display bed while a salesperson talks up an upgrade"
+  ],
+  [
+   "Cell Phone Store Counter",
+   "clearing their throat at a pushy plan upgrade"
+  ],
+  [
+   "Furniture Store Sofa Section",
+   "testing a couch cushion and coughing at the extended warranty speech"
+  ],
+  [
+   "Airport Security Line",
+   "holding a gray bin and stifling a fake cough"
+  ],
+  [
+   "Airport Gate Seating Area",
+   "coughing beside a stranger on a loud speakerphone call"
+  ],
+  [
+   "Hotel Front Desk",
+   "waiting at check-in with a rolling suitcase and a smirk"
+  ],
+  [
+   "Rental Car Counter",
+   "fake-coughing at an insurance upsell"
+  ],
+  [
+   "Post Office Line",
+   "holding a small package and coughing at a line-cutter's excuse"
+  ],
+  [
+   "Bank Teller Window",
+   "sliding a deposit slip across the counter with a dry cough"
+  ],
+  [
+   "Auto Repair Shop Waiting Area",
+   "coughing while reading a surprisingly long repair estimate"
+  ],
+  [
+   "Quick Lube Customer Lounge",
+   "sipping free coffee and coughing at a filter upsell"
+  ],
+  [
+   "Lumber Yard Counter",
+   "leaning on the counter with a cut list and raising an eyebrow"
+  ],
+  [
+   "Sports Bar Booth",
+   "coughing at a friend's wild game-day prediction"
+  ],
+  [
+   "Dive Bar Counter",
+   "resting an elbow on the bar with a beer and a knowing grin"
+  ],
+  [
+   "Brewery Taproom",
+   "holding a flight paddle and coughing at a beer snob's lecture"
+  ],
+  [
+   "Wine Tasting Room",
+   "swirling a glass and coughing at a long tasting-note speech"
+  ],
+  [
+   "Karaoke Bar Side Table",
+   "clearing their throat as someone brags about their vocal range"
+  ],
+  [
+   "Bowling Alley Lane",
+   "holding a bowling ball and coughing at a bragging teammate"
+  ],
+  [
+   "Casino Blackjack Table",
+   "stacking chips and coughing at a stranger's sure-thing system"
+  ],
+  [
+   "Coworking Space Lounge",
+   "holding a laptop and coughing at a startup buzzword pitch"
+  ],
+  [
+   "Home Office Video Call Desk",
+   "fake-coughing on mute during a long status update"
+  ],
+  [
+   "HR Office Doorway",
+   "leaning on the door frame with a coffee mug and a polite cough"
+  ],
+  [
+   "Performance Review Room",
+   "sitting across the table and coughing at vague feedback"
+  ],
+  [
+   "Corporate Training Seminar",
+   "holding a workbook and coughing at a team-building slogan"
+  ],
+  [
+   "Hotel Ballroom Networking Mixer",
+   "holding a name badge and coughing at a humblebrag"
+  ],
+  [
+   "Copy Machine Corner",
+   "waiting for prints and coughing at fresh office gossip"
+  ],
+  [
+   "Office Water Cooler",
+   "filling a paper cup and coughing at a rumor"
+  ],
+  [
+   "Office Holiday Party",
+   "holding a glass of punch and coughing at a long toast"
+  ],
+  [
+   "Retirement Party Banquet Hall",
+   "raising a glass and coughing through an overlong speech"
+  ],
+  [
+   "Wedding Reception Bar",
+   "waiting for a drink and coughing at a wedding guest's bragging"
+  ],
+  [
+   "Real Estate Open House",
+   "holding a listing flyer and coughing at the 'cozy' description"
+  ],
+  [
+   "Homeowners Association Meeting",
+   "sitting in a folding chair and coughing at a lawn rule debate"
+  ],
+  [
+   "Jury Duty Assembly Room",
+   "holding a juror badge and coughing at someone's excuse to leave"
+  ],
+  [
+   "Courthouse Hallway",
+   "waiting on a bench with paperwork and a dry cough"
+  ],
+  [
+   "City Permit Office",
+   "holding a form and coughing at a fifth request for paperwork"
+  ],
+  [
+   "Tax Preparer's Office",
+   "sitting with a folder of receipts and a skeptical cough"
+  ],
+  [
+   "Insurance Agent's Desk",
+   "reading a policy brochure and coughing at the fine print"
+  ],
+  [
+   "Car Wash Waiting Bench",
+   "watching the car go through and coughing at a wax upsell"
+  ],
+  [
+   "Laundromat Folding Table",
+   "folding towels and coughing at a neighbor's gossip"
+  ],
+  [
+   "Dry Cleaner Counter",
+   "picking up a garment bag with a playful cough"
+  ],
+  [
+   "Farmers Market Stand",
+   "holding a basket of tomatoes and coughing at an organic-claim pitch"
+  ],
+  [
+   "Big-Box Return Desk",
+   "holding a receipt and coughing at a no-returns excuse"
+  ],
+  [
+   "Electronics Store Demo Table",
+   "holding a tablet and coughing at a protection-plan pitch"
+  ],
+  [
+   "Department Store Perfume Counter",
+   "waving away a perfume spray with a dramatic cough"
+  ],
+  [
+   "Shopping Mall Kiosk",
+   "dodging a lotion sample with an exaggerated cough"
+  ],
+  [
+   "Food Truck Line",
+   "holding a phone to order and coughing at a line-cutter"
+  ],
+  [
+   "Deli Counter",
+   "holding a number ticket and coughing at a long-winded order"
+  ],
+  [
+   "Roadside Diner Booth",
+   "stirring coffee and coughing at a tall tale from the next booth"
+  ],
+  [
+   "Steakhouse Bar Seat",
+   "holding a menu and coughing at a show-off ordering wine"
+  ],
+  [
+   "Rooftop Lounge",
+   "holding a cocktail by the railing with a sly cough"
+  ],
+  [
+   "Golf Course Clubhouse",
+   "holding a scorecard and coughing at an inflated score"
+  ],
+  [
+   "Fishing Pier",
+   "holding a rod and coughing at a fish-size exaggeration"
+  ],
+  [
+   "Campground Fire Pit",
+   "roasting a marshmallow and coughing at a campfire tall tale"
+  ],
+  [
+   "Train Station Platform",
+   "holding a coffee and coughing at a delay excuse on the speaker"
+  ],
+  [
+   "Highway Rest Stop",
+   "stretching beside a vending machine with a road-trip cough"
+  ],
+  [
+   "Ride-Share Back Seat",
+   "sitting with a seatbelt on and coughing at the driver's crypto tips"
+  ],
+  [
+   "Hotel Lobby Couch",
+   "sitting with a travel bag and coughing at a loud business call"
+  ],
+  [
+   "Cruise Ship Deck",
+   "leaning on the rail and coughing at an excursion upsell"
+  ],
+  [
+   "Urgent Care Check-In Desk",
+   "filling out a clipboard form with a theatrical cough"
+  ],
+  [
+   "Dentist Office Front Desk",
+   "holding an appointment card and coughing at a flossing lecture"
+  ],
+  [
+   "Optometrist Frame Wall",
+   "trying on frames and coughing at a designer-lens pitch"
+  ],
+  [
+   "Veterinary Clinic Lobby",
+   "holding a dog leash and coughing at a pet owner's bragging"
+  ],
+  [
+   "Apartment Leasing Office",
+   "holding a lease packet and coughing at a surprise fee"
+  ],
+  [
+   "Moving Truck Ramp",
+   "carrying a box and coughing at a friend's excuse for not helping"
+  ],
+  [
+   "Classic Car Show Lot",
+   "standing by a vintage hood and coughing at a horsepower brag"
+  ],
+  [
+   "Book Club Living Room",
+   "holding a paperback and coughing at someone who never read it"
+  ],
+  [
+   "Front Porch Swing",
+   "holding iced tea and coughing at neighborhood gossip"
+  ],
+  [
+   "Community Center Bingo Hall",
+   "holding a dauber and coughing at a sore loser"
+  ],
+  [
+   "Pickleball Court Sidelines",
+   "holding a paddle and coughing at a line-call dispute"
+  ]
+ ],
+ "openers": [
+  "Okay, this shirt says exactly what I'm thinking.",
+  "Somebody had to wear this one in public.",
+  "This shirt does all the talking for me.",
+  "I found my new favorite shirt.",
+  "People keep stopping me because of this shirt.",
+  "I wore this today just to see the reactions.",
+  "This is my polite way of saying no thanks.",
+  "My allergies have never looked this good.",
+  "You only need to read this shirt once.",
+  "This shirt is my official response to nonsense.",
+  "Everybody laughs when they finish reading this one.",
+  "I'm not sick, I'm just wearing my favorite shirt.",
+  "This shirt saves me from a lot of small talk.",
+  "Best shirt I've bought all year, no contest."
+ ],
+ "details": [
+  "The red rounded box at the bottom is what gets everyone.",
+  "The white print really pops against the black cotton.",
+  "It's super soft and fits just right, so I wear it all the time.",
+  "That big slab headline grabs attention from across the room.",
+  "The tall condensed letters stack up perfectly down the front.",
+  "It makes a great gift for the coworker who's heard it all.",
+  "The joke lands before I even open my mouth.",
+  "It's comfy enough for errands and bold enough for a meeting.",
+  "The red box makes the punchline impossible to miss.",
+  "Honestly, it's the perfect gift for anyone with zero patience for nonsense.",
+  "The print is crisp and the fabric feels thick and soft.",
+  "Everyone reads it top to bottom and cracks up at the red box."
+ ],
+ "followups": [
+  "Then they fake a small cough into their elbow and point to the red box.",
+  "Then they tug the hem down to show the whole graphic.",
+  "Then they tap the headline twice and raise an eyebrow.",
+  "Then they clear their throat and smooth out the front of the shirt.",
+  "Then they turn slightly toward the camera and open their arms.",
+  "Then they run a finger down the printed lines and grin.",
+  "Then they give a tiny cough, shrug, and show the shirt again.",
+  "Then they pinch the shoulder seams to straighten the print."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from coworkers nearby, as if they just read the shirt.",
+  "Add a few soft chuckles and a surprised laugh from strangers nearby, as if they just read the shirt.",
+  "Add genuine background giggles from friends off-camera, real and a little messy, not a laugh track.",
+  "Add a quick burst of natural laughter from people nearby right after the line, as if the joke just landed."
+ ],
+ "titles": [
+  "Allergic To Nonsense 😂",
+  "This Shirt Coughs For Me",
+  "Read It Till The Red Box 😂",
+  "My Polite Excuse Me Shirt",
+  "The Shirt Every Meeting Needs 😂",
+  "Sales Pitch Repellent Tee",
+  "When Your Allergies Kick In",
+  "Best Gift For Your Work Bestie 😂",
+  "Everyone Stops To Read This",
+  "The Fake Cough Shirt"
+ ],
+ "tags": [
+  "#Allergic",
+  "#FakeCough",
+  "#OfficeHumor",
+  "#WorkHumor",
+  "#SarcasticShirt",
+  "#FunnyTShirt",
+  "#AdultHumor",
+  "#SarcasmLovers",
+  "#StatementTee",
+  "#FunnyGift",
+  "#CoworkerGift",
+  "#NoPatience",
+  "#ShirtCheck"
+ ]
+}

@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Post Office Counter",
+   "weighing a lumpy package with a tight smile"
+  ],
+  [
+   "Hardware Store Paint Desk",
+   "shaking a gallon of paint while nodding politely"
+  ],
+  [
+   "Apartment Leasing Office",
+   "sliding a lease across the desk"
+  ],
+  [
+   "Courthouse Clerk Window",
+   "stamping a stack of filings"
+  ],
+  [
+   "Tire Shop Waiting Area",
+   "holding a clipboard of tire quotes"
+  ],
+  [
+   "Laundromat Folding Table",
+   "folding towels while listening to a complaint"
+  ],
+  [
+   "Deli Counter",
+   "wrapping sliced turkey for a picky order"
+  ],
+  [
+   "Bakery Display Case",
+   "boxing up a dozen donuts"
+  ],
+  [
+   "Pizza Takeout Counter",
+   "handing over a pizza box with a stiff grin"
+  ],
+  [
+   "Brewery Taproom",
+   "pulling a draft beer from the tap"
+  ],
+  [
+   "Diner Lunch Counter",
+   "refilling coffee mugs down the counter"
+  ],
+  [
+   "Food Truck Window",
+   "passing tacos through the window"
+  ],
+  [
+   "Bowling Alley Shoe Counter",
+   "spraying a pair of rental shoes"
+  ],
+  [
+   "Cell Phone Store",
+   "explaining a data plan for the third time"
+  ],
+  [
+   "Electronics Store Tech Bar",
+   "unboxing a returned laptop"
+  ],
+  [
+   "Furniture Showroom",
+   "waiting beside a sofa while a shopper bounces on it"
+  ],
+  [
+   "Mattress Store",
+   "smoothing the sheet on a display bed"
+  ],
+  [
+   "Bridal Shop Lounge",
+   "holding a garment bag with a patient smile"
+  ],
+  [
+   "Shoe Store Sales Floor",
+   "balancing a tower of shoe boxes"
+  ],
+  [
+   "Mall Kiosk",
+   "offering a lotion sample to passersby"
+  ],
+  [
+   "Farmers Market Stand",
+   "bagging tomatoes for a haggling shopper"
+  ],
+  [
+   "Garden Center Checkout",
+   "ringing up a cart of potted plants"
+  ],
+  [
+   "Auto Parts Store Counter",
+   "looking up a part number on a screen"
+  ],
+  [
+   "Oil Change Shop Office",
+   "reading a service checklist out loud"
+  ],
+  [
+   "Train Station Ticket Window",
+   "printing a ticket with a slow sigh"
+  ],
+  [
+   "Bus Terminal Ticket Counter",
+   "checking a bus schedule on a printout"
+  ],
+  [
+   "Baggage Claim Carousel",
+   "watching the same suitcase circle again"
+  ],
+  [
+   "Airport Security Line",
+   "placing shoes into a gray bin"
+  ],
+  [
+   "Cruise Terminal Check-In",
+   "holding a stack of boarding passes"
+  ],
+  [
+   "Campground Ranger Booth",
+   "handing a parking pass through the window"
+  ],
+  [
+   "Toll Plaza Booth",
+   "making change through the window"
+  ],
+  [
+   "Parking Garage Pay Booth",
+   "validating a parking ticket"
+  ],
+  [
+   "City Hall Permit Office",
+   "reviewing a building permit application"
+  ],
+  [
+   "Tax Prep Office",
+   "sorting a shoebox full of receipts"
+  ],
+  [
+   "Insurance Agency Desk",
+   "highlighting a claim form"
+  ],
+  [
+   "Real Estate Open House",
+   "holding a stack of flyers in a bright kitchen"
+  ],
+  [
+   "Mortgage Broker Office",
+   "walking through a loan application"
+  ],
+  [
+   "Notary Public Desk",
+   "pressing a notary seal onto a document"
+  ],
+  [
+   "Passport Office Counter",
+   "checking a passport photo against a ruler"
+  ],
+  [
+   "Social Security Office",
+   "filling out a form on a clipboard"
+  ],
+  [
+   "Jury Duty Assembly Room",
+   "sitting with a juror badge clipped to the sleeve"
+  ],
+  [
+   "Utility Company Payment Window",
+   "counting out a payment at the glass"
+  ],
+  [
+   "IT Help Desk",
+   "resetting a password on a monitor"
+  ],
+  [
+   "Coworking Space Front Desk",
+   "signing in a visitor on a tablet"
+  ],
+  [
+   "Office Mailroom",
+   "sorting packages into bins"
+  ],
+  [
+   "Copy Center Counter",
+   "pulling warm pages from a copier"
+  ],
+  [
+   "Warehouse Loading Dock",
+   "signing a delivery receipt"
+  ],
+  [
+   "Storage Unit Office",
+   "handing over a padlock and gate code"
+  ],
+  [
+   "Veterinary Clinic Lobby",
+   "checking in a dog on a leash"
+  ],
+  [
+   "Eyeglass Store Fitting Table",
+   "adjusting a pair of frames"
+  ],
+  [
+   "Gym Check-In Counter",
+   "scanning a membership card"
+  ],
+  [
+   "Golf Course Pro Shop",
+   "ringing up a sleeve of golf balls"
+  ],
+  [
+   "Ski Rental Shop",
+   "adjusting a ski boot buckle"
+  ],
+  [
+   "Bike Repair Shop",
+   "pumping up a flat tire"
+  ],
+  [
+   "Marina Fuel Dock",
+   "coiling a dock line"
+  ],
+  [
+   "Fishing Bait Shop",
+   "scooping bait into a foam cup"
+  ],
+  [
+   "Barbershop Chair",
+   "sweeping hair off the floor"
+  ],
+  [
+   "Tattoo Parlor Counter",
+   "flipping through a design binder"
+  ],
+  [
+   "Wedding Reception Bar",
+   "mixing a cocktail at a portable bar"
+  ],
+  [
+   "Casino Cashier Cage",
+   "counting a stack of chips"
+  ],
+  [
+   "Concert Venue Merch Table",
+   "folding band shirts on a table"
+  ],
+  [
+   "Stadium Hot Dog Stand",
+   "handing over a hot dog with mustard"
+  ],
+  [
+   "Hotel Banquet Hall",
+   "setting place cards on round tables"
+  ],
+  [
+   "Public Library Circulation Desk",
+   "scanning a pile of returned books"
+  ],
+  [
+   "Community Center Bingo Hall",
+   "calling out bingo numbers"
+  ],
+  [
+   "Blood Donation Center",
+   "pressing a cotton ball to a donor's arm"
+  ],
+  [
+   "Pawn Shop Counter",
+   "examining a used electric guitar"
+  ],
+  [
+   "Liquor Store Register",
+   "checking an ID at the register"
+  ],
+  [
+   "Valet Parking Stand",
+   "handing back a set of car keys"
+  ],
+  [
+   "Dry Cleaner Counter",
+   "hanging plastic-wrapped shirts on a rack"
+  ]
+ ],
+ "openers": [
+  "Okay, shirt check.",
+  "Real quick, look at this shirt.",
+  "I wore this on purpose today.",
+  "So this shirt happened.",
+  "Everybody keeps stopping me over this one.",
+  "Be honest, is this too much?",
+  "New favorite shirt, no contest.",
+  "My coworkers made me show you this.",
+  "This is my customer service uniform now.",
+  "I need you to read this slowly.",
+  "Somebody gifted me this and I love it.",
+  "Look what I found for work days.",
+  "This shirt does the talking for me.",
+  "Fair warning, this one gets reactions."
+ ],
+ "details": [
+  "The white slab-serif lines read like a calm confession, and then the big white script hits.",
+  "That big white script at the bottom is the punchline, and you can read it from across the room.",
+  "Crisp white lettering on black cotton, so every single line pops.",
+  "The little white underline under the script is the perfect finishing touch.",
+  "It's soft, it fits great, and the print still looks brand new after washing.",
+  "Anyone who works with the public gets this joke in about two seconds.",
+  "The stacked slab-serif lines build up the setup, and the script lands the joke.",
+  "It's the perfect gift for that coworker who smiles through every bad shift.",
+  "Lowercase slab-serif up top, giant flowing script below, and it just works.",
+  "The black shirt makes the white print look sharp in any light.",
+  "It says exactly what I'm thinking without me having to say a word.",
+  "Comfortable enough for a double shift, funny enough to start conversations."
+ ],
+ "followups": [
+  "Then they point to the big white script and grin.",
+  "Then they tug the hem down so the whole print shows.",
+  "Then they trace the white underline with one finger.",
+  "Then they smooth the front of the shirt and wink at the camera.",
+  "Then they pinch the fabric to show the soft cotton.",
+  "Then they step back so the camera catches the full design.",
+  "Then they tap the top line and shrug with a smile.",
+  "Then they straighten the shoulders of the shirt and laugh."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from coworkers nearby, as if they just read the shirt.",
+  "Add a few amused chuckles from customers in line, as if they just read the shirt.",
+  "Add soft ambient chatter and one surprised laugh nearby, as if someone just read the shirt.",
+  "Add quiet background noise of the workplace and a friendly snort of laughter from a coworker reading the shirt."
+ ],
+ "titles": [
+  "Customer Service Energy 😂",
+  "Every Retail Worker Needs This Shirt",
+  "Smiling Through It All 😂",
+  "The Most Honest Work Shirt Ever",
+  "When Your Job Requires Patience",
+  "Read The Bottom Line 😂",
+  "This Shirt Gets Every Coworker",
+  "Gift Idea For Your Work Bestie",
+  "Nobody Is Ready For This Shirt",
+  "The Shirt Says What I Can't 🙃"
+ ],
+ "tags": [
+  "#CustomerService",
+  "#RetailLife",
+  "#WorkHumor",
+  "#OfficeHumor",
+  "#ServiceIndustry",
+  "#SarcasticShirt",
+  "#FunnyShirts",
+  "#ShirtCheck",
+  "#StatementTee",
+  "#FunnyGift",
+  "#SarcasmLovers",
+  "#CoworkerGift",
+  "#DarkHumor"
+ ]
+}

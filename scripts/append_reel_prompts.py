@@ -105,7 +105,8 @@ def entry(n, location, action, design, data, rng):
     loc = location_phrase(location)
     wording, look = design["wording"], design["look"]
     line = f"{rng.choice(data['openers'])} {rng.choice(data['details'])}"
-    tags = " ".join(design["design_tags"] + rng.sample(data["tags"], 9 - len(design["design_tags"])) + ["#Reels"])
+    extra = [t for t in data["tags"] if t.lower() not in {d.lower() for d in design["design_tags"]}]
+    tags = " ".join(design["design_tags"] + rng.sample(extra, 9 - len(design["design_tags"])) + ["#Reels"])
 
     image = (
         "Use the attached mockup image as the EXACT T-shirt reference: the shirt in the image must be the shirt the person wears, unchanged. "

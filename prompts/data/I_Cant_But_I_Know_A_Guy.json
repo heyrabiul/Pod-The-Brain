@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Flooded Basement",
+   "shining a flashlight at a puddle with a phone pressed to one ear"
+  ],
+  [
+   "Attic Insulation Project",
+   "holding a roll of pink insulation and grinning at the camera"
+  ],
+  [
+   "Leaky Kitchen Sink",
+   "standing beside an open sink cabinet holding up a phone"
+  ],
+  [
+   "Bathroom Tile Job",
+   "holding a tile spacer between two fingers and shrugging"
+  ],
+  [
+   "Deck Staining Weekend",
+   "resting a stain brush on a bucket and pointing at a phone screen"
+  ],
+  [
+   "Self-Storage Unit",
+   "rolling up a storage unit door and scrolling contacts"
+  ],
+  [
+   "Apartment Stairwell",
+   "steadying one end of a couch on the stairs and nodding at the camera"
+  ],
+  [
+   "Rental Truck Counter",
+   "sliding a reservation form across the counter"
+  ],
+  [
+   "Self-Serve Car Wash Bay",
+   "holding a pressure wand and laughing"
+  ],
+  [
+   "Roadside Shoulder",
+   "holding a lug wrench beside a flat tire"
+  ],
+  [
+   "Body Shop Estimate Desk",
+   "showing a photo of a dented fender on a phone"
+  ],
+  [
+   "Motorcycle Dealership",
+   "resting a hand on a motorcycle seat"
+  ],
+  [
+   "Boat Ramp",
+   "raising one hand to guide a trailer backing down the ramp"
+  ],
+  [
+   "Marina Fuel Dock",
+   "coiling a dock line over one arm"
+  ],
+  [
+   "RV Campground",
+   "pointing up at an RV awning that won't extend"
+  ],
+  [
+   "Hunting Cabin Porch",
+   "sipping coffee and pointing toward a woodpile"
+  ],
+  [
+   "Roadside Firewood Stand",
+   "loading split logs into a wheelbarrow"
+  ],
+  [
+   "Landscaping Supply Yard",
+   "standing beside mulch piles holding a shovel"
+  ],
+  [
+   "Garden Center Greenhouse",
+   "holding a potted tomato plant and dialing a number"
+  ],
+  [
+   "Pool Supply Store",
+   "holding up a pool water test kit"
+  ],
+  [
+   "Above-Ground Pool Deck",
+   "leaning on a skimmer pole beside cloudy water"
+  ],
+  [
+   "Wedding Reception Hall",
+   "raising a glass and pointing toward the DJ booth"
+  ],
+  [
+   "Steakhouse Booth",
+   "sliding a business card across the table"
+  ],
+  [
+   "Bowling Alley Lanes",
+   "holding a bowling ball against one hip"
+  ],
+  [
+   "Pool Hall",
+   "chalking a cue and glancing at the camera"
+  ],
+  [
+   "Karaoke Night Stage",
+   "holding a microphone and pointing at a friend"
+  ],
+  [
+   "Brewery Taproom",
+   "holding a flight paddle of beers"
+  ],
+  [
+   "Honky-Tonk Dance Floor",
+   "tipping a cowboy hat between songs"
+  ],
+  [
+   "Poker Night Card Table",
+   "stacking chips and grinning"
+  ],
+  [
+   "Fantasy Football Draft Party",
+   "holding a marker beside a draft board"
+  ],
+  [
+   "Stadium Concourse",
+   "holding a hot dog and a ticket stub"
+  ],
+  [
+   "County Fair Midway",
+   "holding a corn dog and pointing at a ride"
+  ],
+  [
+   "Rodeo Grandstand",
+   "leaning on a railing with a lemonade"
+  ],
+  [
+   "Farmers Market Booth",
+   "handing over a jar of local honey"
+  ],
+  [
+   "Food Truck Window",
+   "waiting for an order with a phone in hand"
+  ],
+  [
+   "Laundromat",
+   "folding a towel on top of a dryer"
+  ],
+  [
+   "Dry Cleaner Counter",
+   "picking up a suit on a hanger"
+  ],
+  [
+   "Post Office Line",
+   "holding a package under one arm"
+  ],
+  [
+   "DMV Waiting Room",
+   "holding a ticket number slip and smirking"
+  ],
+  [
+   "Locksmith Shop",
+   "jingling a ring of keys"
+  ],
+  [
+   "Laundry Room With A Broken Washer",
+   "patting the lid of a broken washer"
+  ],
+  [
+   "Side Yard AC Unit",
+   "pointing at a silent air conditioner while fanning themselves"
+  ],
+  [
+   "Breaker Box Wall",
+   "flipping a breaker and looking at the camera"
+  ],
+  [
+   "Water Heater Closet",
+   "tapping on a water heater tank"
+  ],
+  [
+   "Gutter Cleaning Ladder",
+   "standing at the foot of a ladder holding a gutter scoop"
+  ],
+  [
+   "Brick Paver Patio Project",
+   "holding a paver and looking up from the sand bed"
+  ],
+  [
+   "Fresh Concrete Slab",
+   "holding a trowel beside wet concrete"
+  ],
+  [
+   "Welding Shop",
+   "lifting a welding helmet up off the face"
+  ],
+  [
+   "Machine Shop",
+   "holding a steel caliper up to the light"
+  ],
+  [
+   "Tractor Dealership",
+   "leaning against a huge tractor tire"
+  ],
+  [
+   "Hay Barn",
+   "resting a boot on a hay bale"
+  ],
+  [
+   "Livestock Auction Barn",
+   "holding up a bidder card"
+  ],
+  [
+   "Junk Removal Pickup",
+   "pointing at a pile of old furniture"
+  ],
+  [
+   "Estate Sale Living Room",
+   "holding an antique lamp"
+  ],
+  [
+   "Pawn Shop Counter",
+   "sliding a guitar case across the counter"
+  ],
+  [
+   "Music Store Guitar Wall",
+   "holding an acoustic guitar by the neck"
+  ],
+  [
+   "Golf Driving Range",
+   "leaning on a golf club beside a bucket of balls"
+  ],
+  [
+   "Lake Dock",
+   "sitting on a dock post with a fishing rod"
+  ],
+  [
+   "Campfire Site",
+   "roasting a hot dog on a long stick"
+  ],
+  [
+   "Trailhead Parking Lot",
+   "tightening a backpack strap"
+  ],
+  [
+   "Car Audio Install Shop",
+   "holding a subwoofer box"
+  ],
+  [
+   "Windshield Repair Van",
+   "pointing at a chip in a windshield"
+  ],
+  [
+   "Impound Lot Gate",
+   "holding release paperwork and a phone"
+  ],
+  [
+   "Quick Lube Drive-Thru",
+   "standing by an open hood holding an oil change receipt"
+  ],
+  [
+   "Tattoo Parlor Lobby",
+   "flipping through a flash art binder"
+  ],
+  [
+   "Apartment Leasing Office",
+   "picking up a set of new keys"
+  ],
+  [
+   "Home Inspection Walkthrough",
+   "pointing at a crack in a drywall seam"
+  ],
+  [
+   "Flooring Showroom",
+   "holding up a carpet sample"
+  ],
+  [
+   "Stuck Garage Door",
+   "pointing at a garage door stuck halfway open"
+  ],
+  [
+   "Parking Deck With A Dead Battery",
+   "holding a set of jumper cables"
+  ]
+ ],
+ "openers": [
+  "Every time I need something fixed, this shirt does the talking.",
+  "I wear this so nobody has to ask twice.",
+  "This shirt is basically my whole resume.",
+  "People read this and immediately hand me their problem.",
+  "Honestly, this is the most accurate shirt I own.",
+  "Somebody always reads this and asks for the number.",
+  "I can't fix it, but this shirt explains the rest.",
+  "This shirt answers the question before anyone asks it.",
+  "My friends bought me this and they weren't wrong.",
+  "Wear this once and suddenly everyone needs a favor.",
+  "This shirt gets more reactions than I do.",
+  "I don't need a business card, I've got this shirt.",
+  "Read it slowly, it gets better at the end.",
+  "Every neighbor on the block knows this shirt by now."
+ ],
+ "details": [
+  "That giant red A GUY is what gets the laugh every time.",
+  "The little red cross at the end makes it look like an emergency hotline.",
+  "The white heavy caps hit first, then the red A GUY seals the deal.",
+  "It's soft, it fits right, and the print stays crisp on the black cotton.",
+  "The red cross symbol at the end is the perfect finishing touch.",
+  "Great gift for the dad who has a guy for literally everything.",
+  "The tall white letters stack up and the red A GUY steals the show.",
+  "Perfect for that handy friend whose phone is full of contacts.",
+  "The red really pops against the black, and the fabric feels great.",
+  "The condensed white caps build it up, and the red A GUY lands the joke.",
+  "It's comfy enough to wear all weekend and bold enough to read from across the room.",
+  "Every handy friend needs one, and that red cross makes it official."
+ ],
+ "followups": [
+  "Then they hold up their phone like they're calling the guy and tap the red A GUY.",
+  "Then they straighten the hem and point down at the red cross symbol.",
+  "Then they run a finger along the white caps, line by line.",
+  "Then they shrug, grin, and point at the giant red A GUY.",
+  "Then they pinch the fabric at the shoulder to show the soft cotton.",
+  "Then they hold the phone to one ear and give a thumbs up at the print.",
+  "Then they step back so the whole print fits in frame and smile.",
+  "Then they tap the red cross symbol twice and wink at the camera."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Add a few amused chuckles and someone nearby saying they need the guy's number.",
+  "Add soft background laughter and a friendly whistle from someone who just read the shirt.",
+  "Add relaxed background chatter that breaks into laughter, as if a few people just read the shirt."
+ ],
+ "titles": [
+  "Everybody Needs This Guy 😂",
+  "The Shirt Every Handy Friend Needs",
+  "I Can't... But I Know A Guy 🔧",
+  "When Your Contacts List Is Your Toolbox",
+  "The Perfect Gift For Dad 😂",
+  "This Shirt Fixes Everything (Sort Of)",
+  "Read It Until The Red Part",
+  "The Most Honest Shirt I Own",
+  "Need Something Fixed? Read The Shirt 😂",
+  "My Whole Personality On A Tee"
+ ],
+ "tags": [
+  "#IKnowAGuy",
+  "#ICantButIKnowAGuy",
+  "#FunnyTShirt",
+  "#DadHumor",
+  "#GiftIdea",
+  "#HandymanHumor",
+  "#DIYLife",
+  "#FriendGroup",
+  "#SarcasticShirt",
+  "#FunnyGift",
+  "#HomeRepairHumor",
+  "#StatementTee",
+  "#GuyWhoKnowsAGuy"
+ ]
+}

@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Bank Teller Line",
+   "holding a deposit slip while the line barely moves"
+  ],
+  [
+   "Car Wash Waiting Lounge",
+   "sipping free coffee while the car crawls through the tunnel"
+  ],
+  [
+   "Tire Shop Waiting Area",
+   "sitting under a muted TV with legs stretched out"
+  ],
+  [
+   "Quick Lube Oil Change Bay",
+   "standing beside the car with hands in pockets"
+  ],
+  [
+   "Pharmacy Pickup Counter",
+   "leaning on the counter after hearing it will be ten more minutes"
+  ],
+  [
+   "Deli Counter Number Line",
+   "holding a paper number ticket with zero urgency"
+  ],
+  [
+   "Hardware Store Paint Counter",
+   "waiting for a paint can to finish shaking"
+  ],
+  [
+   "Cable Company Service Desk",
+   "holding an old cable box with a calm, blank stare"
+  ],
+  [
+   "Airport Baggage Claim Carousel",
+   "watching the same lonely suitcase loop past again"
+  ],
+  [
+   "Delayed Train Platform",
+   "glancing up at the delay board and shrugging"
+  ],
+  [
+   "City Bus Stop Bench",
+   "sitting back with one arm over the bench while the bus runs late"
+  ],
+  [
+   "Highway Rest Stop",
+   "stretching beside a vending machine on a long road trip"
+  ],
+  [
+   "Rental Car Counter",
+   "leaning on a rolling suitcase while the agent types forever"
+  ],
+  [
+   "Hotel Check-In Desk",
+   "waiting with a key card envelope and a flat look"
+  ],
+  [
+   "Cruise Ship Muster Station",
+   "standing through the safety drill with a life vest held at the side"
+  ],
+  [
+   "Toll Plaza Backup",
+   "resting a hand on the steering wheel with the window rolled down"
+  ],
+  [
+   "Construction Detour Road",
+   "idling in the driver's seat behind an orange detour sign"
+  ],
+  [
+   "Quarterly Budget Review",
+   "leaning back while spreadsheets fill the projector screen"
+  ],
+  [
+   "All-Hands Town Hall Auditorium",
+   "sitting in an aisle seat with a coffee during the endless slideshow"
+  ],
+  [
+   "Team-Building Ropes Course",
+   "standing at the base of the course holding a helmet"
+  ],
+  [
+   "Corporate Retreat Lodge",
+   "slouching on a lodge sofa during the icebreaker game"
+  ],
+  [
+   "Home Office Video Call",
+   "sitting at the desk with the camera on and a blank expression"
+  ],
+  [
+   "Office Birthday Cake Huddle",
+   "holding a paper plate of sheet cake while everyone sings"
+  ],
+  [
+   "Performance Review Office",
+   "sitting across the desk with hands folded and a calm face"
+  ],
+  [
+   "Holiday Office Party",
+   "standing by the punch bowl in front of a tinsel backdrop"
+  ],
+  [
+   "Engagement Party Living Room",
+   "holding a champagne flute while the toasts drag on"
+  ],
+  [
+   "Bachelor Party Limo",
+   "lounging on the side bench seat with a soda while the group cheers"
+  ],
+  [
+   "Karaoke Bar Side Booth",
+   "sitting in a booth while someone belts a power ballad"
+  ],
+  [
+   "Dive Bar Jukebox",
+   "leaning on the jukebox while friends argue over the next song"
+  ],
+  [
+   "Brewery Taproom",
+   "holding a beer flight paddle while friends gossip across the table"
+  ],
+  [
+   "Wine Tasting Room",
+   "swirling a glass while the host describes notes of oak"
+  ],
+  [
+   "Sports Bar Big Game Night",
+   "sipping a soda while the whole bar screams at the TV"
+  ],
+  [
+   "House Party Kitchen",
+   "eating chips by the fridge while drama unfolds in the next room"
+  ],
+  [
+   "Neighborhood Block Party",
+   "sitting in a folding chair by a grill with a lemonade"
+  ],
+  [
+   "Golf Clubhouse Patio",
+   "waiting for a delayed tee time with a lemonade"
+  ],
+  [
+   "Thanksgiving Dinner Table",
+   "passing the mashed potatoes during a heated family debate"
+  ],
+  [
+   "Housewarming Party Patio",
+   "holding a gift bag and nodding through the house tour"
+  ],
+  [
+   "Wedding Ceremony Back Pew",
+   "sitting in the back row with a folded program, unimpressed"
+  ],
+  [
+   "Timeshare Presentation Room",
+   "sitting at a sales table holding a free vacation voucher"
+  ],
+  [
+   "Real Estate Open House",
+   "holding a flyer while the agent raves about granite countertops"
+  ],
+  [
+   "Furniture Store Showroom",
+   "sinking into a display recliner without moving an inch"
+  ],
+  [
+   "Mattress Store Floor",
+   "sitting on the edge of a display mattress while the salesperson pitches"
+  ],
+  [
+   "Black Friday Store Line",
+   "standing outside in the dawn line holding a coffee"
+  ],
+  [
+   "Concert Merch Table Line",
+   "waiting in line with hands in back pockets"
+  ],
+  [
+   "Casino Buffet Line",
+   "holding an empty plate in a slow buffet line"
+  ],
+  [
+   "Restaurant Waitlist Bench",
+   "holding a buzzing table pager with a deadpan look"
+  ],
+  [
+   "Brunch Spot Sidewalk Wait",
+   "standing on the sidewalk with sunglasses pushed up, waiting for a table"
+  ],
+  [
+   "Food Truck Line",
+   "waiting with a paper receipt and a blank stare"
+  ],
+  [
+   "Movie Theater Lobby",
+   "holding a giant tub of popcorn while friends debate seats"
+  ],
+  [
+   "Campground Picnic Table",
+   "sitting with a tin mug while the campfire refuses to start"
+  ],
+  [
+   "Lake Dock",
+   "sitting on the edge of the dock with feet dangling over the water"
+  ],
+  [
+   "Hammock Under Shade Trees",
+   "swinging lazily with a drink in hand"
+  ],
+  [
+   "Living Room Sofa",
+   "lounging with the remote on a lazy Sunday afternoon"
+  ],
+  [
+   "Front Porch Rocking Chair",
+   "rocking slowly with a glass of iced tea"
+  ],
+  [
+   "Driveway Lawn Chair",
+   "sitting back while the neighbors argue over a fence line"
+  ],
+  [
+   "Golf Course Cart Path",
+   "leaning on a golf cart after a terrible tee shot"
+  ],
+  [
+   "Fishing Pier",
+   "holding a fishing rod while nothing bites for hours"
+  ],
+  [
+   "Axe Throwing Lane",
+   "leaning on the rail while the lane runs behind schedule"
+  ],
+  [
+   "Nail Salon Pedicure Chair",
+   "relaxing in the massage chair while gossip flies across the salon"
+  ],
+  [
+   "Hair Salon Dryer Chair",
+   "sitting under a hood dryer flipping through a magazine"
+  ],
+  [
+   "Tax Prep Office",
+   "sitting across from an accountant with a shoebox of receipts"
+  ],
+  [
+   "Apartment Mailroom",
+   "dropping a stack of junk mail into the recycling bin"
+  ],
+  [
+   "Moving Day Truck Ramp",
+   "carrying a floor lamp down the truck ramp"
+  ],
+  [
+   "Auto Body Shop Counter",
+   "reading a repair estimate without flinching"
+  ],
+  [
+   "Ferry Deck",
+   "leaning on the railing while the ferry idles at the dock"
+  ],
+  [
+   "Casino Slot Floor",
+   "pressing a slot machine button with zero reaction"
+  ],
+  [
+   "Shopping Mall Food Court",
+   "eating noodles while shoppers rush past"
+  ],
+  [
+   "Warehouse Club Sample Aisle",
+   "holding a tiny sample cup in a long aisle line"
+  ],
+  [
+   "Stadium Concourse Hot Dog Stand",
+   "waiting in the halftime line with a calm shrug"
+  ],
+  [
+   "Office Fire Drill Sidewalk",
+   "standing outside the building with a coffee during the drill"
+  ]
+ ],
+ "openers": [
+  "Yes, I wore this on purpose.",
+  "This shirt does all the talking so I don't have to.",
+  "Someone asked if I was okay today, so I pointed at this.",
+  "I put zero effort into my outfit and it still won.",
+  "Honestly, this is my most accurate shirt.",
+  "People keep reading this and then nodding.",
+  "I bought this so I could stop explaining myself.",
+  "My friends said this shirt was basically my biography.",
+  "This is my official uniform for long waits.",
+  "I'm not saying anything, the shirt already did.",
+  "Everyone here read my shirt before saying hello.",
+  "This shirt has saved me a lot of small talk.",
+  "My calm face and this shirt are a matching set.",
+  "Some shirts are a vibe, this one is a statement."
+ ],
+ "details": [
+  "That lime-green last line hits like a punchline.",
+  "The bold middle phrase is impossible to miss from across the room.",
+  "The tall white letters pop perfectly against the black fabric.",
+  "The big lime-green line at the bottom is the best part.",
+  "It's soft enough that I actually stay this relaxed all day.",
+  "The fit is easy and roomy, just like my attitude.",
+  "The print reads top to bottom like a perfect setup and payoff.",
+  "It would make the perfect gift for the most unbothered person you know.",
+  "The condensed lettering looks sharp and clean up close.",
+  "That green contrast against black makes everyone stop and read it twice.",
+  "The cotton feels broken in from the very first wear.",
+  "It's the gift your calmest friend didn't know they needed."
+ ],
+ "followups": [
+  "Then they give a slow shrug and let the shirt speak.",
+  "Then they smooth the front of the shirt and stand up straight.",
+  "Then they tap the lime-green line and raise an eyebrow.",
+  "Then they pull the hem down so the full print shows.",
+  "Then they turn back to the camera with a deadpan stare.",
+  "Then they open their arms slightly to present the shirt.",
+  "Then they point at the bold middle phrase and smirk.",
+  "Then they lean back and let the camera take in the whole design."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from coworkers nearby, as if they just read the shirt.",
+  "Add soft, amused chuckles from friends nearby, as if they just finished reading the shirt.",
+  "Add light ambient chatter and a few surprised laughs from strangers nearby, as if they just noticed the shirt.",
+  "Add relaxed background laughter and one friend saying \"that's so true\" nearby, as if they just read the shirt."
+ ],
+ "titles": [
+  "Not Acting, Just Honest 😂",
+  "The Most Unbothered Shirt Ever",
+  "When Your Shirt Says What You Won't",
+  "Zero Effort, Maximum Message 😎",
+  "Me In Every Long Line",
+  "My Personality On A Shirt",
+  "The Perfect Gift For Your Chillest Friend",
+  "Read It To The End 😂",
+  "This Shirt Explains Everything",
+  "Calm, Quiet, Completely Honest"
+ ],
+ "tags": [
+  "#FunnyTShirt",
+  "#Unbothered",
+  "#SarcasticShirt",
+  "#AdultHumor",
+  "#StatementTee",
+  "#OfficeHumor",
+  "#GiftIdea",
+  "#FunnyGift",
+  "#ShirtCheck",
+  "#TShirtLovers",
+  "#EverydayHumor",
+  "#NoDrama",
+  "#GraphicTee"
+ ]
+}

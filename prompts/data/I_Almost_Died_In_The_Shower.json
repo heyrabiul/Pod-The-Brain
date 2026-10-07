@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Self-Serve Car Wash Bay",
+   "holding a foaming brush beside a soapy sedan"
+  ],
+  [
+   "Rainy Downtown Sidewalk",
+   "sidestepping a puddle under a clear umbrella"
+  ],
+  [
+   "Marina Boat Slip",
+   "steadying themselves on a wet dock railing"
+  ],
+  [
+   "Outdoor Ice Skating Rink",
+   "gripping the rink wall with a wobbly grin"
+  ],
+  [
+   "Water Park Adult Cabana",
+   "lounging in a shaded cabana with a lemonade"
+  ],
+  [
+   "Kitchen And Bath Showroom",
+   "running a hand along a polished stone countertop"
+  ],
+  [
+   "Tile Store Sample Wall",
+   "comparing glossy tile samples side by side"
+  ],
+  [
+   "Home Improvement Flooring Aisle",
+   "testing the grip of a textured floor sample with one shoe"
+  ],
+  [
+   "Coffee Shop Pickup Counter",
+   "waiting for a latte with arms relaxed"
+  ],
+  [
+   "Neighborhood Dive Bar",
+   "resting an elbow on the bar beside a pint"
+  ],
+  [
+   "Corporate Conference Room",
+   "presenting a slide to colleagues"
+  ],
+  [
+   "Grocery Store Produce Section",
+   "dodging the produce mister by the lettuce"
+  ],
+  [
+   "Post Office Line",
+   "holding a small package while waiting in line"
+  ],
+  [
+   "Bank Lobby",
+   "filling out a deposit slip at the counter"
+  ],
+  [
+   "Friends' Backyard Fire Pit",
+   "roasting a marshmallow over the flames"
+  ],
+  [
+   "Winery Tasting Room",
+   "swirling a glass of red at the tasting bar"
+  ],
+  [
+   "Brewery Taproom",
+   "holding up a flight of beer samples"
+  ],
+  [
+   "Rainy Supermarket Parking Lot",
+   "walking carefully between cars with grocery bags"
+  ],
+  [
+   "Ski Lodge Fireplace",
+   "warming hands by the stone fireplace"
+  ],
+  [
+   "Icy Driveway",
+   "sprinkling salt across the frozen driveway"
+  ],
+  [
+   "Bowling Alley Lane",
+   "holding a bowling ball at the foul line"
+  ],
+  [
+   "Adults-Only Roller Skating Night",
+   "wobbling on rental skates near the rail"
+  ],
+  [
+   "Kayak Rental Dock",
+   "carrying a paddle down the slick launch ramp"
+  ],
+  [
+   "Ferry Deck",
+   "holding the rail on a misty ferry deck"
+  ],
+  [
+   "Fish Market Counter",
+   "pointing at fresh salmon on crushed ice"
+  ],
+  [
+   "Rainy Farmers Market",
+   "browsing produce under a dripping tent"
+  ],
+  [
+   "Mall Food Court",
+   "carrying a tray past a wet floor sign"
+  ],
+  [
+   "Office Elevator Lobby",
+   "waiting for the elevator with a coffee"
+  ],
+  [
+   "Coworking Space Lounge",
+   "typing on a laptop from a low couch"
+  ],
+  [
+   "Waterfall Trail Overlook",
+   "stepping carefully over mossy rocks"
+  ],
+  [
+   "Beach Pier Railing",
+   "leaning on the pier railing in the breeze"
+  ],
+  [
+   "Golf Clubhouse Patio",
+   "holding a putter after a rainy round"
+  ],
+  [
+   "Pickleball Court Sideline",
+   "taking a break with a paddle and a water bottle"
+  ],
+  [
+   "Classic Diner Booth",
+   "pouring syrup over a stack of pancakes"
+  ],
+  [
+   "Sushi Bar Counter",
+   "lifting a roll with chopsticks"
+  ],
+  [
+   "Karaoke Bar Stage",
+   "holding a microphone between songs"
+  ],
+  [
+   "Pub Trivia Night",
+   "writing an answer on a trivia sheet"
+  ],
+  [
+   "Car Dealership Showroom",
+   "leaning against a shiny new car"
+  ],
+  [
+   "Auto Repair Shop Waiting Area",
+   "flipping through a car magazine"
+  ],
+  [
+   "Gas Station Pump",
+   "pumping gas in a light drizzle"
+  ],
+  [
+   "Garden Center Greenhouse",
+   "browsing ferns in the misty air"
+  ],
+  [
+   "Pool Supply Store",
+   "reading the label on a jug of pool cleaner"
+  ],
+  [
+   "Furniture Store Recliner Section",
+   "testing a power recliner"
+  ],
+  [
+   "Appliance Store Washer Aisle",
+   "opening the door of a front-load washer"
+  ],
+  [
+   "Senior Center Balance Class",
+   "holding a chair back during a balance exercise"
+  ],
+  [
+   "Sports Rehab Gym",
+   "stepping carefully across a foam balance pad"
+  ],
+  [
+   "Orthopedic Clinic Check-In Desk",
+   "signing in while wearing a wrist brace"
+  ],
+  [
+   "Optometrist Frame Display",
+   "trying on a pair of new glasses"
+  ],
+  [
+   "Dentist Office Waiting Room",
+   "flipping through a magazine with a smirk"
+  ],
+  [
+   "Insurance Agent Office",
+   "listening to an agent explain a claim form"
+  ],
+  [
+   "Hotel Lobby On A Rainy Day",
+   "shaking off an umbrella at the front desk"
+  ],
+  [
+   "Airport Gate Area",
+   "rolling a carry-on toward the gate"
+  ],
+  [
+   "Train Station Platform",
+   "waiting on a wet platform with a coffee"
+  ],
+  [
+   "City Bus Shelter",
+   "waiting out the rain under the shelter"
+  ],
+  [
+   "Rooftop Bar After The Rain",
+   "raising a cocktail on a damp rooftop"
+  ],
+  [
+   "Friends' Kitchen Island Potluck",
+   "setting down a casserole dish"
+  ],
+  [
+   "Friend's Garage Poker Night",
+   "stacking chips at a folding table"
+  ],
+  [
+   "Paint And Sip Studio",
+   "holding a brush near a half-finished canvas"
+  ],
+  [
+   "Bookstore Café",
+   "browsing a shelf with a coffee in hand"
+  ],
+  [
+   "Thrift Store Racks",
+   "flipping through vintage jackets"
+  ],
+  [
+   "Dry Cleaner Counter",
+   "picking up a pressed suit bag"
+  ],
+  [
+   "Car Rental Counter",
+   "signing a rental agreement"
+  ],
+  [
+   "DMV Waiting Area",
+   "holding a numbered ticket and sighing"
+  ],
+  [
+   "Real Estate Open House",
+   "admiring a freshly polished hardwood floor"
+  ],
+  [
+   "Downtown Fountain Plaza",
+   "sitting on the edge of a public fountain"
+  ],
+  [
+   "Riverside Boardwalk",
+   "walking on a slick boardwalk after rain"
+  ],
+  [
+   "Sailboat Cockpit",
+   "coiling a damp rope on deck"
+  ],
+  [
+   "Hockey Arena Concourse",
+   "carrying nachos to a hockey game seat"
+  ],
+  [
+   "Curling Club Ice Sheet",
+   "sliding a curling stone very carefully"
+  ],
+  [
+   "Ice Fishing Shanty",
+   "lowering a line through a hole in the ice"
+  ]
+ ],
+ "openers": [
+  "Okay, I have to show you this shirt.",
+  "This is officially my clumsy-person uniform.",
+  "Somebody finally made a shirt about my life.",
+  "I wore this today and people kept stopping me.",
+  "Read this shirt before you judge my balance.",
+  "This might be the most honest shirt I own.",
+  "My friends say this shirt is basically my biography.",
+  "Everyone in here just read my shirt.",
+  "I bought this one for myself, no shame.",
+  "This shirt explains every bruise I have.",
+  "You need to read this shirt slowly.",
+  "Best impulse buy I made all year.",
+  "I swear this shirt is a true story.",
+  "Look what my best friend got me."
+ ],
+ "details": [
+  "That little teal showerhead icon on top is my favorite part.",
+  "The brush-script line in the middle sneaks up on you every time.",
+  "The bold squeezed last line is what gets everybody laughing.",
+  "The white condensed lettering really pops on the black cotton.",
+  "It's super soft and the fit is relaxed without being baggy.",
+  "It's the perfect gift for that one friend who trips over nothing.",
+  "The way the lines stack makes people read it twice.",
+  "The print is crisp and still looks brand new after a bunch of washes.",
+  "That tiny teal showerhead is such a clever detail.",
+  "It makes a great birthday gift for anyone accident-prone.",
+  "The cotton feels thick and comfy, and the print stays sharp.",
+  "The mix of bold caps and brush script makes the whole joke land."
+ ],
+ "followups": [
+  "Then they do a fake little slip, catch themselves, and point at the print.",
+  "Then they wobble on one foot, laugh, and tap the teal showerhead icon.",
+  "Then they flail one arm like grabbing water, then smooth the shirt flat.",
+  "Then they pretend to lose their footing and steady themselves with a grin.",
+  "Then they tug the hem down so the whole graphic is in frame.",
+  "Then they trace the brush-script line with one finger.",
+  "Then they step back and spread their arms to show the full front.",
+  "Then they grab at the air dramatically and burst out laughing."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Add a few amused chuckles and a playful \"no way\" from someone off camera, as if they just read the shirt.",
+  "Add soft background laughter from nearby strangers who just caught the joke on the shirt.",
+  "Add light giggles and a friendly snort of laughter from a friend nearby, as if they finally reached the last line."
+ ],
+ "titles": [
+  "I Almost Died In The Shower 😂",
+  "The Most Relatable Clumsy Shirt",
+  "Read It To The Last Line 😂",
+  "Gift Idea For Your Clumsy Friend",
+  "This Shirt Is My Life Story",
+  "Everyone Laughs At The Last Line",
+  "Clumsy And Proud Of It 🤣",
+  "The Shirt That Gets Read Twice",
+  "Funny Shirt, True Story",
+  "Wait For The Ending 😂"
+ ],
+ "tags": [
+  "#ClumsyLife",
+  "#FunnyShirts",
+  "#FunnyTShirt",
+  "#AdultHumor",
+  "#SarcasticShirt",
+  "#FunnyGift",
+  "#GiftIdea",
+  "#StatementTee",
+  "#HumorShirt",
+  "#BirthdayGift",
+  "#TShirtLovers",
+  "#FriendGroup",
+  "#AccidentProne"
+ ]
+}

@@ -68,7 +68,7 @@ def read_design(doc):
 
 PROPER = {"Christmas", "Halloween", "Thanksgiving", "Fourth", "July", "Year's", "Eve", "Super", "Bowl",
           "March", "Madness", "Labor", "Memorial", "St.", "Patrick's", "Mardi", "Gras", "Vegas", "Texas",
-          "American", "Valentine's", "Friday", "Tuesday"}
+          "American", "Valentine's", "Monday", "Tuesday", "Friday", "Saturday", "Sunday"}
 
 
 def location_phrase(location):

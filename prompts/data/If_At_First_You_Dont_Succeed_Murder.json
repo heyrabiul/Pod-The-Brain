@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "True Crime Book Club",
+   "holding a true crime paperback"
+  ],
+  [
+   "Mystery Novel Signing",
+   "holding a book in the signing line"
+  ],
+  [
+   "Crime Museum Lobby",
+   "holding an admission ticket"
+  ],
+  [
+   "Detective Escape Room",
+   "holding a magnifying glass prop"
+  ],
+  [
+   "Murder Mystery Train Dinner",
+   "holding a character card at a dining table"
+  ],
+  [
+   "Costume Mystery Mansion Weekend",
+   "wearing a fake mustache with the shirt"
+  ],
+  [
+   "Clue Board Game Night",
+   "holding a game card with a smirk"
+  ],
+  [
+   "Mystery Dinner Cruise",
+   "sipping wine at a dinner table"
+  ],
+  [
+   "Crime Podcast Live Show",
+   "holding a ticket in the audience"
+  ],
+  [
+   "True Crime Convention",
+   "holding a convention lanyard"
+  ],
+  [
+   "Bookshop Cafe Reading Nook",
+   "reading with a latte"
+  ],
+  [
+   "Courtroom Drama Watch Party",
+   "holding a bowl of popcorn on the couch"
+  ],
+  [
+   "Forensic Science Museum Exhibit",
+   "looking at a fingerprint display"
+  ],
+  [
+   "Ghost Tour Night Walk",
+   "holding a lantern"
+  ],
+  [
+   "Haunted Hotel Lobby",
+   "checking in with a suitcase"
+  ],
+  [
+   "Masquerade Party",
+   "holding a mask on a stick"
+  ],
+  [
+   "Comedy Club Dark Humor Night",
+   "laughing at a small table"
+  ],
+  [
+   "Karaoke Duet Gone Wrong",
+   "holding a microphone with a frozen smile"
+  ],
+  [
+   "Office Group Project",
+   "staring at a laptop with a blank face"
+  ],
+  [
+   "Open Office Desk",
+   "putting on noise-canceling headphones"
+  ],
+  [
+   "Monday Meeting",
+   "holding a coffee with a deadpan stare"
+  ],
+  [
+   "Breakroom Microwave Line",
+   "waiting behind a coworker's fish lunch"
+  ],
+  [
+   "Printer Jam",
+   "staring down a jammed printer"
+  ],
+  [
+   "IT Help Desk",
+   "holding a frozen laptop"
+  ],
+  [
+   "Customer Service Phone Desk",
+   "holding a phone away from the ear"
+  ],
+  [
+   "Group Chat On The Couch",
+   "staring at a phone full of notifications"
+  ],
+  [
+   "Family Road Trip Car",
+   "sitting in the passenger seat with a map"
+  ],
+  [
+   "Moving Day Furniture Carry",
+   "holding one end of a couch on the stairs"
+  ],
+  [
+   "Furniture Assembly Living Room",
+   "holding an instruction sheet upside down"
+  ],
+  [
+   "Home Renovation Mess",
+   "standing in a half-demolished kitchen"
+  ],
+  [
+   "DIY Shelf Project",
+   "holding a crooked shelf"
+  ],
+  [
+   "Lawn Mower That Won't Start",
+   "pulling the mower cord"
+  ],
+  [
+   "Overgrown Flower Bed",
+   "holding a handful of pulled weeds"
+  ],
+  [
+   "Mosquito Season Patio",
+   "swatting at a bug with a magazine"
+  ],
+  [
+   "Bowling Alley Gutter Ball",
+   "holding a bowling ball after a gutter"
+  ],
+  [
+   "Putt-Putt Bar",
+   "watching a ball bounce off an obstacle"
+  ],
+  [
+   "Golf Sand Trap",
+   "standing in a bunker with a wedge"
+  ],
+  [
+   "Fishing Trip No Bites",
+   "holding a rod with an empty hook"
+  ],
+  [
+   "Fantasy Football Loss",
+   "staring at a phone with crossed arms"
+  ],
+  [
+   "Stadium Seats Bad Call",
+   "holding a beer during a bad call"
+  ],
+  [
+   "Pickleball Doubles",
+   "holding a paddle after a missed shot"
+  ],
+  [
+   "Monopoly Night At A Friend's Place",
+   "holding a stack of fake money"
+  ],
+  [
+   "Video Game Night",
+   "gripping a controller tightly"
+  ],
+  [
+   "Pizza Place Claw Machine",
+   "watching the claw drop the prize"
+  ],
+  [
+   "Game Show Watch Party",
+   "yelling an answer at the TV"
+  ],
+  [
+   "Smoke Alarm Apartment",
+   "holding a burnt tray of cookies"
+  ],
+  [
+   "Bakery Counter",
+   "holding a dozen donuts"
+  ],
+  [
+   "Brewery Beer Garden",
+   "holding a pint"
+  ],
+  [
+   "Wine Bar",
+   "swirling a glass of red"
+  ],
+  [
+   "Whiskey Tasting",
+   "holding a tasting glass"
+  ],
+  [
+   "Dive Bar Jukebox",
+   "picking a song"
+  ],
+  [
+   "Rooftop Bar",
+   "leaning on the railing with a cocktail"
+  ],
+  [
+   "Diner Booth Late Night",
+   "stirring coffee"
+  ],
+  [
+   "Food Truck Line",
+   "holding a burrito"
+  ],
+  [
+   "Convenience Store Snack Run",
+   "holding an energy drink"
+  ],
+  [
+   "Oil Change Waiting Bench",
+   "watching the car on the lift"
+  ],
+  [
+   "Auto Shop Estimate",
+   "reading a repair bill"
+  ],
+  [
+   "DMV Waiting Room",
+   "holding a number ticket"
+  ],
+  [
+   "Airport Delay",
+   "slumping in a gate chair"
+  ],
+  [
+   "Hotel Check-In Line",
+   "waiting with a suitcase"
+  ],
+  [
+   "Laundromat",
+   "folding laundry"
+  ],
+  [
+   "Gym Treadmill",
+   "walking slowly on a treadmill"
+  ],
+  [
+   "Yoga Class",
+   "holding a pose with gritted teeth"
+  ],
+  [
+   "Spin Class",
+   "pedaling slowly in the back row"
+  ],
+  [
+   "Tattoo Parlor",
+   "showing a fresh tattoo"
+  ],
+  [
+   "Barbershop Chair",
+   "checking a haircut in the mirror"
+  ],
+  [
+   "Thrift Store",
+   "holding up a vintage trench coat"
+  ],
+  [
+   "Record Store",
+   "flipping through vinyl"
+  ],
+  [
+   "Dog Park",
+   "holding a leash and a ball"
+  ],
+  [
+   "Front Porch",
+   "rocking in a chair with an iced tea"
+  ]
+ ],
+ "openers": [
+  "Okay, read it all the way down.",
+  "True crime fans, this one's for you.",
+  "This shirt is a technicality.",
+  "Everyone reads the last word twice.",
+  "My podcast friends loved this.",
+  "This shirt starts conversations, carefully.",
+  "Shirt check, dark humor edition.",
+  "Somebody had to wear it.",
+  "Wore this to the mystery dinner on purpose.",
+  "This shirt has a legal disclaimer built in.",
+  "My friends keep their distance now.",
+  "Best dark humor shirt I own.",
+  "Rate this shirt, one to ten.",
+  "Read the quotes, they matter."
+ ],
+ "details": [
+  "That red ATTEMPTED in quote marks is the best part.",
+  "The giant white MURDER at the bottom is impossible to miss.",
+  "The mixed-weight caps stack up so cleanly.",
+  "It's soft, fits great, and the print stays crisp.",
+  "Perfect gift for a true crime fan.",
+  "The red and white pop on the black cotton.",
+  "Great gift for anyone with a dark sense of humor.",
+  "The layout builds up to the punchline perfectly.",
+  "Still looks sharp after a bunch of washes.",
+  "The quote marks around ATTEMPTED make the joke.",
+  "Every podcast listener I know wants one.",
+  "Bold, dark and really funny."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then they tap the red ATTEMPTED and raise an eyebrow.",
+  "Then they make little air quotes with their fingers and grin.",
+  "Then they hold the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Add soft giggles and a short burst of laughter from people just off-camera.",
+  "Include a friend off-camera laughing and saying \"No way,\" mixed with natural ambient sound."
+ ],
+ "titles": [
+  "It's Only Attempted 😂",
+  "True Crime Fans Get It",
+  "Read The Quotes",
+  "Dark Humor Shirt Check",
+  "Gift For The True Crime Fan",
+  "Technically Speaking 😂",
+  "Try, Try Again",
+  "The Legal Disclaimer Shirt",
+  "Podcast Night Outfit",
+  "Read It All The Way Down"
+ ],
+ "tags": [
+  "#TrueCrime",
+  "#DarkHumor",
+  "#TrueCrimeJunkie",
+  "#MurderMystery",
+  "#FunnyTShirt",
+  "#SarcasticShirt",
+  "#AdultHumor",
+  "#FunnyGift",
+  "#GiftIdea",
+  "#StatementTee",
+  "#ShirtCheck",
+  "#HumorShirt",
+  "#PodcastLife"
+ ]
+}

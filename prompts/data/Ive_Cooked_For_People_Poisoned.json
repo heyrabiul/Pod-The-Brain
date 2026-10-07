@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Friendsgiving Kitchen",
+   "pulling a turkey out of the oven"
+  ],
+  [
+   "Christmas Dinner Kitchen",
+   "carving a ham with a smile"
+  ],
+  [
+   "Easter Brunch Kitchen",
+   "arranging deviled eggs on a platter"
+  ],
+  [
+   "Office Potluck Table",
+   "setting down a crockpot of meatballs"
+  ],
+  [
+   "Work Chili Cook-Off",
+   "ladling chili into small cups"
+  ],
+  [
+   "In-Law Dinner Kitchen",
+   "stirring gravy with a forced smile"
+  ],
+  [
+   "Neighbor Welcome Dinner",
+   "handing over a casserole dish"
+  ],
+  [
+   "HOA Social Dessert Table",
+   "setting out a tray of brownies"
+  ],
+  [
+   "Book Club Snack Table",
+   "arranging a charcuterie board"
+  ],
+  [
+   "Bridal Shower Brunch",
+   "plating quiche slices"
+  ],
+  [
+   "Engagement Party Buffet",
+   "refilling a tray of sliders"
+  ],
+  [
+   "Retirement Lunch Spread",
+   "slicing a sheet cake"
+  ],
+  [
+   "Potluck Leftovers Table",
+   "wrapping leftovers in foil"
+  ],
+  [
+   "Super Bowl Party Kitchen",
+   "pulling wings out of the fryer"
+  ],
+  [
+   "Ballpark Parking Lot Grill",
+   "flipping burgers on a portable grill"
+  ],
+  [
+   "Fourth Of July Grill",
+   "turning hot dogs with tongs"
+  ],
+  [
+   "Labor Day Smoker",
+   "checking ribs in the smoker"
+  ],
+  [
+   "Backyard Pig Roast",
+   "basting a roasting pig"
+  ],
+  [
+   "Crawfish Boil",
+   "pouring a pot onto a newspaper-covered table"
+  ],
+  [
+   "Fish Fry",
+   "dropping fillets into the fryer"
+  ],
+  [
+   "Pancake Breakfast Fundraiser",
+   "flipping pancakes on a griddle"
+  ],
+  [
+   "Soup Night At A Friend's Place",
+   "ladling soup into bowls"
+  ],
+  [
+   "Pizza Night Kitchen",
+   "tossing pizza dough"
+  ],
+  [
+   "Taco Bar Party",
+   "setting out bowls of toppings"
+  ],
+  [
+   "Pasta Night Kitchen",
+   "draining pasta into a colander"
+  ],
+  [
+   "Sushi Rolling Class",
+   "rolling a sushi roll with a bamboo mat"
+  ],
+  [
+   "Knife Skills Class",
+   "dicing an onion"
+  ],
+  [
+   "Cake Decorating Class",
+   "piping frosting on a cake"
+  ],
+  [
+   "Cookie Swap Party",
+   "holding a tin of cookies"
+  ],
+  [
+   "Pie Contest Table",
+   "setting down a lattice pie"
+  ],
+  [
+   "Barbecue Competition Tent",
+   "slicing brisket on a board"
+  ],
+  [
+   "Spice Market",
+   "smelling a jar of spices"
+  ],
+  [
+   "Cast Iron Shop",
+   "holding a cast iron skillet"
+  ],
+  [
+   "Restaurant Supply Store",
+   "holding a giant stock pot"
+  ],
+  [
+   "Appliance Store Demo Kitchen",
+   "stirring a sample pan"
+  ],
+  [
+   "Grocery Store Produce Section",
+   "choosing tomatoes"
+  ],
+  [
+   "Warehouse Club Bakery",
+   "lifting a giant tray of muffins"
+  ],
+  [
+   "Charcuterie Shop",
+   "holding a stick of salami"
+  ],
+  [
+   "Oyster Bar Kitchen",
+   "shucking an oyster"
+  ],
+  [
+   "Cheese Shop",
+   "holding a wedge of cheese"
+  ],
+  [
+   "Wine Shop",
+   "holding a bottle of red for dinner"
+  ],
+  [
+   "Herb Farm",
+   "holding a bunch of rosemary"
+  ],
+  [
+   "Meal Prep Sunday Kitchen",
+   "portioning food into containers"
+  ],
+  [
+   "Freezer Meal Prep",
+   "labeling freezer bags at a counter"
+  ],
+  [
+   "Food Truck Prep Line",
+   "handing out a plate of food"
+  ],
+  [
+   "Catering Van",
+   "carrying a tray of food"
+  ],
+  [
+   "Wedding Catering Tent",
+   "plating appetizers"
+  ],
+  [
+   "Brunch Spot Flat Top",
+   "flipping eggs on a flat top"
+  ],
+  [
+   "Donut Shop Fryer At Dawn",
+   "lifting donuts from the fryer"
+  ],
+  [
+   "Coffee Shop Pastry Case",
+   "arranging scones"
+  ],
+  [
+   "Holiday Cookie Kitchen",
+   "rolling out cookie dough"
+  ],
+  [
+   "Gingerbread House Contest For Adults",
+   "gluing candy on a gingerbread roof"
+  ],
+  [
+   "Cabin Kitchen",
+   "frying bacon in a cast iron pan"
+  ],
+  [
+   "Campsite Dutch Oven",
+   "lifting the lid of a dutch oven"
+  ],
+  [
+   "RV Kitchenette",
+   "stirring a pot on a tiny stove"
+  ],
+  [
+   "Beach House Kitchen",
+   "shucking corn on the counter"
+  ],
+  [
+   "Lake House Grill",
+   "grilling fish on a plank"
+  ],
+  [
+   "Rooftop Grill Party",
+   "handing out skewers"
+  ],
+  [
+   "Apartment Dinner Party",
+   "serving plates at a small table"
+  ],
+  [
+   "Dinner Party Dining Room",
+   "carrying a roast to the table"
+  ],
+  [
+   "Holiday Buffet Line",
+   "refilling a chafing dish"
+  ],
+  [
+   "Grange Hall Supper Kitchen",
+   "stirring a big pot of green beans"
+  ],
+  [
+   "Meals On Wheels Prep Kitchen",
+   "packing meal trays"
+  ],
+  [
+   "Neighborhood Cook-Off",
+   "holding a blue ribbon"
+  ],
+  [
+   "Recipe Swap Night",
+   "handing over a recipe card"
+  ],
+  [
+   "Cooking Podcast Studio",
+   "holding a wooden spoon by a microphone"
+  ],
+  [
+   "Cooking Livestream Setup",
+   "stirring a pot toward a phone camera"
+  ],
+  [
+   "Dishwashing After Dinner",
+   "scrubbing a pot at the sink"
+  ],
+  [
+   "Leftovers Night Fridge",
+   "pulling containers out of the fridge"
+  ],
+  [
+   "Late-Night Kitchen Snack",
+   "making a grilled cheese"
+  ]
+ ],
+ "openers": [
+  "I've hosted every holiday, so yes, I've earned this shirt.",
+  "This shirt explains my patience in the kitchen.",
+  "Okay, read this one slowly.",
+  "Every holiday cook gets this joke.",
+  "My family laughed nervously at this one.",
+  "Wore this to Thanksgiving on purpose.",
+  "Shirt check, kitchen edition.",
+  "Self control, right there on my chest.",
+  "The wooden spoon is my favorite detail.",
+  "Somebody had to say it.",
+  "My mother-in-law didn't laugh.",
+  "This is my official hosting shirt.",
+  "Everyone who cooks for a crowd needs this.",
+  "Best kitchen shirt I own."
+ ],
+ "details": [
+  "That seafoam-green POISONED really stands out.",
+  "The little seafoam wooden spoon icon is so cute.",
+  "The heavy white SELF CONTROL lands the joke.",
+  "It's soft, comfy and perfect for long cooking days.",
+  "Perfect gift for the person who hosts every holiday.",
+  "The white and seafoam look great on black cotton.",
+  "Great Mother's Day gift for a mom who cooks for everyone.",
+  "The tall condensed letters read from across the kitchen.",
+  "Still looks sharp after a lot of washes.",
+  "It's funny, honest, and a little bit dark.",
+  "Every home cook I know wants one.",
+  "The layout makes you read every line."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then they tap the little wooden spoon icon and smirk.",
+  "Then they hold up a wooden spoon and point at the shirt.",
+  "Then they hold the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Add soft giggles and a short burst of laughter from people just off-camera.",
+  "Include a friend off-camera laughing and saying \"No way,\" mixed with natural ambient sound."
+ ],
+ "titles": [
+  "Self Control In The Kitchen 😂",
+  "Holiday Host Shirt",
+  "Read It Slowly 🥄",
+  "Every Home Cook Gets This",
+  "Gift For The Holiday Host",
+  "Thanksgiving Outfit Sorted",
+  "The Patience Of A Cook",
+  "Kitchen Humor Shirt 😂",
+  "Mom Cooks, Mom Knows",
+  "Shirt Check: Kitchen Edition"
+ ],
+ "tags": [
+  "#KitchenHumor",
+  "#CookingHumor",
+  "#HolidayHost",
+  "#HomeCook",
+  "#MomLife",
+  "#DarkHumor",
+  "#FunnyTShirt",
+  "#FunnyGift",
+  "#GiftForMom",
+  "#ShirtCheck",
+  "#StatementTee",
+  "#Foodie",
+  "#SelfControl"
+ ]
+}

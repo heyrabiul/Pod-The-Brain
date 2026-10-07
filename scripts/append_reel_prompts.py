@@ -56,11 +56,14 @@ def read_design(doc):
     name = title.split("—")[-1].strip()
     wording = re.search(r"Preserve the exact wording (“.*?”), the same typography", image_prompt).group(1)
     look = re.search(r"graphic layout \((.*?)\), and the same black T-shirt", image_prompt).group(1)
+    # Some layouts name a non-black tee ("tee: charcoal grey, ..."); use that colour in the new prompts.
+    tee = re.match(r"tee: ([^,]+),", look)
+    color = tee.group(1).strip() if tee else "black"
     name_words = {w.lower().strip("'") for w in re.split(r"\W+", name) if w}
-    design_tags = [t for t in first_tags if t[1:].lower() in name_words] or first_tags[:1]
+    design_tags = list(dict.fromkeys(t for t in first_tags if t[1:].lower() in name_words)) or first_tags[:1]
     men = sum(1 for h in heads if h[2] == "man")
     return {
-        "title": title, "wording": wording, "look": look, "design_tags": design_tags,
+        "title": title, "wording": wording, "look": look, "color": color, "design_tags": design_tags,
         "last": max(h[0] for h in heads), "count": len(heads),
         "ages": (min(h[1] for h in heads), max(h[1] for h in heads)), "men_share": men / len(heads),
     }
@@ -104,17 +107,17 @@ def entry(n, location, action, design, data, rng):
     pool = (MEN + (OLDER_MEN if age >= 45 else [])) if man else (WOMEN + (OLDER_WOMEN if age >= 45 else []))
     who = f"{age}-year-old American {'man' if man else 'woman'} with {rng.choice(pool)}"
     loc = location_phrase(location)
-    wording, look = design["wording"], design["look"]
+    wording, look, color = design["wording"], design["look"], design["color"]
     line = f"{rng.choice(data['openers'])} {rng.choice(data['details'])}"
     extra = [t for t in data["tags"] if t.lower() not in {d.lower() for d in design["design_tags"]}]
     tags = " ".join(design["design_tags"] + rng.sample(extra, 9 - len(design["design_tags"])) + ["#Reels"])
 
     image = (
         "Use the attached mockup image as the EXACT T-shirt reference: the shirt in the image must be the shirt the person wears, unchanged. "
-        f"Preserve the exact wording {wording}, the same typography, ink colours and graphic layout ({look}), and the same black T-shirt presentation. "
+        f"Preserve the exact wording {wording}, the same typography, ink colours and graphic layout ({look}), and the same {color} T-shirt presentation. "
         "Do not change, rewrite, shorten, add, remove, or rearrange any wording. "
         f"Create a highly photorealistic {who} in a realistic American setting at {article(loc)} {loc}. The person is {action}. "
-        "Natural age-appropriate appearance, realistic skin texture, authentic hair, natural facial expression, realistic black cotton T-shirt with visible fabric weave and natural folds. "
+        f"Natural age-appropriate appearance, realistic skin texture, authentic hair, natural facial expression, realistic {color} cotton T-shirt with visible fabric weave and natural folds. "
         "The T-shirt and its graphic are the MAIN FOCUS. Keep the entire front design clearly visible, centered, sharp and readable. "
         "Real-life commercial lifestyle photography, natural lighting, realistic background, subtle depth of field, believable American environment, authentic camera perspective. "
         "IMAGE SIZE: 9:16 VERTICAL. No text anywhere except the shirt print itself: no logo, no watermark, no QR code, no altered typography, no additional graphic."

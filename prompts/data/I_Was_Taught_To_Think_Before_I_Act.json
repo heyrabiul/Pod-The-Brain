@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Traffic Jam On The Interstate",
+   "gripping the steering wheel with a calm stare"
+  ],
+  [
+   "Toll Booth Line",
+   "drumming fingers on the wheel with the window down"
+  ],
+  [
+   "Parking Lot Door Ding",
+   "inspecting a fresh dent on a truck door"
+  ],
+  [
+   "Home Improvement Return Desk",
+   "holding a receipt with a patient smile"
+  ],
+  [
+   "Cable Company Counter",
+   "holding an old modem with a calm face"
+  ],
+  [
+   "DMV Counter",
+   "sliding paperwork across the counter"
+  ],
+  [
+   "Airport Security Line",
+   "holding a gray bin with a deep breath"
+  ],
+  [
+   "Delayed Flight Gate",
+   "staring at the departure board with crossed arms"
+  ],
+  [
+   "Rental Car Counter",
+   "listening to an upsell with a tight smile"
+  ],
+  [
+   "Car Dealership Finance Office",
+   "reading the fine print with a raised eyebrow"
+  ],
+  [
+   "Auto Repair Estimate Desk",
+   "reading a long repair quote"
+  ],
+  [
+   "HOA Meeting",
+   "raising a hand with a calm face"
+  ],
+  [
+   "Neighbor's Fence Line",
+   "leaning on the fence with a coffee"
+  ],
+  [
+   "Backyard Leaf Blower Standoff",
+   "holding a rake while the neighbor's leaf blower roars"
+  ],
+  [
+   "Fantasy Football Trade Talk",
+   "staring at a phone with a slow nod"
+  ],
+  [
+   "Rival Team Watch Party",
+   "holding a beer while rival fans cheer"
+  ],
+  [
+   "Golf Course Slow Group",
+   "leaning on a driver while waiting to tee off"
+  ],
+  [
+   "Fishing Spot Taken",
+   "holding a rod and looking at a crowded dock"
+  ],
+  [
+   "Boat Ramp Line",
+   "standing beside a truck and trailer waiting"
+  ],
+  [
+   "Gas Pump Line",
+   "waiting at the pump with arms crossed"
+  ],
+  [
+   "Grocery Express Lane",
+   "holding three items behind an overloaded cart"
+  ],
+  [
+   "Warehouse Club Parking Lot",
+   "loading a truck bed with bulk paper towels"
+  ],
+  [
+   "Black Friday Line",
+   "holding a coffee at dawn"
+  ],
+  [
+   "Restaurant Waitlist Bench",
+   "holding a buzzing pager"
+  ],
+  [
+   "Steakhouse Booth",
+   "cutting into a steak with a calm face"
+  ],
+  [
+   "Wings Joint",
+   "holding a basket of hot wings"
+  ],
+  [
+   "Brewery Taproom",
+   "holding a dark stout"
+  ],
+  [
+   "Whiskey Bar",
+   "swirling a glass of bourbon"
+  ],
+  [
+   "Cigar Lounge",
+   "leaning back in a leather chair"
+  ],
+  [
+   "Casino Card Room",
+   "stacking chips with a poker face"
+  ],
+  [
+   "Darts League",
+   "lining up a throw"
+  ],
+  [
+   "Shuffleboard Bar",
+   "sliding a puck down the table"
+  ],
+  [
+   "Axe Throwing Lane",
+   "waiting at the line with a calm stare"
+  ],
+  [
+   "Batting Cage",
+   "resting a bat on one shoulder"
+  ],
+  [
+   "Weight Room",
+   "racking a barbell"
+  ],
+  [
+   "Jiu-Jitsu Gym Lobby",
+   "tying a belt"
+  ],
+  [
+   "Boxing Match Watch Party",
+   "leaning forward on the couch"
+  ],
+  [
+   "Pay-Per-View Fight Night",
+   "holding a bowl of chips"
+  ],
+  [
+   "Hockey Bar",
+   "banging on the table after a goal"
+  ],
+  [
+   "Monster Truck Show Stands",
+   "holding a soda in the stands"
+  ],
+  [
+   "Drag Strip Bleachers",
+   "covering ears with a grin"
+  ],
+  [
+   "Motorcycle Shop",
+   "sitting on a cruiser"
+  ],
+  [
+   "Truck Accessory Shop",
+   "holding a new tow hitch"
+  ],
+  [
+   "Off-Road Trail Stop",
+   "wiping mud off a side-by-side"
+  ],
+  [
+   "Hunting Camp Cook Tent",
+   "frying bacon in a cast iron pan"
+  ],
+  [
+   "Duck Blind",
+   "sitting with a thermos at dawn"
+  ],
+  [
+   "Bass Boat",
+   "steering the boat across the lake"
+  ],
+  [
+   "Campground Fire Pit",
+   "poking the fire with a stick"
+  ],
+  [
+   "Sawmill Loading Area",
+   "loading boards into a truck bed"
+  ],
+  [
+   "Job Site Trailer",
+   "reviewing blueprints on a table"
+  ],
+  [
+   "Welding Shop",
+   "lifting a welding helmet"
+  ],
+  [
+   "Machine Shop",
+   "measuring a part with calipers"
+  ],
+  [
+   "Distribution Center Forklift Bay",
+   "leaning on a forklift"
+  ],
+  [
+   "Delivery Truck Cab",
+   "sitting in the driver's seat with a coffee"
+  ],
+  [
+   "Office Meeting That Should Be An Email",
+   "sitting at a conference table with a blank stare"
+  ],
+  [
+   "Open Office Loud Talker",
+   "putting on headphones at a desk"
+  ],
+  [
+   "Company Picnic Softball Game",
+   "holding a softball glove"
+  ],
+  [
+   "Union Meeting Folding Chair",
+   "sitting with arms crossed"
+  ],
+  [
+   "Family Thanksgiving Debate",
+   "passing the mashed potatoes calmly"
+  ],
+  [
+   "In-Law Visit Living Room",
+   "sitting on the couch with a polite smile"
+  ],
+  [
+   "Wedding Reception Bar",
+   "ordering a drink with a calm face"
+  ],
+  [
+   "Bachelor Party Cabin",
+   "holding a cooler on the porch"
+  ],
+  [
+   "Beard Trim Shop Waiting Bench",
+   "flipping through a magazine"
+  ],
+  [
+   "Tattoo Parlor Chair",
+   "showing a fresh forearm tattoo"
+  ],
+  [
+   "Music Store Guitar Wall",
+   "looking at a guitar on the wall"
+  ],
+  [
+   "Flea Market Haggling",
+   "holding a vintage wrench and negotiating"
+  ],
+  [
+   "Car Wash Exit",
+   "drying a truck hood with a towel"
+  ],
+  [
+   "Truck Stop Booth At Dawn",
+   "holding a mug of black coffee"
+  ],
+  [
+   "Convenience Store Coffee Counter",
+   "pouring a large coffee"
+  ],
+  [
+   "Front Porch Rocking Chair",
+   "rocking slowly with a sweet tea"
+  ]
+ ],
+ "openers": [
+  "Okay, read this one carefully.",
+  "I was raised right, as you can see.",
+  "This shirt is my official warning label.",
+  "Everybody reads this and takes a step back.",
+  "I'm a very calm guy, this shirt proves it.",
+  "Wore this to the HOA meeting on purpose.",
+  "Shirt check, patience edition.",
+  "My buddies say this is my whole personality.",
+  "Somebody had to say it.",
+  "This one gets a nervous laugh every time.",
+  "I think things through, just like the shirt says.",
+  "Read it all the way to the bottom.",
+  "This shirt keeps the peace.",
+  "Best shirt I own, hands down."
+ ],
+ "details": [
+  "That giant orange BEFORE I ACT jumps off the charcoal grey.",
+  "The orange divider line makes the punchline land.",
+  "The tall white caps read clean from across the room.",
+  "It's soft, fits right, and the print stays crisp.",
+  "Perfect gift for the calmest guy you know.",
+  "The small lines at the bottom are the real joke.",
+  "Great Father's Day gift for a dad with jokes.",
+  "Charcoal grey with orange and white looks sharp.",
+  "The layout builds up to the punchline perfectly.",
+  "Still looks new after a lot of washes.",
+  "Bold, calm and a little bit threatening, in a funny way.",
+  "Every buddy who reads it wants one."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then they tap the orange BEFORE I ACT and nod slowly.",
+  "Then they crack their knuckles, grin, and show the shirt again.",
+  "Then they hold the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Add soft giggles and a short burst of laughter from people just off-camera.",
+  "Include a friend off-camera laughing and saying \"No way,\" mixed with natural ambient sound."
+ ],
+ "titles": [
+  "I Think Before I Act 😂",
+  "Calm, But Read The Shirt",
+  "Official Warning Label",
+  "The Patience Shirt",
+  "Gift Idea For Dad 😂",
+  "Read To The Bottom",
+  "Confident In My Decision",
+  "Every Buddy Needs This",
+  "Shirt Check: Calm Edition",
+  "This Shirt Keeps The Peace"
+ ],
+ "tags": [
+  "#ThinkBeforeYouAct",
+  "#FunnyTShirt",
+  "#DadHumor",
+  "#GuyHumor",
+  "#SarcasticShirt",
+  "#AdultHumor",
+  "#GiftForHim",
+  "#GiftForDad",
+  "#FunnyGift",
+  "#StatementTee",
+  "#ShirtCheck",
+  "#HumorShirt",
+  "#ManCave"
+ ]
+}

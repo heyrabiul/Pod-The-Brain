@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Airport Security Line",
+   "holding a gray bin with a calm grin"
+  ],
+  [
+   "Rental Car Counter Line",
+   "leaning on a suitcase calmly"
+  ],
+  [
+   "Packed Commuter Train",
+   "holding the overhead rail with a smile"
+  ],
+  [
+   "City Bus Stop In The Rain",
+   "holding an umbrella calmly"
+  ],
+  [
+   "Parking Garage Pay Station",
+   "feeding a ticket into the machine"
+  ],
+  [
+   "Toll Plaza",
+   "sitting in the driver's seat with a calm smile"
+  ],
+  [
+   "Car Wash Line",
+   "waiting in the car with the window down"
+  ],
+  [
+   "Oil Change Lobby",
+   "sipping free coffee"
+  ],
+  [
+   "Body Shop Estimate Desk",
+   "reading a repair estimate calmly"
+  ],
+  [
+   "Insurance Claim Call",
+   "holding a phone on hold with a peaceful face"
+  ],
+  [
+   "Cable Company Store",
+   "holding an old modem calmly"
+  ],
+  [
+   "Phone Repair Counter",
+   "holding a cracked phone"
+  ],
+  [
+   "Apartment Leasing Office",
+   "signing a lease calmly"
+  ],
+  [
+   "Moving Truck Rental Counter",
+   "holding a reservation form"
+  ],
+  [
+   "Storage Unit",
+   "rolling up a storage door"
+  ],
+  [
+   "Home Improvement Return Desk",
+   "holding a receipt"
+  ],
+  [
+   "Furniture Assembly Living Room",
+   "holding an instruction sheet upside down"
+  ],
+  [
+   "Plumbing Emergency Kitchen",
+   "standing by a leaky sink with a coffee"
+  ],
+  [
+   "Power Outage Living Room",
+   "holding a flashlight and smiling"
+  ],
+  [
+   "Snowed-In Cabin",
+   "holding a mug by the window"
+  ],
+  [
+   "Rainy Campsite",
+   "sitting under a tarp with a coffee"
+  ],
+  [
+   "Flat Tire Bike Trail",
+   "holding a bike pump"
+  ],
+  [
+   "Wedding Seating Chart Table",
+   "holding a stack of place cards"
+  ],
+  [
+   "Holiday Shopping Mall",
+   "carrying a pile of shopping bags"
+  ],
+  [
+   "Gift Wrapping Table",
+   "wrapping a gift with a calm smile"
+  ],
+  [
+   "Christmas Light Untangling Garage",
+   "holding a tangled string of lights"
+  ],
+  [
+   "Office Holiday Party",
+   "holding a cup of punch"
+  ],
+  [
+   "Budget Meeting",
+   "leaning back with a calm face"
+  ],
+  [
+   "All-Hands Meeting",
+   "sitting in a row of chairs calmly"
+  ],
+  [
+   "Open Office",
+   "putting on headphones with a smile"
+  ],
+  [
+   "Video Call Desk",
+   "smiling at a webcam"
+  ],
+  [
+   "IT Help Desk",
+   "holding a frozen laptop calmly"
+  ],
+  [
+   "Mailroom",
+   "sorting packages"
+  ],
+  [
+   "Hospital Night Shift Hallway",
+   "holding a coffee after a long shift"
+  ],
+  [
+   "Restaurant Kitchen Back Door",
+   "taking a break with a soda"
+  ],
+  [
+   "Shoe Store Stockroom",
+   "stacking boxes calmly"
+  ],
+  [
+   "Call Center Headset Desk",
+   "adjusting a headset with a smile"
+  ],
+  [
+   "Food Delivery Car",
+   "holding a delivery bag"
+  ],
+  [
+   "Rideshare Driver Seat",
+   "waiting at a curb with a calm smile"
+  ],
+  [
+   "Truck Driver Cab",
+   "holding a thermos"
+  ],
+  [
+   "Farm Tractor",
+   "sitting on a tractor seat"
+  ],
+  [
+   "Lumber Yard",
+   "loading boards into a truck"
+  ],
+  [
+   "Construction Site Trailer",
+   "holding blueprints"
+  ],
+  [
+   "Welding Shop",
+   "lifting a welding helmet"
+  ],
+  [
+   "Auto Shop Bay",
+   "wiping hands with a shop rag"
+  ],
+  [
+   "Hardware Store Checkout",
+   "holding a toolbox"
+  ],
+  [
+   "Garden Center Checkout",
+   "holding a flat of flowers"
+  ],
+  [
+   "Self-Checkout Kiosk",
+   "scanning items calmly"
+  ],
+  [
+   "Warehouse Club Sample Line",
+   "holding a sample cup"
+  ],
+  [
+   "Bakery Line",
+   "waiting for a coffee and a croissant"
+  ],
+  [
+   "Coffee Drive-Thru",
+   "holding a large iced coffee"
+  ],
+  [
+   "Brunch Waitlist",
+   "holding a buzzing pager"
+  ],
+  [
+   "Food Truck Line",
+   "holding a basket of fries"
+  ],
+  [
+   "Pizza Pickup Counter",
+   "holding a pizza box"
+  ],
+  [
+   "Barbecue Joint",
+   "holding a tray of brisket"
+  ],
+  [
+   "Brewery Beer Garden",
+   "holding a beer flight"
+  ],
+  [
+   "Whiskey Bar",
+   "swirling a glass of bourbon"
+  ],
+  [
+   "Dive Bar",
+   "leaning on the bar"
+  ],
+  [
+   "Karaoke Bar",
+   "holding a mic"
+  ],
+  [
+   "Bowling Alley",
+   "holding a bowling ball"
+  ],
+  [
+   "Golf Driving Range",
+   "leaning on a driver"
+  ],
+  [
+   "Fishing Pier",
+   "holding a rod"
+  ],
+  [
+   "Lake Cabin Porch",
+   "rocking in a chair"
+  ],
+  [
+   "Backyard Hammock",
+   "swinging with a drink"
+  ],
+  [
+   "Pool Lounge Chair",
+   "lying back with sunglasses"
+  ],
+  [
+   "Beach Bar",
+   "holding a frozen drink"
+  ],
+  [
+   "Ski Lodge",
+   "holding a hot cocoa"
+  ],
+  [
+   "Campfire With Friends",
+   "roasting a marshmallow"
+  ],
+  [
+   "Hot Tub Deck Bench",
+   "sitting beside the hot tub with a towel"
+  ],
+  [
+   "Sunset Rooftop",
+   "leaning on a railing with a drink"
+  ]
+ ],
+ "openers": [
+  "It's OK. Really.",
+  "This shirt is my coping strategy.",
+  "Read the dose carefully.",
+  "Totally calm, as you can see.",
+  "Shirt check, chill edition.",
+  "Wore this to work on purpose.",
+  "Somebody had to say it.",
+  "My coworkers want one now.",
+  "This is my official stress shirt.",
+  "Monday can't touch me.",
+  "This one gets a laugh every time.",
+  "Best shirt for a bad day.",
+  "Read it all the way down.",
+  "My friends say this explains a lot."
+ ],
+ "details": [
+  "That neon lime-green lowercase word is the punchline.",
+  "The heavy white type in mixed sizes looks so bold.",
+  "The little period at the end makes it perfect.",
+  "It's soft, comfy and perfect for a long day.",
+  "Perfect gag gift for the most stressed friend you have.",
+  "The neon green really pops against the black cotton.",
+  "Great gift for anyone who works with the public.",
+  "Still looks sharp after a lot of washes.",
+  "The big 500MGS line grabs attention right away.",
+  "Everyone reads it twice and starts laughing.",
+  "Bold, chill and a little bit sarcastic.",
+  "Every overworked friend needs one."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then they tap the neon green word and give a calm thumbs up.",
+  "Then they take a slow deep breath and smile at the camera.",
+  "Then they hold the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Add soft giggles and a short burst of laughter from people just off-camera.",
+  "Include a friend off-camera laughing and saying \"No way,\" mixed with natural ambient sound."
+ ],
+ "titles": [
+  "It's OK, Really 😂",
+  "My Coping Strategy",
+  "Read The Dose 💊",
+  "Chill Mode On",
+  "Gift For The Stressed Friend",
+  "Monday Proof Shirt",
+  "Totally Fine 😅",
+  "Stress Shirt Check",
+  "Coworkers Approved",
+  "The Calmest Shirt Ever"
+ ],
+ "tags": [
+  "#Fukitol",
+  "#StressLess",
+  "#WorkHumor",
+  "#Relatable",
+  "#ChillVibes",
+  "#FunnyTShirt",
+  "#SarcasticShirt",
+  "#AdultHumor",
+  "#FunnyGift",
+  "#GiftIdea",
+  "#StatementTee",
+  "#ShirtCheck",
+  "#EverydayHumor"
+ ]
+}

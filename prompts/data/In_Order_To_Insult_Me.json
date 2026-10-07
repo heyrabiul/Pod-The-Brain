@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Performance Review Office",
+   "sitting across a desk with a calm smile"
+  ],
+  [
+   "Quarterly Budget Meeting",
+   "leaning back with arms crossed"
+  ],
+  [
+   "Video Call Home Office",
+   "smiling politely at a webcam"
+  ],
+  [
+   "Coworking Space Lounge",
+   "sipping a latte on a couch"
+  ],
+  [
+   "Office Kitchen Coffee Machine",
+   "pouring coffee with a smirk"
+  ],
+  [
+   "Team Building Workshop",
+   "holding a sticky note"
+  ],
+  [
+   "Networking Mixer",
+   "holding a name badge and a drink"
+  ],
+  [
+   "Conference Expo Hall",
+   "holding a tote bag of free pens"
+  ],
+  [
+   "Car Dealership Showroom",
+   "leaning on a car while the salesperson talks"
+  ],
+  [
+   "Mattress Store",
+   "sitting on a display bed during a sales pitch"
+  ],
+  [
+   "Real Estate Open House",
+   "holding a listing flyer"
+  ],
+  [
+   "Timeshare Presentation Room",
+   "holding a free voucher with a polite smile"
+  ],
+  [
+   "Cell Phone Store Counter",
+   "listening to a plan upsell"
+  ],
+  [
+   "Auto Repair Counter",
+   "reading a repair estimate calmly"
+  ],
+  [
+   "Home Improvement Store Aisle",
+   "holding a can of paint"
+  ],
+  [
+   "Golf Clubhouse Bar",
+   "holding a scorecard"
+  ],
+  [
+   "Tennis Club Courtside",
+   "resting a racket on a shoulder"
+  ],
+  [
+   "Pickleball Court",
+   "tapping paddles with an opponent"
+  ],
+  [
+   "Powerlifting Platform",
+   "racking a barbell"
+  ],
+  [
+   "Spin Class Lobby",
+   "holding a water bottle"
+  ],
+  [
+   "Yoga Studio Lobby",
+   "rolling up a mat with a serene smile"
+  ],
+  [
+   "Marathon Finish Area",
+   "holding a finisher medal"
+  ],
+  [
+   "Fantasy League Trophy Night",
+   "holding a phone with a smirk"
+  ],
+  [
+   "Poker Night Garage",
+   "stacking chips with a poker face"
+  ],
+  [
+   "Casino Blackjack Table",
+   "holding cards with a calm face"
+  ],
+  [
+   "Karaoke Bar Stage",
+   "holding a mic after a song"
+  ],
+  [
+   "Escape Room Lobby",
+   "holding a clue card"
+  ],
+  [
+   "Axe Throwing Lane",
+   "waiting behind the line"
+  ],
+  [
+   "Board Game Cafe",
+   "holding a game piece"
+  ],
+  [
+   "Brewery Patio",
+   "holding a pint"
+  ],
+  [
+   "Whiskey Lounge",
+   "swirling a glass of bourbon"
+  ],
+  [
+   "Steakhouse Booth",
+   "cutting into a steak"
+  ],
+  [
+   "Brunch Patio",
+   "holding a mimosa"
+  ],
+  [
+   "Sushi Bar Counter",
+   "lifting sushi with chopsticks"
+  ],
+  [
+   "Food Truck Line",
+   "holding a basket of tacos"
+  ],
+  [
+   "Pizza Place Booth",
+   "holding a slice"
+  ],
+  [
+   "Bakery Counter",
+   "choosing a donut"
+  ],
+  [
+   "Blowout Bar Chair",
+   "checking a fresh blowout in the mirror"
+  ],
+  [
+   "Nail Salon",
+   "drying fresh nails"
+  ],
+  [
+   "Tattoo Parlor",
+   "showing a fresh tattoo"
+  ],
+  [
+   "Thrift Store",
+   "holding up a vintage jacket"
+  ],
+  [
+   "Shoe Store Bench",
+   "lacing up new sneakers"
+  ],
+  [
+   "Mall Food Court",
+   "holding a pretzel"
+  ],
+  [
+   "Airport Gate",
+   "sitting with a carry-on and a coffee"
+  ],
+  [
+   "Hotel Lobby",
+   "checking in with a suitcase"
+  ],
+  [
+   "Cruise Ship Deck",
+   "holding a fruity drink"
+  ],
+  [
+   "Train Platform",
+   "holding a coffee"
+  ],
+  [
+   "Highway Rest Stop",
+   "stretching beside the car"
+  ],
+  [
+   "Dog Park",
+   "holding a leash"
+  ],
+  [
+   "Farmers Market",
+   "holding a basket of peaches"
+  ],
+  [
+   "Garden Center",
+   "holding a potted plant"
+  ],
+  [
+   "Lake Dock",
+   "sitting with feet in the water"
+  ],
+  [
+   "Campfire With Friends",
+   "roasting a marshmallow"
+  ],
+  [
+   "Beach Boardwalk",
+   "holding a lemonade"
+  ],
+  [
+   "Ski Lodge Bar",
+   "holding a hot cocoa"
+  ],
+  [
+   "Car Wash",
+   "drying a car hood"
+  ],
+  [
+   "Gas Station Pump",
+   "pumping gas with a calm smile"
+  ],
+  [
+   "Post Office Line",
+   "holding a package"
+  ],
+  [
+   "Bank Lobby",
+   "holding a deposit slip"
+  ],
+  [
+   "Pharmacy Pickup",
+   "holding a small paper bag"
+  ],
+  [
+   "Vet Clinic Lobby",
+   "holding a cat carrier"
+  ],
+  [
+   "Apartment Mailroom",
+   "sorting mail"
+  ],
+  [
+   "Condo Board Meeting",
+   "holding a meeting agenda"
+  ],
+  [
+   "In-Law Dinner At A Restaurant",
+   "passing a bowl of salad"
+  ],
+  [
+   "Family Group Photo Session",
+   "smiling for the camera"
+  ],
+  [
+   "Wedding Rehearsal Dinner",
+   "holding a glass of wine"
+  ],
+  [
+   "Ex's Engagement Party",
+   "raising a glass with a big smile"
+  ],
+  [
+   "Reunion Banquet Hall",
+   "holding a name tag"
+  ],
+  [
+   "Comedy Roast Night",
+   "laughing at a small table"
+  ],
+  [
+   "Social Media Livestream Desk",
+   "reading comments on a phone with a smirk"
+  ]
+ ],
+ "openers": [
+  "Nice try though.",
+  "Go ahead, I'm listening.",
+  "This shirt handles all my comebacks.",
+  "Okay, read it slowly.",
+  "Your opinion has been noted.",
+  "I wore this to the family dinner on purpose.",
+  "Shirt check, unbothered edition.",
+  "This shirt saves me a lot of energy.",
+  "Somebody had to say it.",
+  "My friends say this is my whole attitude.",
+  "This one shuts down the drama.",
+  "Best comeback I own.",
+  "Read it all the way to the green line.",
+  "This is my official response."
+ ],
+ "details": [
+  "That lime-green NICE TRY THOUGH is the perfect finish.",
+  "The heavy white caps stack up so cleanly.",
+  "The lime-green rule line makes the punchline land.",
+  "It's soft, fits great, and the print stays crisp.",
+  "Perfect gift for the friend who never takes the bait.",
+  "The green really pops against the black cotton.",
+  "Great gift for anyone with thick skin and quick wit.",
+  "Still looks sharp after a lot of washes.",
+  "The layout builds up to the punchline perfectly.",
+  "Everyone reads it top to bottom and then laughs.",
+  "Bold, calm and completely unbothered.",
+  "Every sarcastic friend wants one."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then they tap the lime-green NICE TRY THOUGH and wink.",
+  "Then they shrug, smile, and show the shirt again.",
+  "Then they hold the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Add soft giggles and a short burst of laughter from people just off-camera.",
+  "Include a friend off-camera laughing and saying \"No way,\" mixed with natural ambient sound."
+ ],
+ "titles": [
+  "Nice Try Though 😂",
+  "Your Opinion Has Been Noted",
+  "The Unbothered Shirt",
+  "Comeback Shirt Check",
+  "Gift For Your Sarcastic Friend",
+  "Read It To The Green Line",
+  "Insult Me? Nice Try",
+  "Thick Skin Shirt 😎",
+  "Every Family Dinner Needs This",
+  "This Shirt Wins Arguments"
+ ],
+ "tags": [
+  "#NiceTryThough",
+  "#Unbothered",
+  "#SarcasticShirt",
+  "#Comeback",
+  "#FunnyTShirt",
+  "#SarcasmLovers",
+  "#AttitudeShirt",
+  "#FunnyGift",
+  "#GiftIdea",
+  "#StatementTee",
+  "#ShirtCheck",
+  "#HumorShirt",
+  "#EverydayHumor"
+ ]
+}

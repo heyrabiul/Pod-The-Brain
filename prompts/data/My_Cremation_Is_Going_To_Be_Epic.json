@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Popcorn Shop Counter",
+   "holding a giant tin of popcorn"
+  ],
+  [
+   "Gourmet Popcorn Tasting",
+   "tasting a caramel popcorn sample"
+  ],
+  [
+   "Kettle Corn Truck",
+   "holding a big bag of kettle corn"
+  ],
+  [
+   "Microwave Popcorn Aisle",
+   "holding a multipack of popcorn"
+  ],
+  [
+   "Warehouse Club Snack Aisle",
+   "holding a giant popcorn bag"
+  ],
+  [
+   "IMAX Theater Lobby",
+   "holding an extra-large popcorn bucket"
+  ],
+  [
+   "Independent Cinema Bar",
+   "holding popcorn and a craft beer"
+  ],
+  [
+   "Dine-In Theater Seat",
+   "holding popcorn with a menu on the tray"
+  ],
+  [
+   "Film Festival Line",
+   "holding a ticket and a popcorn bag"
+  ],
+  [
+   "Outdoor Movie In The Park",
+   "sitting on a blanket with popcorn"
+  ],
+  [
+   "Pool Movie Night At A Hotel",
+   "holding popcorn on a pool lounger"
+  ],
+  [
+   "Garage Projector Party",
+   "passing a popcorn bowl"
+  ],
+  [
+   "Horror Movie Marathon Basement",
+   "clutching a popcorn bowl"
+  ],
+  [
+   "Oscar Watch Party",
+   "holding popcorn in a fancy glass"
+  ],
+  [
+   "Big Game Commercials Party",
+   "holding popcorn and a soda"
+  ],
+  [
+   "Streaming Night Couch",
+   "holding popcorn with a remote"
+  ],
+  [
+   "Video Game Tournament",
+   "holding a controller and a popcorn bag"
+  ],
+  [
+   "Comedy Club Table",
+   "holding a basket of popcorn"
+  ],
+  [
+   "Magic Show Theater",
+   "holding popcorn in the front row"
+  ],
+  [
+   "Circus Arts Show For Adults",
+   "holding popcorn in the stands"
+  ],
+  [
+   "Hockey Game Stands",
+   "holding popcorn and a beer"
+  ],
+  [
+   "Basketball Arena Concourse",
+   "holding a popcorn megabucket"
+  ],
+  [
+   "Ballpark Picnic Deck",
+   "holding popcorn and a hot dog"
+  ],
+  [
+   "Baseball Spring Training Lawn",
+   "sitting on the lawn with popcorn"
+  ],
+  [
+   "Racetrack Grandstand",
+   "holding popcorn and a ticket"
+  ],
+  [
+   "Bowling League Night",
+   "holding popcorn by the lanes"
+  ],
+  [
+   "Arcade Bar",
+   "holding popcorn and a token cup"
+  ],
+  [
+   "Casino Lounge",
+   "holding popcorn by the slot machines"
+  ],
+  [
+   "Bingo Night At A Brewery",
+   "holding popcorn and a dauber"
+  ],
+  [
+   "Trivia Night Pub",
+   "holding popcorn by the answer sheet"
+  ],
+  [
+   "Beer Garden",
+   "holding popcorn and a pint"
+  ],
+  [
+   "Wine And Popcorn Pairing",
+   "holding a glass of wine and popcorn"
+  ],
+  [
+   "Whiskey Bar",
+   "holding popcorn and a whiskey"
+  ],
+  [
+   "Rooftop Bar",
+   "holding popcorn by the railing"
+  ],
+  [
+   "Tailgate Party",
+   "popping popcorn on a camp stove"
+  ],
+  [
+   "Campfire Popcorn",
+   "shaking a popcorn popper over the fire"
+  ],
+  [
+   "RV Campground",
+   "popping popcorn in an RV kitchenette"
+  ],
+  [
+   "Lake Cabin Kitchen",
+   "popping popcorn on the stove"
+  ],
+  [
+   "Cabin Fireplace",
+   "holding a bowl of popcorn by the fire"
+  ],
+  [
+   "Ski Lodge",
+   "holding popcorn and a hot cocoa"
+  ],
+  [
+   "Cruise Ship Movie Deck",
+   "holding popcorn under the stars"
+  ],
+  [
+   "Airport Snack Shop",
+   "holding a bag of popcorn"
+  ],
+  [
+   "Truck Stop Snack Run",
+   "holding popcorn and a soda at the register"
+  ],
+  [
+   "Office Movie Afternoon",
+   "holding popcorn in a conference room"
+  ],
+  [
+   "Office Popcorn Machine Day",
+   "scooping popcorn into a bag"
+  ],
+  [
+   "Retirement Party",
+   "holding a popcorn bag"
+  ],
+  [
+   "40th Birthday Dinner",
+   "holding a popcorn cone"
+  ],
+  [
+   "Halloween Party",
+   "holding a popcorn ball"
+  ],
+  [
+   "Christmas Popcorn Garland Night",
+   "stringing popcorn on a thread"
+  ],
+  [
+   "Thanksgiving Leftovers Night",
+   "holding popcorn on the couch"
+  ],
+  [
+   "Fourth Of July Fireworks Field",
+   "holding popcorn on a blanket"
+  ],
+  [
+   "Midnight Countdown Watch Party",
+   "holding popcorn and a party horn"
+  ],
+  [
+   "Funeral Planning Office",
+   "holding a brochure with a big grin"
+  ],
+  [
+   "Estate Planning Lawyer Office",
+   "signing a will with a grin"
+  ],
+  [
+   "Life Insurance Agent Desk",
+   "holding a policy brochure and smiling"
+  ],
+  [
+   "Bucket List Skydiving Center",
+   "holding a helmet before a jump"
+  ],
+  [
+   "Bucket List Hot Air Balloon",
+   "holding the basket edge at sunrise"
+  ],
+  [
+   "Bucket List Zip Line",
+   "clipping into a harness"
+  ],
+  [
+   "Senior Center Movie Day",
+   "holding popcorn and laughing"
+  ],
+  [
+   "Veterans Hall Movie Night",
+   "holding popcorn at a long table"
+  ],
+  [
+   "Library Film Night",
+   "holding popcorn in a folding chair"
+  ],
+  [
+   "Playhouse Intermission",
+   "holding popcorn in the lobby"
+  ],
+  [
+   "Farmers Market Popcorn Stand",
+   "holding a bag of kettle corn"
+  ],
+  [
+   "Winter Craft Bazaar",
+   "holding a tin of caramel corn"
+  ],
+  [
+   "Candy Store Popcorn Wall",
+   "pointing at flavored popcorn bins"
+  ],
+  [
+   "Grocery Store Checkout",
+   "putting popcorn on the belt"
+  ],
+  [
+   "Cast Iron Popcorn Night",
+   "shaking a pot of popcorn"
+  ],
+  [
+   "Porch Projector Night",
+   "holding popcorn on a porch swing"
+  ],
+  [
+   "Backyard Hammock",
+   "holding popcorn in a hammock"
+  ],
+  [
+   "Beach Bonfire",
+   "holding popcorn by the fire"
+  ]
+ ],
+ "openers": [
+  "I've got big plans for my exit.",
+  "Okay, read this one all the way down.",
+  "Popcorn lovers, this one's for you.",
+  "This shirt has a plan.",
+  "My family did not laugh at this one.",
+  "Shirt check, popcorn edition.",
+  "Somebody had to say it.",
+  "Wore this to movie night on purpose.",
+  "This one gets a laugh every time.",
+  "Go out with a bang, that's the plan.",
+  "My funeral playlist is ready too.",
+  "Best shirt for movie night.",
+  "Read it slowly, the ending is epic.",
+  "Rate this shirt, one to ten."
+ ],
+ "details": [
+  "The little red-and-white popcorn bucket is so cute.",
+  "That big red EPIC is impossible to miss.",
+  "The rounded serif text reads like a little story.",
+  "It's soft, comfy and perfect for movie night.",
+  "Perfect gag gift for a popcorn lover.",
+  "The red really pops against the black cotton.",
+  "Great gift for anyone with a dark sense of humor.",
+  "Still looks sharp after a lot of washes.",
+  "The punchline at the bottom is pure gold.",
+  "Everyone reads it and bursts out laughing.",
+  "Bold, dark and totally ridiculous.",
+  "Every movie night needs this shirt."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then they toss a piece of popcorn in the air and catch it, then show the shirt.",
+  "Then they tap the popcorn bucket icon and grin.",
+  "Then they hold the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Add soft giggles and a short burst of laughter from people just off-camera.",
+  "Include a friend off-camera laughing and saying \"No way,\" mixed with natural ambient sound."
+ ],
+ "titles": [
+  "My Cremation Will Be EPIC 🍿",
+  "Popcorn Lovers Get It",
+  "Read To The End 😂",
+  "Movie Night Shirt Check",
+  "Going Out With A Bang",
+  "Dark Humor Popcorn Shirt",
+  "Gift For A Popcorn Lover",
+  "The Epic Exit Plan 😂",
+  "Best Movie Night Outfit",
+  "This Shirt Has A Plan"
+ ],
+ "tags": [
+  "#Popcorn",
+  "#DarkHumor",
+  "#MovieNight",
+  "#PopcornLover",
+  "#FunnyTShirt",
+  "#AdultHumor",
+  "#GagGift",
+  "#FunnyGift",
+  "#SarcasmLovers",
+  "#StatementTee",
+  "#ShirtCheck",
+  "#HumorShirt",
+  "#Epic"
+ ]
+}

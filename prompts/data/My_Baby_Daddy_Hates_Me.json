@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Wine Bar Ladies' Night",
+   "raising a glass of wine with friends"
+  ],
+  [
+   "Girls' Night Karaoke",
+   "holding a microphone and laughing"
+  ],
+  [
+   "Library Book Swap",
+   "holding a paperback and a mug"
+  ],
+  [
+   "Divorce Party Patio",
+   "toasting with friends"
+  ],
+  [
+   "Custody Exchange Parking Lot",
+   "leaning on her car with a coffee and a calm smile"
+  ],
+  [
+   "Family Court Coffee Cart",
+   "holding a coffee with a confident smile"
+  ],
+  [
+   "Lawyer's Office Lobby",
+   "holding a folder with a confident grin"
+  ],
+  [
+   "Car Dealership Showroom",
+   "holding new car keys"
+  ],
+  [
+   "Tire Shop",
+   "changing her own tire in the parking lot"
+  ],
+  [
+   "Auto Parts Store",
+   "holding a car battery"
+  ],
+  [
+   "Hardware Store Tool Aisle",
+   "holding a cordless drill"
+  ],
+  [
+   "Home Improvement Lumber Cart",
+   "loading boards onto a cart"
+  ],
+  [
+   "Garage Workbench",
+   "fixing a lawn mower"
+  ],
+  [
+   "Driveway Oil Change",
+   "wiping hands with a shop rag"
+  ],
+  [
+   "Backyard Fence Repair",
+   "holding a hammer"
+  ],
+  [
+   "Front Yard Lawn Mowing",
+   "pushing a mower"
+  ],
+  [
+   "Moving Day Truck",
+   "carrying a heavy box"
+  ],
+  [
+   "Furniture Assembly Living Room",
+   "building a bookshelf with a drill"
+  ],
+  [
+   "Plumbing Fix Under The Sink",
+   "holding a wrench with a proud grin"
+  ],
+  [
+   "Grill Master Backyard",
+   "flipping burgers on a grill"
+  ],
+  [
+   "Fishing Dock",
+   "holding a fishing rod"
+  ],
+  [
+   "Hunting Supply Store",
+   "holding a camo hat"
+  ],
+  [
+   "Gym Weight Room",
+   "racking a heavy barbell"
+  ],
+  [
+   "CrossFit Box",
+   "flipping a tire"
+  ],
+  [
+   "Boxing Gym",
+   "hitting focus mitts"
+  ],
+  [
+   "Pickleball Court",
+   "holding a paddle after a winning shot"
+  ],
+  [
+   "Softball League Field",
+   "holding a bat on one shoulder"
+  ],
+  [
+   "Bowling League Night",
+   "celebrating a strike"
+  ],
+  [
+   "Shuffleboard Night",
+   "sliding a puck down the table"
+  ],
+  [
+   "Pool Table At A Pub",
+   "chalking a cue"
+  ],
+  [
+   "Wing Night Booth",
+   "holding a basket of wings"
+  ],
+  [
+   "Brewery Taproom Bar",
+   "holding a pint"
+  ],
+  [
+   "Line Dancing Night",
+   "doing a line dance step"
+  ],
+  [
+   "Rodeo Grandstand",
+   "waving a cowboy hat"
+  ],
+  [
+   "Motorcycle Shop",
+   "sitting on a motorcycle"
+  ],
+  [
+   "Car Wash",
+   "drying her car with a towel"
+  ],
+  [
+   "Coffee Drive-Thru",
+   "holding an iced coffee in the car"
+  ],
+  [
+   "Supermarket Self-Checkout",
+   "scanning groceries"
+  ],
+  [
+   "Warehouse Club",
+   "pushing a giant cart"
+  ],
+  [
+   "Pharmacy Counter",
+   "picking up a prescription bag"
+  ],
+  [
+   "Bank Lobby",
+   "holding a deposit slip"
+  ],
+  [
+   "Tax Office",
+   "sliding a folder across the desk"
+  ],
+  [
+   "Job Interview Lobby",
+   "holding a resume folder"
+  ],
+  [
+   "Office Promotion Party",
+   "holding a slice of cake"
+  ],
+  [
+   "Nursing Shift Break Room",
+   "holding a coffee after a long shift"
+  ],
+  [
+   "Salon Booth Rental",
+   "styling a client's hair"
+  ],
+  [
+   "Real Estate Open House",
+   "holding a listing flyer"
+  ],
+  [
+   "Apartment Leasing Office",
+   "holding new keys"
+  ],
+  [
+   "Manicure Bar Treat Day",
+   "drying fresh nails"
+  ],
+  [
+   "Spa Day Lounge",
+   "sipping cucumber water"
+  ],
+  [
+   "Blowout Bar Fresh Style",
+   "checking a new style in the mirror"
+  ],
+  [
+   "Consignment Shop",
+   "holding up a jacket"
+  ],
+  [
+   "Craft Night",
+   "holding a glue gun"
+  ],
+  [
+   "Paint And Sip Studio",
+   "holding a brush and a glass of wine"
+  ],
+  [
+   "Brunch With Friends",
+   "raising a mimosa"
+  ],
+  [
+   "Taco Tuesday Restaurant",
+   "holding a margarita"
+  ],
+  [
+   "Food Truck Park",
+   "holding a basket of tacos"
+  ],
+  [
+   "Waffle Shop Late Night",
+   "stirring a cup of coffee"
+  ],
+  [
+   "Late-Night Laundry Room",
+   "folding towels with a calm smile"
+  ],
+  [
+   "Sunday Meal Prep Counter",
+   "portioning food into containers"
+  ],
+  [
+   "Backyard Fire Pit",
+   "roasting a marshmallow"
+  ],
+  [
+   "Lake Day Dock",
+   "sitting with feet in the water"
+  ],
+  [
+   "Beach Chair",
+   "relaxing under an umbrella"
+  ],
+  [
+   "Camping Weekend",
+   "setting up a tent alone"
+  ],
+  [
+   "Road Trip Gas Station",
+   "holding a coffee and a snack"
+  ],
+  [
+   "Concert Lawn",
+   "dancing with friends"
+  ],
+  [
+   "Comedy Club",
+   "laughing at a small table"
+  ],
+  [
+   "Dog Park",
+   "holding a leash"
+  ],
+  [
+   "Front Porch Swing",
+   "swinging with an iced tea"
+  ],
+  [
+   "Women's Self-Defense Class",
+   "practicing a block with a grin"
+  ]
+ ],
+ "openers": [
+  "Read it all the way down.",
+  "This shirt says it so I don't have to.",
+  "Single mom life, but make it a shirt.",
+  "Moms' night out uniform.",
+  "My girls bought me this shirt.",
+  "Shirt check, independent edition.",
+  "Somebody had to say it.",
+  "Wore this to pickup on purpose.",
+  "This shirt gets a cheer every time.",
+  "I fix my own stuff, and I wear this shirt.",
+  "My friends say this is my biography.",
+  "Best gift my best friend ever gave me.",
+  "This is my official confidence shirt.",
+  "Rate this shirt, one to ten."
+ ],
+ "details": [
+  "The cream lettering looks so clean on the black.",
+  "DADDY between the double bars is such a nice touch.",
+  "The bold slab lines make the punchline land.",
+  "It's soft, fits great, and the print stays crisp.",
+  "Perfect gift for the strongest mom you know.",
+  "No loud colors, just clean bold lettering.",
+  "Great Mother's Day gift for a single mom.",
+  "Still looks sharp after a lot of washes.",
+  "The last line gets a cheer every single time.",
+  "Everyone reads it and nods.",
+  "Bold, confident and a little bit savage.",
+  "Every mom friend wants one."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then she flexes one arm and points at the print.",
+  "Then she flips her hair and smirks at the camera.",
+  "Then she holds the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from girlfriends nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Include a friend off-camera cheering \"Yes!\" and laughing, mixed with ambient sound.",
+  "Add soft giggles and a short burst of laughter from friends just off-camera."
+ ],
+ "titles": [
+  "Twice The Man 💪",
+  "Single Mom Shirt Check",
+  "Read It To The Bottom 😂",
+  "Moms' Night Out Outfit",
+  "Gift For A Strong Mom",
+  "Independent And Proud",
+  "My Confidence Shirt",
+  "Strong Moms Get It",
+  "Savage Mom Shirt 😂",
+  "Every Mom Friend Needs This"
+ ],
+ "tags": [
+  "#SingleMom",
+  "#MomLife",
+  "#StrongMom",
+  "#MomHumor",
+  "#FunnyTShirt",
+  "#SarcasticShirt",
+  "#AdultHumor",
+  "#GiftForMom",
+  "#FunnyGift",
+  "#StatementTee",
+  "#ShirtCheck",
+  "#Independent",
+  "#MomsNightOut"
+ ]
+}

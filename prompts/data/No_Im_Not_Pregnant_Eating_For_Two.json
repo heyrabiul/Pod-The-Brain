@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Birria Pop-Up",
+   "dipping a taco in consommé"
+  ],
+  [
+   "Fish Taco Shack",
+   "holding a fish taco"
+  ],
+  [
+   "Al Pastor Stand",
+   "watching meat sliced off the spit"
+  ],
+  [
+   "Taco Crawl Downtown",
+   "holding a taco crawl map"
+  ],
+  [
+   "Taco Cook-Off Tent",
+   "holding a plate of three tacos"
+  ],
+  [
+   "Tacos And Tequila Bar",
+   "holding a taco and a margarita"
+  ],
+  [
+   "Mexican Bakery",
+   "holding a concha"
+  ],
+  [
+   "Tamale Stand",
+   "unwrapping a tamale"
+  ],
+  [
+   "Elote Cart",
+   "holding a cup of street corn"
+  ],
+  [
+   "Quesadilla Grill",
+   "holding a cheesy quesadilla"
+  ],
+  [
+   "Burrito Bowl Shop",
+   "holding a loaded bowl"
+  ],
+  [
+   "Loaded Nacho Counter",
+   "holding a giant plate of nachos"
+  ],
+  [
+   "Guacamole Tableside",
+   "watching guac made tableside"
+  ],
+  [
+   "Hot Salsa Tasting Flight",
+   "dipping a chip into salsa"
+  ],
+  [
+   "Margarita Flight Bar",
+   "holding a margarita flight"
+  ],
+  [
+   "Taco Kit Grocery Aisle",
+   "holding a taco kit box"
+  ],
+  [
+   "Tortilla Press Cooking Class",
+   "pressing a tortilla"
+  ],
+  [
+   "Taco Night Kitchen",
+   "assembling tacos at a counter"
+  ],
+  [
+   "Taco Bar Housewarming",
+   "filling a taco shell"
+  ],
+  [
+   "Girls' Night Taqueria",
+   "raising a margarita with friends"
+  ],
+  [
+   "Galentine's Taco Brunch",
+   "holding a breakfast taco"
+  ],
+  [
+   "Bachelorette Taco Night",
+   "holding a taco and a drink"
+  ],
+  [
+   "Divorce Party Taco Bar",
+   "toasting with friends"
+  ],
+  [
+   "Birthday Taco Party",
+   "blowing out a candle on a churro"
+  ],
+  [
+   "Churro Cafe",
+   "holding a churro"
+  ],
+  [
+   "Paleta Shop",
+   "holding a fruit popsicle"
+  ],
+  [
+   "Ice Cream Parlor",
+   "holding a giant sundae"
+  ],
+  [
+   "Donut Shop",
+   "holding a dozen donuts"
+  ],
+  [
+   "Cupcake Bakery",
+   "holding a cupcake in each hand"
+  ],
+  [
+   "Late-Night Pizza Slice Window",
+   "folding a slice"
+  ],
+  [
+   "Smash Burger Counter",
+   "holding a double burger"
+  ],
+  [
+   "Fried Chicken Spot",
+   "holding a bucket of chicken"
+  ],
+  [
+   "Hot Wing Joint",
+   "holding a basket of wings"
+  ],
+  [
+   "Ramen Shop",
+   "lifting noodles with chopsticks"
+  ],
+  [
+   "Sushi Boat Restaurant",
+   "holding a sushi boat"
+  ],
+  [
+   "Dim Sum Cart",
+   "choosing a basket of dumplings"
+  ],
+  [
+   "Pancake House",
+   "pouring syrup on pancakes"
+  ],
+  [
+   "Waffle Shop",
+   "holding a waffle"
+  ],
+  [
+   "Bagel Shop",
+   "holding a loaded bagel"
+  ],
+  [
+   "Breakfast Burrito Stand",
+   "holding a breakfast burrito"
+  ],
+  [
+   "Coffee Shop Pastry Case",
+   "pointing at a croissant"
+  ],
+  [
+   "Drive-In Snack Bar",
+   "holding popcorn and candy"
+  ],
+  [
+   "Ballpark Nachos",
+   "holding nachos in a helmet"
+  ],
+  [
+   "Tailgate Taco Bar",
+   "filling tacos from a tailgate"
+  ],
+  [
+   "Lake Day Picnic",
+   "holding a sandwich on a dock"
+  ],
+  [
+   "Beach Snack Shack",
+   "holding a basket of fries"
+  ],
+  [
+   "Road Trip Taco Stop",
+   "holding a taco bag in the car"
+  ],
+  [
+   "Convenience Store Taquito Roller",
+   "holding a taquito"
+  ],
+  [
+   "Late-Night Taco Window",
+   "holding three tacos after midnight"
+  ],
+  [
+   "Food Truck Friday",
+   "holding two food trays"
+  ],
+  [
+   "Food Festival",
+   "holding three food tickets"
+  ],
+  [
+   "Night Market",
+   "holding skewers"
+  ],
+  [
+   "Farmers Market Salsa Stand",
+   "buying a jar of salsa"
+  ],
+  [
+   "Grocery Store Avocado Bin",
+   "holding two avocados"
+  ],
+  [
+   "Warehouse Club Tortilla Pack",
+   "holding a giant tortilla pack"
+  ],
+  [
+   "Office Taco Tuesday",
+   "holding a taco at a desk"
+  ],
+  [
+   "Work Lunch Burrito Run",
+   "holding a giant burrito"
+  ],
+  [
+   "Gym Exit With A Taco",
+   "holding a taco and a water bottle"
+  ],
+  [
+   "Yoga Class Exit",
+   "holding a smoothie and a taco"
+  ],
+  [
+   "Nail Salon Snack",
+   "holding a taco while nails dry"
+  ],
+  [
+   "Hair Salon Snack",
+   "holding chips during a blowout"
+  ],
+  [
+   "Mall Taco Stand",
+   "holding a taco plate"
+  ],
+  [
+   "Airport Taco Stand",
+   "holding a taco at the gate"
+  ],
+  [
+   "Hotel Room Service",
+   "lifting a lid on a plate of tacos"
+  ],
+  [
+   "Cruise Ship Taco Bar",
+   "holding a taco by the pool"
+  ],
+  [
+   "Pool Party",
+   "holding a taco and a lemonade"
+  ],
+  [
+   "Couch Movie Night",
+   "holding a plate of nachos"
+  ],
+  [
+   "Midnight Chips And Salsa Counter",
+   "eating chips and salsa at the counter"
+  ],
+  [
+   "Grocery Checkout",
+   "putting a stack of tortillas on the belt"
+  ],
+  [
+   "Front Porch",
+   "holding a taco and an iced tea"
+  ]
+ ],
+ "openers": [
+  "No, I'm not pregnant. Read the rest.",
+  "Eating for two, me and my taco cravings.",
+  "Taco lovers, this one's for you.",
+  "Okay, read it all the way down.",
+  "Wore this to Taco Tuesday on purpose.",
+  "Shirt check, taco edition.",
+  "Somebody had to say it.",
+  "Stop asking, read the shirt.",
+  "This one gets a laugh every time.",
+  "Best shirt for taco night.",
+  "My girls bought me this shirt.",
+  "My inner taco lover approves.",
+  "The taco icon is my favorite.",
+  "Rate this shirt, one to ten."
+ ],
+ "details": [
+  "That hot-pink script Pregnant is so cute.",
+  "The giant bold TWO is impossible to miss.",
+  "The little golden taco icon is perfect.",
+  "It's soft and roomy, perfect for a taco feast.",
+  "Perfect gag gift for a taco lover.",
+  "The pink and gold pop against the black cotton.",
+  "Great girls' night gift, trust me.",
+  "Still looks sharp after a lot of washes.",
+  "Everyone reads it and starts laughing.",
+  "Bold, sassy and totally relatable.",
+  "Every taco-loving friend wants one.",
+  "The layout builds up to the taco perfectly."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then she takes a bite of a taco and points at the golden taco icon.",
+  "Then she pats her stomach and grins.",
+  "Then she holds the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from girlfriends nearby, as if they just read the shirt.",
+  "Include a friend off-camera laughing and saying \"Same,\" mixed with natural ambient sound.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Add soft giggles and a short burst of laughter from friends just off-camera."
+ ],
+ "titles": [
+  "Eating For Two 🌮",
+  "Not Pregnant, Just Hungry",
+  "Taco Tuesday Shirt Check",
+  "Stop Asking 😂",
+  "Taco Lover Gift Idea",
+  "Read It To The Taco",
+  "Girls' Night Taco Outfit",
+  "Me And My Tacos",
+  "Relatable Taco Shirt",
+  "Every Taco Fan Needs This 🌮"
+ ],
+ "tags": [
+  "#TacoLover",
+  "#TacoTuesday",
+  "#Tacos",
+  "#FoodieHumor",
+  "#GirlsNight",
+  "#FunnyTShirt",
+  "#SarcasticShirt",
+  "#AdultHumor",
+  "#FunnyGift",
+  "#GagGift",
+  "#StatementTee",
+  "#ShirtCheck",
+  "#Foodie"
+ ]
+}

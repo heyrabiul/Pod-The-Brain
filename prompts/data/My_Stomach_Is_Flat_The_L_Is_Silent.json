@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Gym Front Desk",
+   "holding a donut at check-in"
+  ],
+  [
+   "Treadmill Row",
+   "walking slowly while eating a cookie"
+  ],
+  [
+   "Spin Class Lobby",
+   "holding a giant muffin"
+  ],
+  [
+   "Weight Room Bench",
+   "holding a protein shake and a pastry"
+  ],
+  [
+   "Yoga Studio Lobby",
+   "holding a bag of chips"
+  ],
+  [
+   "Smoothie Bar",
+   "holding a giant smoothie with whipped cream"
+  ],
+  [
+   "Health Food Store Aisle",
+   "holding a kale bag and a candy bar"
+  ],
+  [
+   "Salad Bar",
+   "piling bacon bits on a salad"
+  ],
+  [
+   "Steakhouse Booth",
+   "holding a giant steak knife over a ribeye"
+  ],
+  [
+   "Brazilian Steakhouse",
+   "holding a plate full of meat"
+  ],
+  [
+   "Hibachi Grill Table",
+   "catching a shrimp tossed by the chef"
+  ],
+  [
+   "Ramen Shop",
+   "lifting noodles with chopsticks"
+  ],
+  [
+   "Dim Sum Brunch",
+   "lifting a dumpling"
+  ],
+  [
+   "Korean BBQ Table",
+   "grilling meat"
+  ],
+  [
+   "Pho Shop",
+   "adding herbs to a bowl"
+  ],
+  [
+   "Deep Dish Pizza Place",
+   "pulling a cheesy slice"
+  ],
+  [
+   "New York Pizza Counter",
+   "folding a slice"
+  ],
+  [
+   "Cheesesteak Shop",
+   "holding a cheesesteak"
+  ],
+  [
+   "Lobster Roll Shack",
+   "holding a lobster roll"
+  ],
+  [
+   "Fish And Chips Pub",
+   "holding a basket of fish and chips"
+  ],
+  [
+   "Hot Chicken Joint",
+   "holding a basket of hot chicken"
+  ],
+  [
+   "Waffle Shop",
+   "pouring syrup on a waffle"
+  ],
+  [
+   "Biscuit Shop",
+   "holding a biscuit sandwich"
+  ],
+  [
+   "Bagel Shop",
+   "holding a loaded bagel"
+  ],
+  [
+   "Cinnamon Roll Bakery",
+   "holding a giant cinnamon roll"
+  ],
+  [
+   "Cupcake Shop",
+   "holding a cupcake in each hand"
+  ],
+  [
+   "Gelato Shop",
+   "holding a gelato cup"
+  ],
+  [
+   "Milkshake Bar",
+   "holding a giant milkshake"
+  ],
+  [
+   "Chocolate Factory Tour",
+   "holding a chocolate bar"
+  ],
+  [
+   "Fudge Shop",
+   "sampling fudge"
+  ],
+  [
+   "Popcorn Shop",
+   "holding a tin of caramel corn"
+  ],
+  [
+   "Pretzel Bakery",
+   "holding a giant pretzel"
+  ],
+  [
+   "Funnel Cake Booth",
+   "holding a funnel cake"
+  ],
+  [
+   "Corn Dog Stand",
+   "holding a corn dog"
+  ],
+  [
+   "Turkey Leg Stand",
+   "holding a turkey leg"
+  ],
+  [
+   "Hot Dog Eating Contest",
+   "holding a hot dog in each hand"
+  ],
+  [
+   "Wing Eating Challenge",
+   "holding a giant platter of wings"
+  ],
+  [
+   "Burger Challenge Restaurant",
+   "holding a giant burger"
+  ],
+  [
+   "Pancake Challenge Diner",
+   "holding a fork over a tall stack"
+  ],
+  [
+   "Dessert Bar",
+   "piling desserts on a plate"
+  ],
+  [
+   "Cruise Ship Buffet",
+   "loading a plate"
+  ],
+  [
+   "Casino Buffet",
+   "holding a plate of crab legs"
+  ],
+  [
+   "Warehouse Club Food Court",
+   "holding a hot dog combo"
+  ],
+  [
+   "Gas Station Snack Run",
+   "holding armfuls of snacks"
+  ],
+  [
+   "Road Trip Drive-Thru",
+   "holding a bag of fries in the car"
+  ],
+  [
+   "Drive-In Snack Bar",
+   "holding a giant popcorn and candy"
+  ],
+  [
+   "Minor League Nacho Helmet",
+   "holding a helmet full of nachos"
+  ],
+  [
+   "Stadium Lot Grill",
+   "flipping burgers"
+  ],
+  [
+   "Backyard Smoker",
+   "pulling out a rack of ribs"
+  ],
+  [
+   "Fourth Of July Cookout",
+   "holding a plate of hot dogs"
+  ],
+  [
+   "Friendsgiving Second Plate",
+   "heading back for seconds"
+  ],
+  [
+   "Christmas Cookie Swap",
+   "holding a tin of cookies"
+  ],
+  [
+   "Halloween Candy Bowl",
+   "holding a handful of candy"
+  ],
+  [
+   "Easter Chocolate Bunny",
+   "holding a big chocolate bunny"
+  ],
+  [
+   "Birthday Cake Table",
+   "cutting a big slice of cake"
+  ],
+  [
+   "Wedding Cake Table",
+   "holding a slice of wedding cake"
+  ],
+  [
+   "Office Donut Box",
+   "grabbing a donut from a box"
+  ],
+  [
+   "Office Potluck",
+   "piling a plate high"
+  ],
+  [
+   "Food Festival",
+   "holding three food tickets"
+  ],
+  [
+   "Street Food Night Market",
+   "holding skewers"
+  ],
+  [
+   "Farmers Market Bakery Stand",
+   "holding a pie"
+  ],
+  [
+   "Supermarket Cake Case",
+   "holding a sheet cake"
+  ],
+  [
+   "Studio Apartment Kitchenette",
+   "eating ice cream from the carton"
+  ],
+  [
+   "Recliner Snack Night",
+   "holding a bowl of chips"
+  ],
+  [
+   "Fridge Door At Midnight",
+   "looking into the fridge with a grin"
+  ],
+  [
+   "Pool Party",
+   "holding a slice of watermelon"
+  ],
+  [
+   "Beach Snack Shack",
+   "holding a basket of fries"
+  ],
+  [
+   "Lake Dock Picnic",
+   "holding a sandwich"
+  ],
+  [
+   "Camping S'mores",
+   "holding a s'more"
+  ],
+  [
+   "Fishing Trip Cooler",
+   "holding a sandwich and a soda"
+  ]
+ ],
+ "openers": [
+  "My stomach is flat, read the fine print.",
+  "Okay, read it carefully.",
+  "This shirt keeps it honest.",
+  "Shirt check, buffet edition.",
+  "Wore this to the buffet on purpose.",
+  "Somebody had to say it.",
+  "Flat, technically.",
+  "My doctor laughed at this one.",
+  "This one gets a laugh every time.",
+  "Best shirt for a cheat day.",
+  "Fitness goals, silent edition.",
+  "Read the quoted L.",
+  "My friends say this is so me.",
+  "Rate this shirt, one to ten."
+ ],
+ "details": [
+  "That giant yellow quoted L is the whole joke.",
+  "The tall white caps set it up perfectly.",
+  "The yellow really pops against the black cotton.",
+  "It's soft and roomy, perfect for a big meal.",
+  "Perfect gag gift for a food lover.",
+  "Great gift for the friend who loves a buffet.",
+  "Still looks sharp after a lot of washes.",
+  "Everyone reads it twice and laughs.",
+  "Bold, silly and totally relatable.",
+  "Comfy enough for Thanksgiving dinner.",
+  "Every foodie friend wants one.",
+  "Simple layout, perfect punchline."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then they pat their stomach and point at the yellow L.",
+  "Then they take a big bite and show the shirt again.",
+  "Then they hold the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Add soft giggles and a short burst of laughter from people just off-camera.",
+  "Include a friend off-camera laughing and saying \"No way,\" mixed with natural ambient sound."
+ ],
+ "titles": [
+  "The L Is Silent 😂",
+  "Flat Stomach, Technically",
+  "Buffet Shirt Check",
+  "Cheat Day Outfit",
+  "Foodie Gag Gift",
+  "Read The Quoted L",
+  "Fitness Goals 😂",
+  "Thanksgiving Shirt",
+  "Relatable Foodie Shirt",
+  "Every Foodie Needs This"
+ ],
+ "tags": [
+  "#FoodieHumor",
+  "#Foodie",
+  "#FitnessHumor",
+  "#CheatDay",
+  "#FunnyTShirt",
+  "#SarcasticShirt",
+  "#DadBod",
+  "#FunnyGift",
+  "#GagGift",
+  "#StatementTee",
+  "#ShirtCheck",
+  "#HumorShirt",
+  "#Relatable"
+ ]
+}

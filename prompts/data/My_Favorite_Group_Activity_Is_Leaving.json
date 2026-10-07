@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Party Coat Pile Bedroom Doorway",
+   "grabbing a jacket from a pile of coats"
+  ],
+  [
+   "House Party Front Door",
+   "waving goodbye with keys in hand"
+  ],
+  [
+   "Dinner Party Dessert Course",
+   "checking the time with a polite smile"
+  ],
+  [
+   "Networking Mixer Exit",
+   "slipping a name badge into a pocket"
+  ],
+  [
+   "Conference Closing Keynote",
+   "packing a laptop bag early"
+  ],
+  [
+   "All-Day Workshop",
+   "stretching beside a folding chair"
+  ],
+  [
+   "Office Birthday Cake Huddle",
+   "edging toward the door with a slice of cake"
+  ],
+  [
+   "Team Lunch Outing",
+   "holding a to-go box with a grin"
+  ],
+  [
+   "Holiday Gala Coat Check",
+   "handing over a coat check ticket"
+  ],
+  [
+   "Venue Coat Rack After A Wedding",
+   "holding a favor bag at the doors"
+  ],
+  [
+   "Engagement Party Patio",
+   "waving goodbye with a drink in hand"
+  ],
+  [
+   "Gender Reveal Party For Adults",
+   "holding a cupcake near the gate"
+  ],
+  [
+   "Bridal Shower Gift Table",
+   "holding a purse ready to go"
+  ],
+  [
+   "Reunion Banquet Hall",
+   "removing a name tag"
+  ],
+  [
+   "HOA Meeting Exit",
+   "standing up with a folded agenda"
+  ],
+  [
+   "Book Club Living Room",
+   "closing a book with a relieved smile"
+  ],
+  [
+   "Neighborhood Chili Night",
+   "covering a dish with foil to leave"
+  ],
+  [
+   "Friendsgiving Table",
+   "stacking their own plate to go"
+  ],
+  [
+   "Super Bowl Party Halftime",
+   "holding car keys during halftime"
+  ],
+  [
+   "Fantasy Football Draft Party",
+   "sneaking out with a soda"
+  ],
+  [
+   "Bachelor Party Cabin Porch",
+   "loading a duffel bag into a truck"
+  ],
+  [
+   "Group Vacation Rental",
+   "rolling a suitcase toward the door"
+  ],
+  [
+   "Group Camping Trip",
+   "packing up a tent early"
+  ],
+  [
+   "Group Hike Trailhead",
+   "heading back to the parking lot"
+  ],
+  [
+   "Group Fitness Class",
+   "rolling up a mat before cooldown"
+  ],
+  [
+   "Dance Party Living Room",
+   "standing by the wall with a drink"
+  ],
+  [
+   "Club Line Outside",
+   "stepping out of the line with a shrug"
+  ],
+  [
+   "Concert Encore",
+   "heading for the exit during the encore"
+  ],
+  [
+   "Music Festival Shuttle Stop",
+   "waiting for an early shuttle"
+  ],
+  [
+   "Theme Park Exit Gate",
+   "walking out with a souvenir cup"
+  ],
+  [
+   "Cruise Ship Gangway",
+   "walking off the ship first"
+  ],
+  [
+   "Group Tour Bus",
+   "sitting alone at the front of the bus"
+  ],
+  [
+   "Airport Group Check-In",
+   "breaking away with a carry-on"
+  ],
+  [
+   "Hotel Lobby Group Meetup",
+   "heading to the elevator alone"
+  ],
+  [
+   "Karaoke Night",
+   "handing the mic to someone else and grabbing a jacket"
+  ],
+  [
+   "Pub Quiz Team Table",
+   "paying the tab early"
+  ],
+  [
+   "Candlepin Party Lane",
+   "untying bowling shoes"
+  ],
+  [
+   "Puzzle Room Group Photo",
+   "sliding out of the photo frame"
+  ],
+  [
+   "Paintball Group Outing",
+   "returning rented gear early"
+  ],
+  [
+   "Brewery Tour Group",
+   "lagging behind the group with a pint"
+  ],
+  [
+   "Wine Tasting Bus",
+   "stepping off the bus with a smile"
+  ],
+  [
+   "Restaurant Group Bill",
+   "sliding cash onto the table and standing up"
+  ],
+  [
+   "Brunch Group Waitlist",
+   "walking toward the car"
+  ],
+  [
+   "Coffee Shop Meetup",
+   "holding a to-go cup by the door"
+  ],
+  [
+   "Garden Party",
+   "waving with a lemonade near the gate"
+  ],
+  [
+   "Backyard Barbecue Gate",
+   "slipping out through the side gate"
+  ],
+  [
+   "Pool Party Towel Rack",
+   "grabbing a towel and car keys"
+  ],
+  [
+   "Lake Party Dock",
+   "untying a kayak to paddle away"
+  ],
+  [
+   "Fire Pit Night",
+   "stepping away from the fire with a flashlight"
+  ],
+  [
+   "Card Night Kitchen",
+   "putting on shoes by the back door"
+  ],
+  [
+   "Movie Marathon Couch",
+   "standing up and stretching"
+  ],
+  [
+   "Holiday Ugly Sweater Party",
+   "holding a cookie tin on the way out"
+  ],
+  [
+   "Gift Exchange Party",
+   "holding a gift bag at the door"
+  ],
+  [
+   "Midnight Countdown Party",
+   "leaving at 11:59 with a grin"
+  ],
+  [
+   "Graduation Dinner For Adults",
+   "holding a doggy bag"
+  ],
+  [
+   "Retirement Lunch",
+   "shaking hands near the exit"
+  ],
+  [
+   "Baby Sprinkle Brunch",
+   "holding a mimosa near the door"
+  ],
+  [
+   "Family Group Photo Session",
+   "stepping out of the frame"
+  ],
+  [
+   "Neighborhood Picnic Pavilion",
+   "holding a paper plate near the parking lot"
+  ],
+  [
+   "Volunteer Group Shift",
+   "turning in a volunteer vest"
+  ],
+  [
+   "Group Chat Plans On The Couch",
+   "muting a phone with a relieved sigh"
+  ],
+  [
+   "Parking Lot After A Party",
+   "unlocking the car with a big smile"
+  ],
+  [
+   "Uber Pickup Curb",
+   "waiting alone for a ride"
+  ],
+  [
+   "Train Station After An Event",
+   "waiting on a quiet platform"
+  ],
+  [
+   "Drive-Thru After A Party",
+   "ordering alone from the car window"
+  ],
+  [
+   "Home Front Door",
+   "kicking off shoes with a happy sigh"
+  ],
+  [
+   "Couch At Home",
+   "collapsing onto the couch with a remote"
+  ],
+  [
+   "Cozy Reading Nook At Home",
+   "reading a book in a cozy chair"
+  ],
+  [
+   "Backyard Hammock At Home",
+   "swinging alone with a drink"
+  ],
+  [
+   "Front Porch Alone",
+   "sipping tea in peaceful quiet"
+  ]
+ ],
+ "openers": [
+  "I came, I saw, I left.",
+  "My favorite part of any party.",
+  "Introverts, this one's for you.",
+  "Okay, read it, and then I'm out.",
+  "This shirt explains my early exits.",
+  "Shirt check, introvert edition.",
+  "Somebody had to say it.",
+  "Wore this to the party as a warning.",
+  "The best activity is leaving early.",
+  "My friends know exactly what this means.",
+  "This one gets a laugh, then I leave.",
+  "Irish goodbye champion.",
+  "Rate this shirt on my way out.",
+  "Best introvert shirt ever."
+ ],
+ "details": [
+  "That giant cyan LEAVING is impossible to miss.",
+  "The tall white caps set up the joke perfectly.",
+  "The cyan really pops against the black cotton.",
+  "It's soft, comfy and perfect for going home early.",
+  "Perfect gift for the introvert in your life.",
+  "Great gag gift for every party hater you know.",
+  "Still looks sharp after a lot of washes.",
+  "Everyone reads it and nods knowingly.",
+  "Bold, honest and totally relatable.",
+  "The punchline is huge, just like my urge to leave.",
+  "Every introvert friend wants one.",
+  "Simple layout, perfect message."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then they point at the cyan word LEAVING and wave goodbye.",
+  "Then they jingle car keys and grin at the camera.",
+  "Then they hold the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Add soft giggles and a short burst of laughter from people just off-camera.",
+  "Include a friend off-camera laughing and saying \"No way,\" mixed with natural ambient sound."
+ ],
+ "titles": [
+  "My Favorite Group Activity 😂",
+  "Introvert Shirt Check",
+  "Irish Goodbye Champion",
+  "I'm Out ✌️",
+  "Gift For The Introvert",
+  "Leaving Early Again",
+  "Party Exit Uniform",
+  "Relatable Introvert Shirt",
+  "Read It Then I Leave",
+  "Home Is My Happy Place"
+ ],
+ "tags": [
+  "#Introvert",
+  "#IntrovertLife",
+  "#IntrovertHumor",
+  "#AntiSocial",
+  "#FunnyTShirt",
+  "#SarcasticShirt",
+  "#Relatable",
+  "#FunnyGift",
+  "#GiftIdea",
+  "#StatementTee",
+  "#ShirtCheck",
+  "#HomeBody",
+  "#HumorShirt"
+ ]
+}

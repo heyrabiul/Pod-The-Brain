@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Snow Tubing Park",
+   "dragging a snow tube back up the hill"
+  ],
+  [
+   "Ski Resort Beginner Slope",
+   "standing at the top of a gentle slope holding ski poles"
+  ],
+  [
+   "Mountain Bike Trailhead",
+   "walking a mountain bike up a rocky trail"
+  ],
+  [
+   "Steep City Sidewalk",
+   "trudging up a steep sidewalk with a coffee"
+  ],
+  [
+   "Zip Line Platform",
+   "clipping into a zip line harness"
+  ],
+  [
+   "Arcade Bar Skee-Ball Lane",
+   "rolling a ball up the skee-ball ramp"
+  ],
+  [
+   "Adult Mini Golf Night",
+   "watching a golf ball roll back down a ramp"
+  ],
+  [
+   "Disc Golf Hillside",
+   "watching a disc roll down the hill"
+  ],
+  [
+   "Pinball Bar",
+   "watching the ball drain past the flippers"
+  ],
+  [
+   "Science Museum Physics Exhibit",
+   "watching a ball roll down a demonstration track"
+  ],
+  [
+   "Planetarium Lobby",
+   "holding a ticket under a model of the solar system"
+  ],
+  [
+   "Engineering Firm Office",
+   "pointing at a whiteboard slope diagram"
+  ],
+  [
+   "Quarterly Sales Meeting",
+   "presenting a chart that trends downward"
+  ],
+  [
+   "Home Stock Trading Desk",
+   "staring at a red stock chart on a monitor"
+  ],
+  [
+   "Car Dealership Trade-In Desk",
+   "hearing the trade-in value of an old car"
+  ],
+  [
+   "Used Bookstore Self-Help Shelf",
+   "holding an old self-help book"
+  ],
+  [
+   "Gym Treadmill Row",
+   "walking very slowly on a treadmill"
+  ],
+  [
+   "Spin Studio Back Row",
+   "pedaling slowly at the back of the class"
+  ],
+  [
+   "Yoga Class",
+   "wobbling in a balance pose"
+  ],
+  [
+   "Rock Climbing Gym",
+   "hanging from the lowest hold on the wall"
+  ],
+  [
+   "City Park Running Loop",
+   "stopping to catch their breath with hands on hips"
+  ],
+  [
+   "Marathon Expo Booth",
+   "holding a race bib and a free sample"
+  ],
+  [
+   "Bike Repair Shop",
+   "spinning the wheel of a bike on a stand"
+  ],
+  [
+   "Boardwalk Rollerblade Path",
+   "rolling slowly on rollerblades"
+  ],
+  [
+   "Snowboard Rental Shop",
+   "holding a rental snowboard"
+  ],
+  [
+   "Ski Lodge Window Bar",
+   "holding a hot toddy beside a window overlooking the slopes"
+  ],
+  [
+   "Hilly Suburban Driveway",
+   "chasing a basketball rolling down the driveway"
+  ],
+  [
+   "Skateboard Shop",
+   "holding a longboard deck"
+  ],
+  [
+   "Mountain Road Scenic Pullout",
+   "leaning on a car parked on a steep grade"
+  ],
+  [
+   "Brewery Taproom",
+   "holding a pint while explaining physics to a friend"
+  ],
+  [
+   "Pub Trivia Night",
+   "writing a science answer on a trivia sheet"
+  ],
+  [
+   "Escape Room",
+   "fitting a puzzle ramp piece into place"
+  ],
+  [
+   "Karaoke Lounge",
+   "holding a mic right after missing a high note"
+  ],
+  [
+   "Wine Bar Corner Table",
+   "holding a glass of wine with a long sigh"
+  ],
+  [
+   "Retirement Party Room",
+   "holding a slice of sheet cake"
+  ],
+  [
+   "Job Interview Waiting Room",
+   "holding a resume folder"
+  ],
+  [
+   "Temp Agency Lobby",
+   "filling out a form on a clipboard"
+  ],
+  [
+   "Coffee Shop Window Seat",
+   "staring out the window with a latte"
+  ],
+  [
+   "Laundromat",
+   "folding a pile of laundry"
+  ],
+  [
+   "Late-Night Pizza Counter",
+   "holding a single slice on a paper plate"
+  ],
+  [
+   "Gaming Chair Setup",
+   "holding a video game controller"
+  ],
+  [
+   "Backyard Hammock",
+   "sitting up slowly in a hammock"
+  ],
+  [
+   "Pickleball Court",
+   "laughing after missing an easy shot"
+  ],
+  [
+   "Golf Driving Range",
+   "watching a ball dribble off the mat"
+  ],
+  [
+   "Bocce Court",
+   "rolling a bocce ball down a slight slope"
+  ],
+  [
+   "Lawn Bowling Green",
+   "rolling a bowl across the grass"
+  ],
+  [
+   "Curling Club",
+   "sliding a curling stone down the ice"
+  ],
+  [
+   "Adult Skate Night Rink",
+   "gripping the rail on ice skates"
+  ],
+  [
+   "Ski Lift Line",
+   "waiting in line with skis on"
+  ],
+  [
+   "Mountain Cabin Deck",
+   "sipping coffee over a valley view"
+  ],
+  [
+   "Dam Overlook",
+   "leaning on a railing above the spillway"
+  ],
+  [
+   "Waterfall Viewpoint",
+   "standing at a scenic viewpoint"
+  ],
+  [
+   "Canyon Rim Trail",
+   "looking down into a canyon"
+  ],
+  [
+   "Sand Dune Park",
+   "standing at the top of a sand dune"
+  ],
+  [
+   "Boat Ramp",
+   "watching a trailer roll down the ramp"
+  ],
+  [
+   "Moving Truck Ramp",
+   "rolling a dolly down the truck ramp"
+  ],
+  [
+   "Parking Garage Ramp",
+   "walking down a parking garage ramp with keys"
+  ],
+  [
+   "Mall Escalator",
+   "riding the down escalator"
+  ],
+  [
+   "Commuter Train Platform",
+   "waiting for a delayed train"
+  ],
+  [
+   "Airport Moving Walkway",
+   "standing still on a moving walkway"
+  ],
+  [
+   "Hotel Lobby",
+   "checking in with a rolling suitcase"
+  ],
+  [
+   "Auto Repair Shop",
+   "reading a long repair quote"
+  ],
+  [
+   "Hardware Store Lumber Aisle",
+   "sighting down a warped board"
+  ],
+  [
+   "Grocery Store Frozen Aisle",
+   "holding a single frozen pizza"
+  ],
+  [
+   "Tax Preparer Office",
+   "looking over last year's return"
+  ],
+  [
+   "Vineyard Hillside",
+   "holding a wine glass between sloped vine rows"
+  ],
+  [
+   "Hot Air Balloon Field",
+   "watching a balloon slowly come down"
+  ],
+  [
+   "Amusement Arcade Coin Pusher",
+   "watching coins slide toward the edge"
+  ],
+  [
+   "Rooftop Bar At Sunset",
+   "raising a cocktail as the sun goes down"
+  ],
+  [
+   "Lakeside Dock At Dusk",
+   "sitting on the edge of the dock"
+  ]
+ ],
+ "openers": [
+  "Okay, shirt check.",
+  "This shirt is a physics lesson and a life story.",
+  "I peaked early, and I'm fine with it.",
+  "Science people get this one right away.",
+  "My life in one simple diagram.",
+  "Everybody stops to figure this one out.",
+  "Be honest, did you get the joke?",
+  "I wore this to brunch and the engineers lost it.",
+  "This is the most accurate shirt I own.",
+  "The diagram says it all.",
+  "Took a second, then everyone laughed.",
+  "My friends say this is my autobiography.",
+  "Peak performance, right here.",
+  "Rate this shirt, one to ten."
+ ],
+ "details": [
+  "That sky-blue POTENTIAL really pops on the black.",
+  "The little ball rolling down the slope is the whole joke.",
+  "The bold white I HAD sets it up perfectly.",
+  "It's soft, fits relaxed, and the print stays crisp.",
+  "Perfect gift for a science teacher or an engineer.",
+  "The diagram is clean enough to read from across the room.",
+  "The blue and white look sharp together on black cotton.",
+  "It's the nerdiest joke I own, and I love it.",
+  "Great birthday gift for the friend who peaked in college.",
+  "The print hasn't faded at all after washing.",
+  "Physics fans read it twice and laugh both times.",
+  "The layout is simple, and that's why it works."
+ ],
+ "followups": [
+  "Then they trace the slope with one finger.",
+  "Then they tap the little ball at the bottom of the diagram.",
+  "Then they shrug and smooth the shirt flat.",
+  "Then they step back so the whole graphic is in frame.",
+  "Then they point at POTENTIAL and grin.",
+  "Then they mime a ball rolling downhill with one hand.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they hold the hem out with both hands."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Include a friend off-camera saying \"That's so true\" and laughing, mixed with ambient sound.",
+  "Add soft giggles and a short burst of laughter from friends just off-camera."
+ ],
+ "titles": [
+  "It's All Downhill From Here 😂",
+  "Physics Nerds Get It",
+  "I Had Potential, Past Tense",
+  "Peaked Early 📉",
+  "The Most Honest Science Shirt",
+  "Gift Idea For Your Nerdy Friend",
+  "My Life In One Diagram",
+  "Potential Energy, Spent 😂",
+  "Read The Diagram Twice",
+  "Science Teacher Approved"
+ ],
+ "tags": [
+  "#PhysicsHumor",
+  "#ScienceShirt",
+  "#NerdHumor",
+  "#EngineerLife",
+  "#ScienceTeacher",
+  "#FunnyTShirt",
+  "#SarcasmLovers",
+  "#GiftIdea",
+  "#ShirtCheck",
+  "#FunnyGift",
+  "#GeekHumor",
+  "#StatementTee",
+  "#TShirtLovers"
+ ]
+}

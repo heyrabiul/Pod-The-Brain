@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Escape Room Chemistry Puzzle",
+   "mixing colored liquid props"
+  ],
+  [
+   "Bath Bomb Making Workshop",
+   "pressing a bath bomb mold"
+  ],
+  [
+   "Soap Making Class",
+   "pouring soap into a mold"
+  ],
+  [
+   "Perfume Blending Bar",
+   "smelling a test strip"
+  ],
+  [
+   "Candle Making Studio",
+   "stirring melted wax"
+  ],
+  [
+   "Glassblowing Studio",
+   "watching molten glass on a pipe"
+  ],
+  [
+   "Neon Sign Shop",
+   "looking at a glowing neon sign"
+  ],
+  [
+   "Fireworks Show Lawn",
+   "pointing at the sky"
+  ],
+  [
+   "Bonfire With Friends",
+   "poking a fire with a stick"
+  ],
+  [
+   "Liquid Nitrogen Ice Cream Shop",
+   "watching vapor pour off a bowl"
+  ],
+  [
+   "Craft Cocktail Lab Bar",
+   "receiving a smoking cocktail"
+  ],
+  [
+   "Brewery Brewhouse Tour",
+   "looking into a mash tun"
+  ],
+  [
+   "Winery Lab Tour",
+   "holding a wine sample"
+  ],
+  [
+   "Cheese Cave Tour",
+   "holding a wedge of cheese"
+  ],
+  [
+   "Sourdough Baking Class",
+   "stretching dough"
+  ],
+  [
+   "Fermentation Shop",
+   "holding a jar of kimchi"
+  ],
+  [
+   "Cooking Science Demo",
+   "whisking a sauce"
+  ],
+  [
+   "Barbecue Pitmaster Class",
+   "checking a meat thermometer"
+  ],
+  [
+   "Pool Party",
+   "testing pool water with a strip"
+  ],
+  [
+   "Hot Tub Store",
+   "holding a chemical test kit"
+  ],
+  [
+   "Aquarium Store",
+   "holding a water test vial"
+  ],
+  [
+   "Hydroponics Store",
+   "adjusting a grow light"
+  ],
+  [
+   "Plant Nursery",
+   "holding a bag of fertilizer"
+  ],
+  [
+   "Soil Testing Booth",
+   "holding a soil sample cup"
+  ],
+  [
+   "Geology Rock Shop",
+   "holding a chunk of copper ore"
+  ],
+  [
+   "Gold Panning Creek",
+   "swirling a gold pan"
+  ],
+  [
+   "Gem Mine Sluice",
+   "sifting through a screen"
+  ],
+  [
+   "Hot Springs Pool Deck",
+   "sitting on the edge with feet in the water"
+  ],
+  [
+   "Salt Flats Overlook",
+   "standing on white salt ground"
+  ],
+  [
+   "Volcano National Park Overlook",
+   "looking out at old lava rock"
+  ],
+  [
+   "Cave Tour Entrance",
+   "holding a flashlight"
+  ],
+  [
+   "Lighthouse Tour",
+   "climbing the spiral stairs"
+  ],
+  [
+   "Solar Eclipse Viewing Party",
+   "holding eclipse glasses"
+  ],
+  [
+   "Meteor Shower Campsite",
+   "lying on a blanket pointing up"
+  ],
+  [
+   "Space Launch Viewing Beach",
+   "watching a rocket trail in the sky"
+  ],
+  [
+   "Aviation Museum",
+   "standing under a vintage plane"
+  ],
+  [
+   "Car Battery Swap Garage",
+   "holding a car battery"
+  ],
+  [
+   "Electric Car Showroom",
+   "sitting in an electric car"
+  ],
+  [
+   "Electronics Recycling Drop-Off",
+   "dropping off an old laptop"
+  ],
+  [
+   "Tech Repair Bar",
+   "handing over a cracked phone"
+  ],
+  [
+   "Video Game Tournament",
+   "holding a controller"
+  ],
+  [
+   "Esports Arena",
+   "cheering from the stands"
+  ],
+  [
+   "Hackathon Room",
+   "typing on a laptop with an energy drink"
+  ],
+  [
+   "Data Center Tour",
+   "standing between server racks"
+  ],
+  [
+   "Science Podcast Live Show",
+   "holding a ticket in the audience"
+  ],
+  [
+   "Museum Gift Shop",
+   "holding a mini periodic table"
+  ],
+  [
+   "Puzzle Store",
+   "holding a box of brain teasers"
+  ],
+  [
+   "Chess Club",
+   "moving a chess piece"
+  ],
+  [
+   "Crossword Cafe",
+   "filling in a crossword with a pen"
+  ],
+  [
+   "Spelling Bee For Adults Bar",
+   "holding a number card"
+  ],
+  [
+   "Debate Watch Party",
+   "holding a bowl of popcorn"
+  ],
+  [
+   "Customer Service Phone Desk",
+   "holding a phone with a sarcastic smile"
+  ],
+  [
+   "Monday Morning Meeting",
+   "holding a coffee with a deadpan face"
+  ],
+  [
+   "Performance Review Office",
+   "sitting with arms crossed"
+  ],
+  [
+   "Group Project Table",
+   "holding a stack of papers"
+  ],
+  [
+   "Office Printer Jam",
+   "staring at the printer"
+  ],
+  [
+   "IT Help Desk",
+   "asking if it's plugged in with a smirk"
+  ],
+  [
+   "Baggage Claim Carousel",
+   "waiting for a suitcase with a deadpan face"
+  ],
+  [
+   "Hotel Check-In",
+   "holding a room key card"
+  ],
+  [
+   "Car Dealership Showroom",
+   "listening to a pitch with a smirk"
+  ],
+  [
+   "Gym Front Desk",
+   "scanning a membership card"
+  ],
+  [
+   "Pickleball Court",
+   "holding a paddle"
+  ],
+  [
+   "Bowling Alley Lane",
+   "holding a bowling ball"
+  ],
+  [
+   "Wine Cellar Tasting",
+   "swirling a glass of red"
+  ],
+  [
+   "Whiskey Lounge",
+   "swirling a glass of bourbon"
+  ],
+  [
+   "Rooftop Lounge",
+   "leaning on the railing with a cocktail"
+  ],
+  [
+   "Pizza Night Kitchen",
+   "tossing pizza dough"
+  ],
+  [
+   "Taco Tuesday Patio",
+   "holding two tacos"
+  ],
+  [
+   "Thanksgiving Dinner Table",
+   "passing the mashed potatoes"
+  ],
+  [
+   "Family Reunion Pavilion",
+   "holding a lemonade"
+  ]
+ ],
+ "openers": [
+  "Sarcasm may occur, consider yourself warned.",
+  "Science nerds, this one's for you.",
+  "Okay, look at the colored tiles.",
+  "This shirt is my official warning label.",
+  "Shirt check, periodic edition.",
+  "Took you a second, didn't it?",
+  "Side effects include sarcasm.",
+  "My chemistry teacher would be proud.",
+  "This one gets a laugh every time.",
+  "Sarcasm level: elemental.",
+  "Somebody had to say it.",
+  "Read the tiles first.",
+  "My coworkers have been warned.",
+  "Rate this shirt, one to ten."
+ ],
+ "details": [
+  "The four outlined element tiles spell it out perfectly.",
+  "Red, yellow, orange and teal tiles look like a real periodic table.",
+  "The cream tall caps read clean on the black.",
+  "It's soft, fits great, and the print stays crisp.",
+  "Perfect gift for a chemistry teacher or lab tech.",
+  "The colored outlines pop against the black cotton.",
+  "Great gift for anyone who loves a nerdy pun.",
+  "Still looks sharp after a lot of washes.",
+  "MAY OCCUR PERIODICALLY reads like a warning label.",
+  "Everyone stops to figure out the tiles.",
+  "Smart, colorful and a little bit sarcastic.",
+  "Science people get it instantly."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then they tap each colored element tile one by one.",
+  "Then they raise an eyebrow and point at the tiles.",
+  "Then they give a slow, sarcastic thumbs up.",
+  "Then they hold the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Add soft giggles and a short burst of laughter from people just off-camera.",
+  "Include a friend off-camera saying \"So nerdy\" and laughing, mixed with ambient sound."
+ ],
+ "titles": [
+  "Sarcasm May Occur 😂",
+  "Periodically Sarcastic",
+  "Read The Element Tiles",
+  "Chemistry Nerds Get It 🧪",
+  "Science Teacher Gift Idea",
+  "Warning Label Shirt",
+  "Sarcasm Is Elemental",
+  "Nerdy Pun Shirt Check",
+  "Side Effects Include Sarcasm",
+  "Every Science Nerd Needs This"
+ ],
+ "tags": [
+  "#Sarcasm",
+  "#ChemistryHumor",
+  "#PeriodicTable",
+  "#ScienceShirt",
+  "#NerdHumor",
+  "#ScienceTeacher",
+  "#FunnyTShirt",
+  "#GeekHumor",
+  "#SarcasmLovers",
+  "#FunnyGift",
+  "#GiftIdea",
+  "#StatementTee",
+  "#ShirtCheck"
+ ]
+}

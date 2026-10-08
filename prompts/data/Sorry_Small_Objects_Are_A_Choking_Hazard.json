@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Galentine's Brunch",
+   "raising a mimosa with friends"
+  ],
+  [
+   "Girls' Trip Airport Gate",
+   "holding a coffee and a carry-on"
+  ],
+  [
+   "Girls' Beach Weekend",
+   "holding a frozen drink"
+  ],
+  [
+   "Girls' Lake Weekend Dock",
+   "sitting on the dock with sunglasses"
+  ],
+  [
+   "Girls' Cabin Weekend",
+   "holding a mug by the fire"
+  ],
+  [
+   "Nashville Girls' Trip",
+   "tapping cowboy boots on a bar stool"
+  ],
+  [
+   "Vegas Pool Cabana",
+   "lounging under a cabana"
+  ],
+  [
+   "Wine Tasting Tour Bus",
+   "holding a glass of white wine"
+  ],
+  [
+   "Vineyard Picnic",
+   "opening a picnic basket"
+  ],
+  [
+   "Margarita Night",
+   "raising a margarita"
+  ],
+  [
+   "Champagne Bar",
+   "clinking flutes with friends"
+  ],
+  [
+   "Rosé Patio",
+   "holding a glass of rosé"
+  ],
+  [
+   "Craft Cocktail Lounge",
+   "holding a coupe glass"
+  ],
+  [
+   "Piano Bar Sing-Along",
+   "singing along with friends"
+  ],
+  [
+   "Drag Brunch",
+   "cheering with a mimosa"
+  ],
+  [
+   "Improv Show Ladies Night",
+   "laughing at a small table"
+  ],
+  [
+   "Divorce Party Dinner",
+   "toasting with friends"
+  ],
+  [
+   "Birthday Dinner Booth",
+   "blowing out a candle"
+  ],
+  [
+   "Paint And Sip Studio",
+   "holding a brush and a glass of wine"
+  ],
+  [
+   "Pottery Class",
+   "shaping clay at the wheel"
+  ],
+  [
+   "Cooking Class",
+   "chopping herbs"
+  ],
+  [
+   "Cocktail Making Class",
+   "shaking a cocktail shaker"
+  ],
+  [
+   "Spa Day Lounge",
+   "sipping cucumber water"
+  ],
+  [
+   "Nail Salon Pedicure Chair",
+   "relaxing in a massage chair"
+  ],
+  [
+   "Blowout Bar",
+   "checking a fresh blowout"
+  ],
+  [
+   "Makeup Counter",
+   "testing a lipstick"
+  ],
+  [
+   "Boutique Shopping",
+   "holding up a sparkly top"
+  ],
+  [
+   "Shoe Store",
+   "trying on heels"
+  ],
+  [
+   "Thrift Store Haul",
+   "holding up a vintage jacket"
+  ],
+  [
+   "Bookstore Romance Aisle",
+   "holding a novel with a smirk"
+  ],
+  [
+   "Coffee Shop Patio",
+   "holding a latte"
+  ],
+  [
+   "Bakery Counter",
+   "pointing at cupcakes"
+  ],
+  [
+   "Sushi Bar",
+   "lifting sushi with chopsticks"
+  ],
+  [
+   "Taco Tuesday",
+   "holding a taco"
+  ],
+  [
+   "Pizza Night With Friends",
+   "holding a slice"
+  ],
+  [
+   "Food Truck Park",
+   "holding a basket of fries"
+  ],
+  [
+   "Gym Smoothie Bar",
+   "holding a green smoothie"
+  ],
+  [
+   "Spin Class",
+   "pedaling with a grin"
+  ],
+  [
+   "Kickboxing Class",
+   "hitting a heavy bag"
+  ],
+  [
+   "Hot Yoga Studio",
+   "rolling up a mat"
+  ],
+  [
+   "Pickleball League",
+   "holding a paddle on one shoulder"
+  ],
+  [
+   "Golf Driving Range",
+   "swinging a driver"
+  ],
+  [
+   "Axe Throwing Lane",
+   "cheering after a bullseye"
+  ],
+  [
+   "Escape Room",
+   "holding a clue card"
+  ],
+  [
+   "Bowling Night",
+   "holding a bowling ball"
+  ],
+  [
+   "Arcade Bar",
+   "playing skee-ball"
+  ],
+  [
+   "Rodeo Night",
+   "waving a cowboy hat"
+  ],
+  [
+   "Honky-Tonk Bar",
+   "holding a beer"
+  ],
+  [
+   "Concert Floor",
+   "dancing with arms up"
+  ],
+  [
+   "Music Festival Field",
+   "holding a festival cup"
+  ],
+  [
+   "Hotel Rooftop Pool",
+   "lounging on a chair"
+  ],
+  [
+   "Cruise Ship Deck",
+   "holding a fruity drink"
+  ],
+  [
+   "Hot Air Balloon Field",
+   "watching balloons at sunrise"
+  ],
+  [
+   "Road Trip Car",
+   "singing in the driver's seat"
+  ],
+  [
+   "Gas Station Snack Run",
+   "holding a fountain drink"
+  ],
+  [
+   "Car Wash",
+   "drying the car"
+  ],
+  [
+   "Grocery Store Wine Aisle",
+   "holding a bottle of wine"
+  ],
+  [
+   "Office Desk",
+   "typing with a smirk"
+  ],
+  [
+   "Office Holiday Party",
+   "holding a cup of punch"
+  ],
+  [
+   "Coworker Birthday Lunch",
+   "holding a slice of cake"
+  ],
+  [
+   "Real Estate Open House",
+   "holding a flyer"
+  ],
+  [
+   "Apartment Balcony",
+   "holding a coffee"
+  ],
+  [
+   "Dog Park",
+   "holding a leash"
+  ],
+  [
+   "Farmers Market Flower Stand",
+   "holding a bouquet"
+  ],
+  [
+   "Book Club Living Room",
+   "holding a paperback"
+  ],
+  [
+   "Girls' Game Night",
+   "laughing at a card game"
+  ],
+  [
+   "Movie Night Couch",
+   "holding popcorn"
+  ],
+  [
+   "Backyard Fire Pit",
+   "roasting a marshmallow"
+  ],
+  [
+   "Front Porch With Friends",
+   "laughing with a glass of wine"
+  ],
+  [
+   "Hammock At The Lake",
+   "swinging with a drink"
+  ]
+ ],
+ "openers": [
+  "Okay, read the whole thing.",
+  "This is my go-to comeback.",
+  "My girls bought me this shirt.",
+  "Shirt check, comeback edition.",
+  "Wore this to brunch on purpose.",
+  "Somebody had to say it.",
+  "This shirt handles the trash talk for me.",
+  "Best comeback shirt I own.",
+  "This one gets a reaction every time.",
+  "Read the gold part.",
+  "My friends screamed when they read this.",
+  "Girls' trip uniform, sorted.",
+  "Read it slowly, it gets better.",
+  "Rate this shirt, one to ten."
+ ],
+ "details": [
+  "The golden script in quotes looks so fancy.",
+  "The gold underline is the perfect finishing touch.",
+  "The tall white caps read clean on the black.",
+  "It's soft, fits great, and the print stays crisp.",
+  "Perfect gift for your sassiest friend.",
+  "The gold really pops against the black cotton.",
+  "Great girls' night gift, trust me.",
+  "Still looks sharp after a lot of washes.",
+  "The comeback at the end gets everyone.",
+  "Everyone reads it and starts laughing.",
+  "Bold, sassy and quick-witted.",
+  "Every girl in the group chat wants one."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then she flips her hair and points at the gold underline.",
+  "Then she puts a hand on her hip and smirks.",
+  "Then she holds the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from girlfriends nearby, as if they just read the shirt.",
+  "Include a friend off-camera screaming with laughter, mixed with natural ambient sound.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Add soft giggles and a short burst of laughter from friends just off-camera."
+ ],
+ "titles": [
+  "Best Comeback Ever 😂",
+  "Sassy Shirt Check 💅",
+  "Read The Gold Part",
+  "Girls' Trip Shirt",
+  "Gift For Your Sassiest Friend",
+  "The Comeback Shirt",
+  "Brunch Outfit Sorted 🥂",
+  "My Girls Get It",
+  "Quick Wit Shirt",
+  "Every Group Chat Needs This"
+ ],
+ "tags": [
+  "#Comeback",
+  "#Sassy",
+  "#GirlsNight",
+  "#GirlsTrip",
+  "#AdultHumor",
+  "#FunnyTShirt",
+  "#SarcasticShirt",
+  "#BestieGift",
+  "#FunnyGift",
+  "#StatementTee",
+  "#ShirtCheck",
+  "#GalPals",
+  "#Attitude"
+ ]
+}

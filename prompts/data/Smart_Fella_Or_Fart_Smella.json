@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Chili Dog Stand",
+   "holding a chili dog"
+  ],
+  [
+   "Baked Bean Cook-Off",
+   "stirring a pot of baked beans"
+  ],
+  [
+   "Broccoli Casserole Potluck",
+   "setting down a casserole dish"
+  ],
+  [
+   "Taco Drive-Thru Lot",
+   "holding a bag of tacos in the truck"
+  ],
+  [
+   "Burrito Challenge Restaurant",
+   "holding a giant burrito"
+  ],
+  [
+   "Hot Wing Challenge Table",
+   "fanning their mouth"
+  ],
+  [
+   "Brisket Plate Joint",
+   "holding a tray of brisket and beans"
+  ],
+  [
+   "Beer And Brat Fest",
+   "holding a bratwurst and a pint"
+  ],
+  [
+   "Oktoberfest Tent",
+   "lifting a stein"
+  ],
+  [
+   "Crawfish Boil",
+   "pouring crawfish onto a table"
+  ],
+  [
+   "Fish Fry Tent",
+   "holding a plate of fried catfish"
+  ],
+  [
+   "Steakhouse Booth",
+   "cutting into a steak"
+  ],
+  [
+   "All-You-Can-Eat Buffet",
+   "heading back for seconds"
+  ],
+  [
+   "Pizza Buffet",
+   "holding two slices"
+  ],
+  [
+   "Road Trip Gas Station",
+   "holding a bag of jerky"
+  ],
+  [
+   "Long Road Trip Car",
+   "sitting in the passenger seat with the window down"
+  ],
+  [
+   "Carpool To Work",
+   "sitting in the driver's seat with a grin"
+  ],
+  [
+   "Elevator Ride",
+   "standing innocently with hands behind the back"
+  ],
+  [
+   "Office Conference Room",
+   "sitting quietly with a smirk"
+  ],
+  [
+   "Open Office Desk",
+   "looking around innocently"
+  ],
+  [
+   "Cubicle Neighbor",
+   "peeking over a cubicle wall"
+  ],
+  [
+   "Monday Morning Meeting",
+   "holding a coffee with a straight face"
+  ],
+  [
+   "Trade Show Booth",
+   "handing out brochures"
+  ],
+  [
+   "Warehouse Break Area",
+   "sitting on a crate with a soda"
+  ],
+  [
+   "Construction Lunch Break",
+   "eating a sandwich on a tailgate"
+  ],
+  [
+   "Fire Station Kitchen",
+   "stirring a pot of chili"
+  ],
+  [
+   "Deer Camp Tent",
+   "sitting on a cot with a grin"
+  ],
+  [
+   "Duck Blind",
+   "holding a thermos at dawn"
+  ],
+  [
+   "Ice Fishing Shanty",
+   "sitting on a bucket by the hole"
+  ],
+  [
+   "Bass Boat",
+   "casting a line"
+  ],
+  [
+   "Golf Cart",
+   "driving with a buddy"
+  ],
+  [
+   "Golf Clubhouse Bar",
+   "holding a beer"
+  ],
+  [
+   "Bowling League Night",
+   "holding a bowling ball"
+  ],
+  [
+   "Darts Night",
+   "lining up a throw"
+  ],
+  [
+   "Pool Table At A Pub",
+   "chalking a cue"
+  ],
+  [
+   "Poker Night Garage",
+   "stacking chips"
+  ],
+  [
+   "Super Bowl Watch Party",
+   "holding a plate of wings"
+  ],
+  [
+   "Fantasy Football Draft Board",
+   "holding a marker"
+  ],
+  [
+   "Sports Bar Big Game",
+   "holding a beer and cheering"
+  ],
+  [
+   "Hockey Game Stands",
+   "cheering in the stands"
+  ],
+  [
+   "Monster Truck Rally",
+   "holding a soda in the stands"
+  ],
+  [
+   "Drag Race Bleachers",
+   "covering ears with a grin"
+  ],
+  [
+   "Car Show",
+   "leaning on a classic car"
+  ],
+  [
+   "Motorcycle Rally",
+   "sitting on a parked motorcycle"
+  ],
+  [
+   "Auto Parts Store",
+   "holding a box of spark plugs"
+  ],
+  [
+   "Hardware Store Checkout",
+   "setting a toolbox on the counter"
+  ],
+  [
+   "Lumber Yard",
+   "loading boards into a truck"
+  ],
+  [
+   "Home Garage Workbench",
+   "sanding a board"
+  ],
+  [
+   "Backyard Smoker",
+   "opening the smoker lid"
+  ],
+  [
+   "Grill Master Patio",
+   "flipping burgers"
+  ],
+  [
+   "Campfire With Buddies",
+   "roasting a hot dog"
+  ],
+  [
+   "Tent Camping Morning",
+   "holding a tin cup of coffee"
+  ],
+  [
+   "Cabin Bunk Room",
+   "sitting on a bunk bed laughing"
+  ],
+  [
+   "Bachelor Party Pontoon",
+   "holding a cooler"
+  ],
+  [
+   "Fraternity Reunion Tailgate",
+   "holding a red cup"
+  ],
+  [
+   "Brewery Patio",
+   "holding a pint"
+  ],
+  [
+   "Whiskey Bar",
+   "swirling a glass of bourbon"
+  ],
+  [
+   "Karaoke Night",
+   "holding a mic"
+  ],
+  [
+   "Comedy Club Table",
+   "laughing at a small table"
+  ],
+  [
+   "Arcade Bar",
+   "playing pinball"
+  ],
+  [
+   "Movie Theater Seat",
+   "holding a giant popcorn"
+  ],
+  [
+   "Laundromat",
+   "folding towels"
+  ],
+  [
+   "Grocery Store Bean Aisle",
+   "holding a can of beans"
+  ],
+  [
+   "Warehouse Club Snack Aisle",
+   "holding a giant bag of chips"
+  ],
+  [
+   "Diner Breakfast",
+   "holding a plate of biscuits and gravy"
+  ],
+  [
+   "Waffle Shop",
+   "holding a waffle"
+  ],
+  [
+   "Coffee Shop",
+   "holding a large coffee"
+  ],
+  [
+   "Gym Juice Bar",
+   "holding a protein shake"
+  ],
+  [
+   "Yoga Class",
+   "holding a pose with a grin"
+  ],
+  [
+   "Front Porch",
+   "rocking in a chair with an iced tea"
+  ]
+ ],
+ "openers": [
+  "Okay, which one are you?",
+  "You're either one or the other.",
+  "Read it carefully, then decide.",
+  "Shirt check, smart edition.",
+  "Wore this to the chili cook-off on purpose.",
+  "Somebody had to say it.",
+  "My buddies all claim the first one.",
+  "This one gets a laugh every time.",
+  "Best gag gift I ever got.",
+  "There's no third option.",
+  "I'm a smart fella, obviously.",
+  "My wife says I'm the second one.",
+  "Read the orange part.",
+  "Rate this shirt, one to ten."
+ ],
+ "details": [
+  "The bold orange FART SMELLA is the best part.",
+  "The white slab-serif SMART FELLA looks so classy.",
+  "The orange bars around OR A tie it all together.",
+  "It's soft, fits great, and the print stays crisp.",
+  "Perfect gag gift for your buddy with bad jokes.",
+  "The orange really pops against the black cotton.",
+  "Great Father's Day gift for a dad who loves puns.",
+  "Still looks sharp after a lot of washes.",
+  "The wordplay gets everyone the second time.",
+  "Everyone reads it twice and starts laughing.",
+  "Silly, classic and a little bit gross.",
+  "Every guy in the group chat wants one."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then they point at SMART FELLA and then shrug at FART SMELLA.",
+  "Then they waft the air with one hand and grin.",
+  "Then they hold the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Add soft giggles and a short burst of laughter from people just off-camera.",
+  "Include a friend off-camera laughing and saying \"No way,\" mixed with natural ambient sound."
+ ],
+ "titles": [
+  "Smart Fella Or Fart Smella? 😂",
+  "Which One Are You?",
+  "Dad Joke Shirt Check",
+  "Gag Gift For Your Buddy",
+  "Read It Twice 😂",
+  "Father's Day Gift Idea",
+  "The Classic Pun Shirt",
+  "No Third Option",
+  "Chili Cook-Off Outfit",
+  "Every Buddy Needs This"
+ ],
+ "tags": [
+  "#SmartFella",
+  "#FartSmella",
+  "#DadJokes",
+  "#DadHumor",
+  "#ToiletHumor",
+  "#FunnyTShirt",
+  "#Puns",
+  "#GagGift",
+  "#FunnyGift",
+  "#GiftForDad",
+  "#StatementTee",
+  "#ShirtCheck",
+  "#GuyHumor"
+ ]
+}

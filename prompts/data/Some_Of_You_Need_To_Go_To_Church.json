@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Church Coffee Hour",
+   "holding a coffee and a donut"
+  ],
+  [
+   "Church Greeter Door",
+   "handing out bulletins with a smile"
+  ],
+  [
+   "Church Traffic Volunteer",
+   "waving cars into the lot"
+  ],
+  [
+   "Church Pew Before Service",
+   "flipping through a hymnal"
+  ],
+  [
+   "Praise Band Rehearsal",
+   "holding a guitar"
+  ],
+  [
+   "Gospel Concert",
+   "clapping along in the crowd"
+  ],
+  [
+   "Christian Music Festival",
+   "dancing with arms up"
+  ],
+  [
+   "Bible Bookstore",
+   "holding a study Bible"
+  ],
+  [
+   "Prayer Garden",
+   "sitting on a bench with a journal"
+  ],
+  [
+   "Church Picnic Pavilion",
+   "serving lemonade"
+  ],
+  [
+   "Church Chili Supper",
+   "ladling chili into bowls"
+  ],
+  [
+   "Church Fish Fry",
+   "holding a plate of fried fish"
+  ],
+  [
+   "Church Kitchen Volunteer Shift",
+   "arranging cookies on a tray"
+  ],
+  [
+   "Church Rummage Sale",
+   "holding up a vintage lamp"
+  ],
+  [
+   "Church Craft Fair",
+   "holding a handmade wreath"
+  ],
+  [
+   "Mission Trip Airport Gate",
+   "holding a carry-on and a coffee"
+  ],
+  [
+   "Church Softball League",
+   "holding a bat on one shoulder"
+  ],
+  [
+   "Church Bowling Night",
+   "holding a bowling ball"
+  ],
+  [
+   "Church Trivia Night",
+   "writing an answer on a sheet"
+  ],
+  [
+   "Men's Prayer Breakfast",
+   "holding a plate of eggs"
+  ],
+  [
+   "Women's Retreat Cabin Porch",
+   "sipping coffee with friends"
+  ],
+  [
+   "Baptism At A Lake Shore",
+   "standing on the shore with a towel"
+  ],
+  [
+   "Wedding Rehearsal Dinner",
+   "raising a glass of tea"
+  ],
+  [
+   "Easter Brunch",
+   "holding a deviled egg"
+  ],
+  [
+   "Living Nativity Night",
+   "holding a program"
+  ],
+  [
+   "Thanksgiving Community Dinner",
+   "serving mashed potatoes"
+  ],
+  [
+   "Food Pantry Volunteer Shift",
+   "stacking canned goods"
+  ],
+  [
+   "Habitat Build Site",
+   "holding a hammer"
+  ],
+  [
+   "Homeless Shelter Kitchen",
+   "serving soup"
+  ],
+  [
+   "Nursing Home Visit Lounge",
+   "playing cards at a table"
+  ],
+  [
+   "Hospital Chapel Hallway",
+   "holding a coffee with a calm smile"
+  ],
+  [
+   "Pastor Appreciation Lunch",
+   "holding a slice of cake"
+  ],
+  [
+   "Small Group Dinner",
+   "passing a casserole dish"
+  ],
+  [
+   "Devotional Cafe Table",
+   "holding an open Bible and a latte"
+  ],
+  [
+   "Sunday Drive Country Road",
+   "leaning on a pickup by a field"
+  ],
+  [
+   "After-Church Buffet",
+   "loading a plate"
+  ],
+  [
+   "Sunday Football Couch",
+   "holding a bowl of chips"
+  ],
+  [
+   "Sunday Afternoon Fishing Creek",
+   "holding a fishing rod"
+  ],
+  [
+   "Sunday Pot Roast Kitchen",
+   "pulling a pot roast from the oven"
+  ],
+  [
+   "Biker Church Rally",
+   "standing by a parked motorcycle"
+  ],
+  [
+   "Cowboy Church Arena",
+   "tipping a cowboy hat"
+  ],
+  [
+   "Country Gospel Jamboree",
+   "clapping on a hay bale"
+  ],
+  [
+   "Camp Meeting Grounds",
+   "leaning on a car with a sweet tea"
+  ],
+  [
+   "Bar Patio",
+   "holding a beer with a grin"
+  ],
+  [
+   "Casino Floor",
+   "holding a cup of tokens"
+  ],
+  [
+   "Tattoo Parlor",
+   "showing a cross tattoo"
+  ],
+  [
+   "Sports Bar",
+   "holding a plate of wings"
+  ],
+  [
+   "Poker Night",
+   "stacking chips"
+  ],
+  [
+   "Karaoke Night",
+   "singing into a mic"
+  ],
+  [
+   "Nightclub Line",
+   "standing in line with a smirk"
+  ],
+  [
+   "Halloween Costume Party",
+   "holding a plastic devil pitchfork prop"
+  ],
+  [
+   "Hot Sauce Shop",
+   "holding a bottle of very hot sauce"
+  ],
+  [
+   "Hot Yoga Studio",
+   "wiping sweat with a towel"
+  ],
+  [
+   "Sauna Lobby",
+   "holding a water bottle"
+  ],
+  [
+   "Desert Road Trip",
+   "standing by a car in the heat"
+  ],
+  [
+   "Summer Heat Wave Porch",
+   "fanning themselves"
+  ],
+  [
+   "Fire Pit Night",
+   "poking the fire"
+  ],
+  [
+   "Barbecue Smoker",
+   "opening the smoker in a cloud of smoke"
+  ],
+  [
+   "Fireworks Stand",
+   "holding a box of fireworks"
+  ],
+  [
+   "Gas Station Snack Run",
+   "holding an iced tea"
+  ],
+  [
+   "Traffic Jam",
+   "sitting in the driver's seat with a calm smile"
+  ],
+  [
+   "DMV Waiting Room",
+   "holding a number ticket"
+  ],
+  [
+   "Office Monday Meeting",
+   "holding a coffee"
+  ],
+  [
+   "HOA Meeting",
+   "raising a hand"
+  ],
+  [
+   "Homecoming Dinner On The Grounds",
+   "holding a plate of fried chicken"
+  ],
+  [
+   "In-Law Dinner",
+   "passing the rolls"
+  ],
+  [
+   "Neighborhood Block Party",
+   "holding a red cup of lemonade"
+  ],
+  [
+   "Supermarket Checkout",
+   "putting groceries on the belt"
+  ],
+  [
+   "Beauty Shop Chair",
+   "chatting with a stylist"
+  ],
+  [
+   "Gazebo At Sunset",
+   "swinging with an iced tea"
+  ]
+ ],
+ "openers": [
+  "Seriously, read the whole thing.",
+  "I'm just looking out for you.",
+  "This shirt comes from a place of love.",
+  "Wore this to Sunday brunch on purpose.",
+  "Shirt check, Sunday edition.",
+  "Somebody had to say it.",
+  "My church friends loved this one.",
+  "I'm trying to save some of y'all.",
+  "This one gets a laugh every time.",
+  "Read it to the orange part.",
+  "My pastor laughed at this.",
+  "Best Sunday shirt I own.",
+  "I want good company, just not there.",
+  "Rate this shirt, one to ten."
+ ],
+ "details": [
+  "That huge orange-red HELL is impossible to miss.",
+  "The orange divider bar makes the punchline land.",
+  "GO TO CHURCH in bold reads loud and clear.",
+  "It's soft, fits great, and the print stays crisp.",
+  "Perfect gift for the friend who keeps it real.",
+  "The orange-red pops against the black cotton.",
+  "Great gift for church friends with a sense of humor.",
+  "Still looks sharp after a lot of washes.",
+  "The tall narrow caps read clean from across the room.",
+  "Everyone reads it and laughs at the last line.",
+  "Funny, honest and a little bit holy.",
+  "Every church friend wants one."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then they put a hand over their heart and point at the shirt.",
+  "Then they tap the orange HELL and grin.",
+  "Then they hold the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Add soft giggles and a short burst of laughter from people just off-camera.",
+  "Include a friend off-camera laughing and saying \"No way,\" mixed with natural ambient sound."
+ ],
+ "titles": [
+  "Some Of You Need Church 😂",
+  "Sunday Shirt Check",
+  "I Don't Want You There",
+  "Church Humor Shirt",
+  "Gift For Church Friends",
+  "Read To The Last Line 🙏",
+  "Coming From Love 😂",
+  "Faith And Humor",
+  "Sunday Brunch Outfit",
+  "Every Church Group Needs This"
+ ],
+ "tags": [
+  "#ChurchHumor",
+  "#FaithHumor",
+  "#ChristianHumor",
+  "#SundayFunday",
+  "#FunnyTShirt",
+  "#SarcasticShirt",
+  "#Southern",
+  "#FunnyGift",
+  "#GiftIdea",
+  "#StatementTee",
+  "#ShirtCheck",
+  "#HumorShirt",
+  "#SarcasmLovers"
+ ]
+}

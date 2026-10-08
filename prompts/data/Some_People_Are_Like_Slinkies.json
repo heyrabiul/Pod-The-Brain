@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Retro Gaming Convention",
+   "holding a classic metal slinky"
+  ],
+  [
+   "Collectibles Show Booth",
+   "holding a slinky box"
+  ],
+  [
+   "Pinball Lounge",
+   "playing a vintage arcade game"
+  ],
+  [
+   "80s Theme Party",
+   "holding a slinky and laughing"
+  ],
+  [
+   "Antique Mall",
+   "holding an old tin toy"
+  ],
+  [
+   "Flea Market Toy Table",
+   "holding a slinky in each hand"
+  ],
+  [
+   "Office Desk Toy Collection",
+   "stretching a slinky between hands"
+  ],
+  [
+   "Office Cubicle Fidget Corner",
+   "flipping a slinky hand to hand"
+  ],
+  [
+   "Engineering Office Physics Demo",
+   "dangling a slinky to show gravity"
+  ],
+  [
+   "Science Museum Gravity Exhibit",
+   "watching a ball drop in a tube"
+  ],
+  [
+   "Escape Room Lobby",
+   "holding a puzzle piece"
+  ],
+  [
+   "Board Game Cafe",
+   "rolling dice"
+  ],
+  [
+   "Trivia Night Pub",
+   "writing an answer on a sheet"
+  ],
+  [
+   "Beer Garden",
+   "holding a pint"
+  ],
+  [
+   "Whiskey Lounge",
+   "swirling a glass of bourbon"
+  ],
+  [
+   "Rooftop Bar",
+   "holding a cocktail by the railing"
+  ],
+  [
+   "Karaoke Night",
+   "singing into a mic"
+  ],
+  [
+   "Improv Night",
+   "laughing at a small table"
+  ],
+  [
+   "Sports Bar Booth",
+   "holding a basket of wings"
+  ],
+  [
+   "Candlepin Night",
+   "holding a bowling ball"
+  ],
+  [
+   "Axe Throwing Lane",
+   "cheering after a bullseye"
+  ],
+  [
+   "Pool Table At A Pub",
+   "chalking a cue"
+  ],
+  [
+   "Poker Night",
+   "stacking chips"
+  ],
+  [
+   "Fantasy Football Draft",
+   "holding a marker"
+  ],
+  [
+   "Super Bowl Party",
+   "holding a plate of nachos"
+  ],
+  [
+   "Tailgate Party",
+   "flipping burgers"
+  ],
+  [
+   "Golf Course",
+   "lining up a putt"
+  ],
+  [
+   "Pickleball Court",
+   "holding a paddle"
+  ],
+  [
+   "Gym Front Desk",
+   "scanning a membership card"
+  ],
+  [
+   "Spin Class",
+   "pedaling with a grin"
+  ],
+  [
+   "Hiking Trail Overlook",
+   "holding a water bottle"
+  ],
+  [
+   "Camping Trip",
+   "sitting by a campfire"
+  ],
+  [
+   "Lake Dock",
+   "sitting with feet in the water"
+  ],
+  [
+   "Beach Chair",
+   "relaxing with sunglasses"
+  ],
+  [
+   "Pool Party",
+   "holding a lemonade"
+  ],
+  [
+   "Road Trip Rest Stop",
+   "stretching beside the car"
+  ],
+  [
+   "Gas Station Snack Run",
+   "holding a soda"
+  ],
+  [
+   "Airport Gate",
+   "holding a coffee"
+  ],
+  [
+   "Hotel Lobby Coffee Station",
+   "pouring a coffee"
+  ],
+  [
+   "Car Wash",
+   "drying the hood"
+  ],
+  [
+   "Auto Repair Waiting Room",
+   "reading a magazine"
+  ],
+  [
+   "DMV Waiting Room",
+   "holding a number ticket"
+  ],
+  [
+   "Post Office Line",
+   "holding a package"
+  ],
+  [
+   "Bank Line",
+   "holding a deposit slip"
+  ],
+  [
+   "Grocery Store Checkout",
+   "putting snacks on the belt"
+  ],
+  [
+   "Warehouse Club",
+   "pushing a giant cart"
+  ],
+  [
+   "Hardware Store",
+   "holding a tape measure"
+  ],
+  [
+   "Garden Center",
+   "holding a potted plant"
+  ],
+  [
+   "Farmers Market",
+   "holding a basket of peaches"
+  ],
+  [
+   "Coffee Shop Counter",
+   "ordering a latte"
+  ],
+  [
+   "Bakery",
+   "pointing at a cupcake"
+  ],
+  [
+   "Pizza Night Kitchen",
+   "tossing pizza dough"
+  ],
+  [
+   "Taco Tuesday",
+   "holding a margarita"
+  ],
+  [
+   "Diner Booth",
+   "stirring coffee"
+  ],
+  [
+   "Office Meeting",
+   "sitting with a deadpan face"
+  ],
+  [
+   "Office Holiday Party",
+   "holding a cup of punch"
+  ],
+  [
+   "Team Lunch Outing",
+   "holding a slice of cake"
+  ],
+  [
+   "Team Building Workshop",
+   "holding a sticky note"
+  ],
+  [
+   "Customer Service Desk",
+   "holding a phone with a tight smile"
+  ],
+  [
+   "Monday Morning Commute",
+   "holding a giant coffee"
+  ],
+  [
+   "HOA Meeting",
+   "raising a hand"
+  ],
+  [
+   "In-Law Visit Kitchen",
+   "stirring a pot with a polite smile"
+  ],
+  [
+   "Thanksgiving Table",
+   "passing the stuffing"
+  ],
+  [
+   "Family Reunion Pavilion For Adults",
+   "holding a plate of ribs"
+  ],
+  [
+   "Wedding Reception Guest Table",
+   "raising a glass"
+  ],
+  [
+   "Divorce Party",
+   "toasting with friends"
+  ],
+  [
+   "White Elephant Party",
+   "holding a wrapped gift"
+  ],
+  [
+   "Housewarming Party",
+   "holding a plant"
+  ],
+  [
+   "Dog Park",
+   "holding a leash"
+  ],
+  [
+   "Gazebo Rocking Chair",
+   "rocking with an iced tea"
+  ]
+ ],
+ "openers": [
+  "Okay, read this one all the way down.",
+  "Some people are just like slinkies.",
+  "This shirt explains a lot.",
+  "Shirt check, nostalgia edition.",
+  "Wore this to the office on purpose.",
+  "Somebody had to say it.",
+  "My coworkers read it twice.",
+  "This one gets a laugh every time.",
+  "Best gag gift ever.",
+  "You know exactly who this is about.",
+  "Remember slinkies? This is better.",
+  "Read the last line.",
+  "My friends say this is too accurate.",
+  "Rate this shirt, one to ten."
+ ],
+ "details": [
+  "The giant yellow SLINKIES is impossible to miss.",
+  "The yellow divider line makes the punchline land.",
+  "The tall white caps read clean from across the room.",
+  "It's soft, fits great, and the print stays crisp.",
+  "Perfect gag gift for the friend with dark humor.",
+  "The yellow really pops against the black cotton.",
+  "Great gift for anyone who grew up with slinkies.",
+  "Still looks sharp after a lot of washes.",
+  "The setup sounds sweet, then the ending hits.",
+  "Everyone reads it to the end and laughs.",
+  "Nostalgic, sarcastic and a little bit dark.",
+  "Every sarcastic friend wants one."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then they stretch a slinky between their hands and grin.",
+  "Then they tap the yellow SLINKIES and raise an eyebrow.",
+  "Then they hold the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Add soft giggles and a short burst of laughter from people just off-camera.",
+  "Include a friend off-camera laughing and saying \"No way,\" mixed with natural ambient sound."
+ ],
+ "titles": [
+  "Some People Are Like Slinkies 😂",
+  "Read The Last Line",
+  "Nostalgia With A Twist",
+  "Dark Humor Shirt Check",
+  "Gag Gift Idea",
+  "You Know Who This Is",
+  "Slinky Shirt 😂",
+  "Sarcastic And Nostalgic",
+  "Every Office Needs This",
+  "Too Accurate"
+ ],
+ "tags": [
+  "#Slinky",
+  "#DarkHumor",
+  "#SarcasticShirt",
+  "#Nostalgia",
+  "#90sKid",
+  "#FunnyTShirt",
+  "#SarcasmLovers",
+  "#OfficeHumor",
+  "#FunnyGift",
+  "#GagGift",
+  "#StatementTee",
+  "#ShirtCheck",
+  "#HumorShirt"
+ ]
+}

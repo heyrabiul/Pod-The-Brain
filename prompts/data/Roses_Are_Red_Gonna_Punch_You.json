@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Valentine's Day Flower Shop",
+   "holding a bouquet of red roses"
+  ],
+  [
+   "Rose Garden Path",
+   "smelling a red rose with a smirk"
+  ],
+  [
+   "Florist Counter",
+   "wrapping roses in paper"
+  ],
+  [
+   "Poetry Open Mic",
+   "holding a notebook at the mic"
+  ],
+  [
+   "Bookstore Poetry Shelf",
+   "holding a poetry book"
+  ],
+  [
+   "Greeting Card Aisle",
+   "holding a sappy card with a smirk"
+  ],
+  [
+   "Valentine's Dinner",
+   "holding a heart-shaped box of chocolates"
+  ],
+  [
+   "Anti-Valentine's Party",
+   "raising a glass"
+  ],
+  [
+   "Galentine's Brunch",
+   "raising a mimosa"
+  ],
+  [
+   "Reading Room At A Coworking Space",
+   "holding a finger to lips"
+  ],
+  [
+   "Drive-In Talker Car",
+   "turning around with a calm stare"
+  ],
+  [
+   "Concert Chatter Row",
+   "holding a drink with a tight smile"
+  ],
+  [
+   "Open Office Loud Talker",
+   "putting on headphones"
+  ],
+  [
+   "Video Call Unmuted Coworker",
+   "staring at a webcam with a polite smile"
+  ],
+  [
+   "Conference Call Desk",
+   "holding a phone away from the ear"
+  ],
+  [
+   "Terminal Lounge Speakerphone",
+   "sitting next to a loud call with a calm face"
+  ],
+  [
+   "Red-Eye Middle Seat",
+   "buckling a seatbelt with a tight smile"
+  ],
+  [
+   "Long Road Trip Back Seat",
+   "sitting with arms crossed"
+  ],
+  [
+   "Group Chat On The Couch",
+   "staring at a buzzing phone"
+  ],
+  [
+   "Neighbor's Leaf Blower",
+   "sipping coffee with a calm stare"
+  ],
+  [
+   "Gym Grunter Next Door",
+   "resting between sets with a stare"
+  ],
+  [
+   "Yoga Class Whisperer",
+   "holding a pose with a tight smile"
+  ],
+  [
+   "Nail Salon Gossip",
+   "drying fresh nails with a smile"
+  ],
+  [
+   "Blowout Bar Chair",
+   "listening to a stylist talk"
+  ],
+  [
+   "Beard Trim Shop Debate",
+   "sitting in the chair with a calm stare"
+  ],
+  [
+   "Pub Know-It-All",
+   "holding a beer with a tight smile"
+  ],
+  [
+   "Fantasy Football Trash Talk",
+   "holding a phone with a smirk"
+  ],
+  [
+   "Card Night Chatter",
+   "stacking chips with a poker face"
+  ],
+  [
+   "Trivia Night Shouter",
+   "writing an answer calmly"
+  ],
+  [
+   "Karaoke Night",
+   "holding a mic and smiling"
+  ],
+  [
+   "Bowling League Night",
+   "holding a bowling ball calmly"
+  ],
+  [
+   "Golf Course Talker",
+   "lining up a putt with a calm face"
+  ],
+  [
+   "Fishing Trip Chatter",
+   "holding a rod with a calm face"
+  ],
+  [
+   "Hunting Blind Whisper",
+   "holding a thermos at dawn"
+  ],
+  [
+   "Campfire Storyteller",
+   "poking the fire with a stick"
+  ],
+  [
+   "Friendsgiving Debate",
+   "passing the mashed potatoes calmly"
+  ],
+  [
+   "In-Law Visit Living Room",
+   "sitting on the couch with a polite smile"
+  ],
+  [
+   "Wedding Reception Speeches",
+   "holding a champagne flute"
+  ],
+  [
+   "Baby Shower Games",
+   "holding a game card with a smile"
+  ],
+  [
+   "Book Club Debate",
+   "holding a paperback calmly"
+  ],
+  [
+   "HOA Meeting",
+   "raising a hand with a calm face"
+  ],
+  [
+   "City Council Comment Line",
+   "holding a speaker card"
+  ],
+  [
+   "Customer Service Line",
+   "holding a receipt calmly"
+  ],
+  [
+   "Bank Line",
+   "holding a deposit slip"
+  ],
+  [
+   "DMV Line",
+   "holding a number ticket"
+  ],
+  [
+   "Post Office Line",
+   "holding a package"
+  ],
+  [
+   "Espresso Bar Line",
+   "waiting with a calm smile"
+  ],
+  [
+   "Brunch Waitlist",
+   "holding a buzzing pager"
+  ],
+  [
+   "Food Truck Line",
+   "holding a basket of tacos"
+  ],
+  [
+   "Express Lane At A Market",
+   "holding three items calmly"
+  ],
+  [
+   "Warehouse Club Sample Line",
+   "holding a sample cup"
+  ],
+  [
+   "Auto Showroom Pitch",
+   "sitting at a desk with a tight smile"
+  ],
+  [
+   "Timeshare Presentation",
+   "holding a brochure"
+  ],
+  [
+   "Mattress Store Salesperson",
+   "sitting on a display bed"
+  ],
+  [
+   "Real Estate Open House",
+   "holding a flyer"
+  ],
+  [
+   "Brewery Patio",
+   "holding a pint"
+  ],
+  [
+   "Wine Cellar Tasting",
+   "swirling a glass of red"
+  ],
+  [
+   "Whiskey Bar",
+   "holding a rocks glass"
+  ],
+  [
+   "Tiki Bar",
+   "holding a coconut cup"
+  ],
+  [
+   "Sky Bar",
+   "leaning on the railing with a cocktail"
+  ],
+  [
+   "Boxing Gym",
+   "wrapping hands with a grin"
+  ],
+  [
+   "Kickboxing Class",
+   "hitting a heavy bag"
+  ],
+  [
+   "Rage Room",
+   "holding a bat with goggles on"
+  ],
+  [
+   "Axe Throwing Lane",
+   "cheering after a bullseye"
+  ],
+  [
+   "Pickleball Court",
+   "holding a paddle"
+  ],
+  [
+   "Spin Class",
+   "pedaling hard with a grin"
+  ],
+  [
+   "Dog Park",
+   "holding a leash"
+  ],
+  [
+   "Front Porch",
+   "rocking in a chair with an iced tea"
+  ],
+  [
+   "Backyard Hammock",
+   "swinging with a drink"
+  ],
+  [
+   "Beach Chair",
+   "relaxing with headphones on"
+  ]
+ ],
+ "openers": [
+  "Roses are red, read the rest.",
+  "This poem is my love language.",
+  "Okay, read it carefully.",
+  "Shirt check, poetry edition.",
+  "Wore this to the meeting on purpose.",
+  "Somebody had to write this poem.",
+  "My coworkers got the hint.",
+  "This shirt keeps things quiet.",
+  "This one gets a laugh every time.",
+  "Best Valentine's shirt ever.",
+  "I'm a poet, as you can see.",
+  "Read both verses.",
+  "My friends say this is so me.",
+  "Rate this shirt, one to ten."
+ ],
+ "details": [
+  "The lime-green punch, eye and blue are the best part.",
+  "The white mixed-case poem reads like a real card.",
+  "Two verses, and the second one lands the joke.",
+  "It's soft, fits great, and the print stays crisp.",
+  "Perfect gag gift for the friend who needs quiet.",
+  "The lime green pops against the black cotton.",
+  "Great anti-Valentine's gift, trust me.",
+  "Still looks sharp after a lot of washes.",
+  "It looks sweet until you actually read it.",
+  "Everyone reads both verses and laughs.",
+  "Sweet, sarcastic and totally honest.",
+  "Every introvert friend wants one."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then they hold a finger to their lips and point at the shirt.",
+  "Then they tap the lime-green words and smirk.",
+  "Then they hold the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Add soft giggles and a short burst of laughter from people just off-camera.",
+  "Include a friend off-camera laughing and saying \"No way,\" mixed with natural ambient sound."
+ ],
+ "titles": [
+  "Roses Are Red 😂",
+  "My Kind Of Poem",
+  "Read Both Verses",
+  "Anti-Valentine's Shirt 🌹",
+  "Gift For Your Sarcastic Friend",
+  "Poetry Shirt Check",
+  "Please Stop Talking 😂",
+  "The Quiet Please Shirt",
+  "Sweet Until You Read It",
+  "Every Introvert Needs This"
+ ],
+ "tags": [
+  "#RosesAreRed",
+  "#FunnyPoem",
+  "#SarcasticShirt",
+  "#Introvert",
+  "#AntiValentine",
+  "#FunnyTShirt",
+  "#OfficeHumor",
+  "#AdultHumor",
+  "#FunnyGift",
+  "#GiftIdea",
+  "#StatementTee",
+  "#ShirtCheck",
+  "#HumorShirt"
+ ]
+}

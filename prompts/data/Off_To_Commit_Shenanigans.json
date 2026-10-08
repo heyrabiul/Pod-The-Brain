@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Castle-Themed Puzzle Room",
+   "holding a brass key prop"
+  ],
+  [
+   "Castle Banquet Hall",
+   "raising a goblet"
+  ],
+  [
+   "Axe Throwing Lane",
+   "cheering after a bullseye"
+  ],
+  [
+   "Archery Tag Field",
+   "holding a foam-tipped bow"
+  ],
+  [
+   "Fencing Club Lobby",
+   "holding a fencing mask"
+  ],
+  [
+   "Larp Meetup Park",
+   "holding a foam sword"
+  ],
+  [
+   "Fantasy Bookstore",
+   "holding a dragon novel"
+  ],
+  [
+   "Dice Night At A Friend's Place",
+   "rolling a twenty-sided die"
+  ],
+  [
+   "Miniature Painting Class",
+   "painting a tiny knight figure"
+  ],
+  [
+   "Dungeon Crawl Bar",
+   "holding a pint at a game table"
+  ],
+  [
+   "Fantasy Tavern Bar",
+   "clinking mugs with friends"
+  ],
+  [
+   "Mead Hall Tasting Room",
+   "holding a glass of mead"
+  ],
+  [
+   "Cidery Patio",
+   "holding a pint of cider"
+  ],
+  [
+   "Taproom Trivia Night",
+   "writing an answer on a sheet"
+  ],
+  [
+   "Karaoke Bar",
+   "singing with a mic"
+  ],
+  [
+   "Dive Bar Jukebox",
+   "picking a song"
+  ],
+  [
+   "Pub Crawl Sidewalk",
+   "holding a pub crawl map"
+  ],
+  [
+   "Bachelor Party Kickoff",
+   "holding a cooler"
+  ],
+  [
+   "Bachelorette Scavenger Hunt",
+   "holding a clue card"
+  ],
+  [
+   "Road Trip Car",
+   "singing in the passenger seat"
+  ],
+  [
+   "Gas Station Snack Run",
+   "holding armfuls of snacks"
+  ],
+  [
+   "Rest Stop Selfie",
+   "taking a selfie with friends"
+  ],
+  [
+   "Backcountry Tent Setup",
+   "holding tent poles"
+  ],
+  [
+   "Lake Rope Swing Spot",
+   "holding the rope and laughing"
+  ],
+  [
+   "River Tubing Launch",
+   "holding an inner tube"
+  ],
+  [
+   "Kayak Race Start",
+   "holding a paddle"
+  ],
+  [
+   "Mud Run Starting Line",
+   "stretching before the race"
+  ],
+  [
+   "Color Run Finish",
+   "covered in colored powder on the arms"
+  ],
+  [
+   "Paintball Field",
+   "holding a mask"
+  ],
+  [
+   "Go-Kart Track",
+   "holding a helmet"
+  ],
+  [
+   "Bumper Car Arena For Adults",
+   "climbing into a bumper car"
+  ],
+  [
+   "Water Balloon Fight Backyard",
+   "holding a water balloon"
+  ],
+  [
+   "Nerf Battle Office",
+   "holding a foam blaster"
+  ],
+  [
+   "Office Prank Desk",
+   "wrapping a coworker's stapler in tape"
+  ],
+  [
+   "April Fools Office",
+   "setting a whoopee cushion on a chair"
+  ],
+  [
+   "Halloween Costume Party",
+   "holding a plastic sword"
+  ],
+  [
+   "Cosplay Photo Line",
+   "holding a cardboard shield"
+  ],
+  [
+   "Turkey Leg Stand At A Jousting Show",
+   "holding a turkey leg"
+  ],
+  [
+   "Pirate Bar",
+   "holding a rum drink"
+  ],
+  [
+   "Tiki Bar",
+   "holding a coconut cup"
+  ],
+  [
+   "Beach Volleyball Court",
+   "holding a volleyball"
+  ],
+  [
+   "Sandcastle Contest",
+   "sculpting a sand tower"
+  ],
+  [
+   "Boardwalk Skee-Ball Hall",
+   "playing skee-ball"
+  ],
+  [
+   "Pinball Lounge",
+   "gripping a pinball machine"
+  ],
+  [
+   "Fighting Game Lounge",
+   "playing a fighting game"
+  ],
+  [
+   "Glow Candlepin Night",
+   "holding a bowling ball"
+  ],
+  [
+   "Roller Disco Adult Night",
+   "lacing up skates"
+  ],
+  [
+   "Ice Skating Rink",
+   "gripping the wall"
+  ],
+  [
+   "Ski Lodge",
+   "holding a hot cocoa"
+  ],
+  [
+   "Snowball Fight Backyard",
+   "holding a snowball"
+  ],
+  [
+   "Sledding Hill For Adults",
+   "pulling a sled uphill"
+  ],
+  [
+   "Lily Pond Bench",
+   "pointing at a frog on a lily pad"
+  ],
+  [
+   "Garden Center Frog Statues",
+   "holding a concrete frog statue"
+  ],
+  [
+   "Pet Store Amphibian Tank",
+   "looking at a tree frog"
+  ],
+  [
+   "Botanical Garden Greenhouse",
+   "sitting on a bench by the ferns"
+  ],
+  [
+   "Zoo Reptile House",
+   "pointing at a frog exhibit"
+  ],
+  [
+   "Night Market",
+   "holding a bag of kettle corn"
+  ],
+  [
+   "Food Truck Park",
+   "holding a basket of fries"
+  ],
+  [
+   "Pizza Night Kitchen",
+   "tossing pizza dough"
+  ],
+  [
+   "Donut Shop",
+   "holding a dozen donuts"
+  ],
+  [
+   "Popsicle Bar",
+   "holding a popsicle"
+  ],
+  [
+   "Backyard Movie Night",
+   "holding a popcorn bowl"
+  ],
+  [
+   "Video Game Tournament",
+   "holding a controller"
+  ],
+  [
+   "Puzzle Room Victory Photo",
+   "striking a victory pose"
+  ],
+  [
+   "Dodgeball League Night",
+   "holding a dodgeball"
+  ],
+  [
+   "Laser Maze Attraction",
+   "stepping over a light beam"
+  ],
+  [
+   "Ghost Walk Tour",
+   "holding a lantern on an old street"
+  ],
+  [
+   "Corn Maze Night",
+   "holding a flashlight at a crossroads"
+  ],
+  [
+   "Comedy Club",
+   "laughing at a small table"
+  ],
+  [
+   "Front Porch",
+   "sitting with friends and laughing"
+  ]
+ ],
+ "openers": [
+  "Okay, I'm off.",
+  "Don't wait up.",
+  "Shenanigans incoming.",
+  "This shirt explains my plans.",
+  "Wore this so they'd know what's coming.",
+  "Shirt check, adventure edition.",
+  "The frog knight is my spirit animal.",
+  "Somebody had to start the fun.",
+  "My friends know trouble when they see this shirt.",
+  "Best weekend shirt I own.",
+  "This one gets a laugh every time.",
+  "Rate this shirt, one to ten.",
+  "Look at that little frog knight.",
+  "Quest accepted."
+ ],
+ "details": [
+  "That little green frog knight with the sword is so cute.",
+  "The red-pink gothic SHENANIGANS looks like an old storybook.",
+  "The white gothic caps look medieval and fun.",
+  "It's soft, fits great, and the print stays crisp.",
+  "Perfect gift for the friend who always starts trouble.",
+  "The red and green pop against the black cotton.",
+  "Great gift for tabletop gamers and frog lovers.",
+  "Still looks sharp after a lot of washes.",
+  "The tiny red tunic on the frog is a perfect detail.",
+  "Everyone asks where I got it.",
+  "Fun, nerdy and full of mischief.",
+  "Every adventurous friend wants one."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then they tap the little frog knight and grin.",
+  "Then they hold an invisible sword up like a knight.",
+  "Then they hold the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Add soft giggles and a short burst of laughter from people just off-camera.",
+  "Include a friend off-camera laughing and saying \"No way,\" mixed with natural ambient sound."
+ ],
+ "titles": [
+  "Off To Commit Shenanigans 🐸",
+  "Quest Accepted",
+  "Frog Knight Shirt Check",
+  "Shenanigans Incoming 😂",
+  "Gift For Your Chaotic Friend",
+  "Weekend Plans Shirt",
+  "The Frog Knight Shirt 🗡️",
+  "Adventure Awaits",
+  "Trouble Starts Here",
+  "Every Party Needs This Shirt"
+ ],
+ "tags": [
+  "#Shenanigans",
+  "#FrogKnight",
+  "#FrogLover",
+  "#DnD",
+  "#Tabletop",
+  "#FunnyTShirt",
+  "#AdventureTime",
+  "#FunnyGift",
+  "#GiftIdea",
+  "#StatementTee",
+  "#ShirtCheck",
+  "#FriendGroup",
+  "#GraphicTee"
+ ]
+}

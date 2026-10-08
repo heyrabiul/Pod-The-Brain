@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Pickleball Tournament",
+   "stretching a hamstring before a match"
+  ],
+  [
+   "Golf Driving Range",
+   "rubbing a sore lower back after a swing"
+  ],
+  [
+   "Softball League Dugout",
+   "icing a shoulder"
+  ],
+  [
+   "Candlepin League Lane",
+   "rubbing a sore wrist"
+  ],
+  [
+   "Tennis Club",
+   "holding an elbow after a serve"
+  ],
+  [
+   "Spin Class Exit",
+   "walking out stiffly with a water bottle"
+  ],
+  [
+   "CrossFit Box",
+   "lying on a mat after a workout"
+  ],
+  [
+   "Hot Pilates Exit",
+   "walking out with a towel and a wince"
+  ],
+  [
+   "Marathon Finish Line",
+   "limping slightly with a medal"
+  ],
+  [
+   "5K Fun Run Finish",
+   "stretching calves at the finish"
+  ],
+  [
+   "Hiking Summit",
+   "sitting on a rock rubbing knees"
+  ],
+  [
+   "Ski Lodge After First Run",
+   "sitting by the fire with a wince"
+  ],
+  [
+   "Snowboard Rental Return",
+   "carrying a board stiffly"
+  ],
+  [
+   "Roller Skating Night",
+   "sitting on a bench rubbing a knee"
+  ],
+  [
+   "Ice Skating Rink Bench",
+   "lacing skates with a grimace"
+  ],
+  [
+   "Dance Class",
+   "holding a hip and laughing"
+  ],
+  [
+   "Line Dancing Night",
+   "stretching a back between songs"
+  ],
+  [
+   "Trampoline Park Adult Night",
+   "sitting on the edge catching a breath"
+  ],
+  [
+   "Kayak Launch",
+   "stretching shoulders before paddling"
+  ],
+  [
+   "Fishing Pier Bench",
+   "standing up slowly from a bench"
+  ],
+  [
+   "Gardening Weekend",
+   "kneeling on a garden pad"
+  ],
+  [
+   "Lawn Mowing Saturday",
+   "rubbing a sore back by the mower"
+  ],
+  [
+   "Leaf Raking Front Yard",
+   "leaning on a rake with a wince"
+  ],
+  [
+   "Snow Shoveling Driveway Break",
+   "leaning on a shovel catching a breath"
+  ],
+  [
+   "Moving Day Box Carry",
+   "lifting a box with a dramatic face"
+  ],
+  [
+   "Furniture Assembly",
+   "standing up slowly from the floor"
+  ],
+  [
+   "Home Improvement Lumber Aisle",
+   "lifting a board with a wince"
+  ],
+  [
+   "Painting A Ceiling",
+   "rubbing a sore neck holding a roller"
+  ],
+  [
+   "Car Repair Driveway",
+   "sliding out from under a car"
+  ],
+  [
+   "Long Road Trip Rest Stop",
+   "stretching beside the car"
+  ],
+  [
+   "Airport After A Long Flight",
+   "stretching by the baggage carousel"
+  ],
+  [
+   "Desk Stretch Break",
+   "stretching arms above a desk"
+  ],
+  [
+   "Standing Desk",
+   "shifting weight between feet"
+  ],
+  [
+   "Pallet Aisle Shift End",
+   "stretching a back by a pallet"
+  ],
+  [
+   "Nurse Shift End",
+   "rubbing tired feet on a bench"
+  ],
+  [
+   "Restaurant Server Shift End",
+   "sitting down with sore feet"
+  ],
+  [
+   "Retail Black Friday Shift",
+   "leaning on a counter with a wince"
+  ],
+  [
+   "Teacher Supply Run",
+   "carrying a heavy box of supplies"
+  ],
+  [
+   "Grocery Haul Car Unload",
+   "lifting heavy grocery bags"
+  ],
+  [
+   "Warehouse Club Bulk Haul",
+   "lifting a giant water pack"
+  ],
+  [
+   "Theme Park Long Day For Adults",
+   "sitting on a bench rubbing feet"
+  ],
+  [
+   "Concert Floor",
+   "rubbing a sore neck after headbanging"
+  ],
+  [
+   "Music Festival Day Three",
+   "sitting in a camp chair with a wince"
+  ],
+  [
+   "Wedding Dance Floor",
+   "sitting down after a long dance"
+  ],
+  [
+   "Karaoke Night",
+   "holding a sore throat jokingly"
+  ],
+  [
+   "Bachelor Party Morning",
+   "holding a coffee with a wince"
+  ],
+  [
+   "Day Spa Lobby",
+   "holding a heating pad"
+  ],
+  [
+   "Chiropractic Supply Store",
+   "holding a foam roller"
+  ],
+  [
+   "Sporting Goods Store",
+   "holding a knee brace"
+  ],
+  [
+   "Drugstore Checkout Counter",
+   "holding a tube of muscle rub"
+  ],
+  [
+   "Ice Pack Aisle",
+   "holding an ice pack"
+  ],
+  [
+   "Hot Tub Deck Bench",
+   "sitting beside the hot tub with a towel"
+  ],
+  [
+   "Sauna Lobby",
+   "sipping water with a sigh"
+  ],
+  [
+   "Salt Cave Spa",
+   "relaxing in a lounge chair"
+  ],
+  [
+   "Rehab Gym",
+   "stepping onto a balance pad"
+  ],
+  [
+   "Senior Fitness Class",
+   "doing a gentle stretch"
+  ],
+  [
+   "Water Aerobics Pool Deck",
+   "holding a foam noodle"
+  ],
+  [
+   "Massage Chair Showroom",
+   "sinking into a massage chair"
+  ],
+  [
+   "Mattress Store",
+   "lying back on a firm mattress"
+  ],
+  [
+   "Grandparent Birthday Party",
+   "getting up slowly from a lawn chair"
+  ],
+  [
+   "Retirement Party",
+   "holding a cane prop as a joke"
+  ],
+  [
+   "50th Birthday Party",
+   "holding a balloon and rubbing a knee"
+  ],
+  [
+   "Over-The-Hill Party",
+   "holding a slice of cake"
+  ],
+  [
+   "Bingo Hall",
+   "standing up slowly to yell bingo"
+  ],
+  [
+   "Church Picnic",
+   "carrying a folding table"
+  ],
+  [
+   "Brewery Patio",
+   "holding a pint and stretching"
+  ],
+  [
+   "Sports Bar",
+   "holding a beer and rubbing a shoulder"
+  ],
+  [
+   "Diner Booth",
+   "sliding into a booth with a wince"
+  ],
+  [
+   "Front Porch Steps",
+   "climbing the steps slowly"
+  ],
+  [
+   "Living Room Floor",
+   "getting up from the floor dramatically"
+  ]
+ ],
+ "openers": [
+  "Ow. That's all I've got.",
+  "Every joint has an opinion today.",
+  "This shirt is my medical chart.",
+  "Okay, read every little ow.",
+  "Shirt check, aches edition.",
+  "My body after one workout.",
+  "Somebody had to say it.",
+  "Getting older is a full-time job.",
+  "My chiropractor loved this shirt.",
+  "This one gets a laugh every time.",
+  "Best shirt for the day after the gym.",
+  "I'm fine, my knees are not.",
+  "Count the ows.",
+  "Rate this shirt, one to ten."
+ ],
+ "details": [
+  "That giant cyan OW! is impossible to miss.",
+  "The little stick figure's worried face is perfect.",
+  "Eight tiny OW! callouts point to every joint.",
+  "It's soft and comfy, perfect for sore days.",
+  "Perfect gag gift for anyone turning forty or fifty.",
+  "The cyan really pops against the black cotton.",
+  "Great gift for gym rats and weekend warriors.",
+  "Still looks sharp after a lot of washes.",
+  "The pointer lines make it look like a medical diagram.",
+  "Everyone relates to at least one of the ows.",
+  "Simple, silly and painfully accurate.",
+  "Every achy friend wants one."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then they point to a knee callout and then their own knee.",
+  "Then they stretch their back with a dramatic groan and show the shirt.",
+  "Then they hold the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from friends nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Add soft giggles and a short burst of laughter from people just off-camera.",
+  "Include a friend off-camera laughing and saying \"No way,\" mixed with natural ambient sound."
+ ],
+ "titles": [
+  "Ow Ow Ow 😂",
+  "Every Joint Hurts",
+  "Getting Older Shirt",
+  "The Day After The Gym",
+  "Gag Gift For 40th Birthday",
+  "My Medical Chart 🩹",
+  "Count The Ows",
+  "Weekend Warrior Shirt",
+  "Aches Shirt Check",
+  "Relatable Joint Pain 😂"
+ ],
+ "tags": [
+  "#GettingOlder",
+  "#OverTheHill",
+  "#GymHumor",
+  "#DadHumor",
+  "#JointPain",
+  "#FunnyTShirt",
+  "#Relatable",
+  "#FunnyGift",
+  "#BirthdayGift",
+  "#StatementTee",
+  "#ShirtCheck",
+  "#HumorShirt",
+  "#StickFigure"
+ ]
+}

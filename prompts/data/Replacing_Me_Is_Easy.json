@@ -1,0 +1,357 @@
+{
+ "scenes": [
+  [
+   "Going-Away Cake Table",
+   "cutting a retirement cake"
+  ],
+  [
+   "Last Day At Work Desk",
+   "packing a box of desk items"
+  ],
+  [
+   "Farewell Lunch Restaurant",
+   "raising a glass at a long table"
+  ],
+  [
+   "Two Weeks Notice Office",
+   "handing over a folder with a grin"
+  ],
+  [
+   "Training The New Hire Desk",
+   "pointing at a computer screen for someone off-camera"
+  ],
+  [
+   "Handoff Meeting",
+   "sliding a thick binder across a table"
+  ],
+  [
+   "Employee Badge Return Desk",
+   "handing back an ID badge"
+  ],
+  [
+   "Exit Interview Room",
+   "sitting with arms crossed and a smile"
+  ],
+  [
+   "New Job First Day Lobby",
+   "holding a new badge"
+  ],
+  [
+   "Promotion Party",
+   "holding a slice of cake"
+  ],
+  [
+   "Job Fair Booth",
+   "holding a resume folder"
+  ],
+  [
+   "LinkedIn Headshot Studio",
+   "posing for a headshot"
+  ],
+  [
+   "Small Business Opening Day",
+   "cutting a ribbon"
+  ],
+  [
+   "Food Truck Owner Window",
+   "handing out an order"
+  ],
+  [
+   "Barbershop Owner Chair",
+   "sweeping up after a cut"
+  ],
+  [
+   "Salon Owner Station",
+   "styling a client's hair"
+  ],
+  [
+   "Tire Shop Owner Bay",
+   "wiping hands with a shop rag"
+  ],
+  [
+   "Farm Supply Store Owner Counter",
+   "ringing up a customer"
+  ],
+  [
+   "Diner Owner Grill",
+   "flipping pancakes on a flat top"
+  ],
+  [
+   "Bakery Owner Counter",
+   "boxing up a dozen donuts"
+  ],
+  [
+   "Coffee Roaster Owner Bench",
+   "scooping coffee beans"
+  ],
+  [
+   "Welding Shop",
+   "lifting a welding helmet"
+  ],
+  [
+   "Machine Shop",
+   "measuring a part with calipers"
+  ],
+  [
+   "Electrician Van",
+   "pulling a coil of wire from the van"
+  ],
+  [
+   "HVAC Rooftop Unit",
+   "checking an air conditioning unit"
+  ],
+  [
+   "Roofing Crew Truck",
+   "carrying a bundle of shingles"
+  ],
+  [
+   "Lumber Yard Forklift",
+   "driving a forklift"
+  ],
+  [
+   "Distribution Center Dock",
+   "scanning a pallet"
+  ],
+  [
+   "Freight Truck Cab",
+   "sitting in the driver's seat with a coffee"
+  ],
+  [
+   "Railroad Crew Yard",
+   "holding a lantern by the tracks"
+  ],
+  [
+   "Oil Field Truck",
+   "leaning on a work truck"
+  ],
+  [
+   "Logging Truck Stop",
+   "holding a thermos"
+  ],
+  [
+   "Landscaping Crew Trailer",
+   "lowering a mower ramp"
+  ],
+  [
+   "Pool Service Truck",
+   "holding a pool skimmer"
+  ],
+  [
+   "Pest Control Truck",
+   "holding a sprayer by the truck"
+  ],
+  [
+   "Locksmith Van",
+   "holding a ring of keys"
+  ],
+  [
+   "Appliance Repair Kitchen",
+   "holding a toolbox by a dishwasher"
+  ],
+  [
+   "IT Server Room",
+   "plugging in a network cable"
+  ],
+  [
+   "IT Help Desk",
+   "fixing a laptop"
+  ],
+  [
+   "Accounting Office Tax Season",
+   "holding a stack of folders"
+  ],
+  [
+   "Payroll Desk",
+   "typing on a calculator"
+  ],
+  [
+   "Nurse Station Night Shift",
+   "holding a clipboard"
+  ],
+  [
+   "EMT Ambulance Bay",
+   "holding a coffee by the ambulance"
+  ],
+  [
+   "Police Station Break Room",
+   "pouring a coffee"
+  ],
+  [
+   "Firefighter Engine Bay",
+   "wiping down a fire truck"
+  ],
+  [
+   "Dispatch Center",
+   "adjusting a headset"
+  ],
+  [
+   "Hotel Housekeeping Cart",
+   "folding a towel"
+  ],
+  [
+   "Hotel Night Audit Office",
+   "leaning on the front desk"
+  ],
+  [
+   "Grill Station At A Steakhouse",
+   "plating a dish"
+  ],
+  [
+   "Bartender Station",
+   "pouring a drink"
+  ],
+  [
+   "Head Chef Pass",
+   "wiping a plate rim"
+  ],
+  [
+   "Catering Van",
+   "carrying a tray of food"
+  ],
+  [
+   "Grocery Store Night Stocking",
+   "stacking cans on a shelf"
+  ],
+  [
+   "Pharmacy Tech Counter",
+   "counting pills on a tray"
+  ],
+  [
+   "Bank Vault Office",
+   "holding a deposit bag"
+  ],
+  [
+   "Real Estate Office",
+   "holding a sold sign"
+  ],
+  [
+   "Car Dealership Sales Floor",
+   "holding car keys"
+  ],
+  [
+   "Insurance Agency Desk",
+   "holding a policy folder"
+  ],
+  [
+   "Church Office Volunteer Desk",
+   "stapling bulletins"
+  ],
+  [
+   "HOA Treasurer Meeting",
+   "holding a ledger"
+  ],
+  [
+   "Volunteer Fire Department Fundraiser",
+   "flipping pancakes"
+  ],
+  [
+   "Union Hall Meeting",
+   "sitting with arms crossed"
+  ],
+  [
+   "Company Softball Game",
+   "holding a bat"
+  ],
+  [
+   "Taproom After Shift",
+   "holding a pint"
+  ],
+  [
+   "Retirement Fishing Trip",
+   "holding a fishing rod"
+  ],
+  [
+   "Retirement Golf Round",
+   "holding a driver"
+  ],
+  [
+   "Retirement Beach Vacation",
+   "holding a frozen drink"
+  ],
+  [
+   "Retirement RV Trip",
+   "sitting in a camp chair by an RV"
+  ],
+  [
+   "Retirement Porch Rocking Chair",
+   "rocking with an iced tea"
+  ],
+  [
+   "Retirement Garden",
+   "watering tomatoes"
+  ]
+ ],
+ "openers": [
+  "Good luck replacing me.",
+  "Okay, read this one carefully.",
+  "This shirt is my official two weeks notice.",
+  "They'll figure it out, eventually.",
+  "Shirt check, last day edition.",
+  "Wore this to my retirement party on purpose.",
+  "Somebody had to say it.",
+  "I trained them, but still.",
+  "My boss did not laugh.",
+  "This one gets a laugh every time.",
+  "Best retirement shirt ever.",
+  "Damn near impossible, it says so right here.",
+  "My coworkers want one now.",
+  "Rate this shirt, one to ten."
+ ],
+ "details": [
+  "That big golden-yellow IMPOSSIBLE is the best part.",
+  "The gold SH!T with the exclamation point is a sneaky touch.",
+  "The bold white middle lines make the message hit.",
+  "It's soft, fits great, and the print stays crisp.",
+  "Perfect retirement gift for the hardest worker you know.",
+  "The gold really pops against the black cotton.",
+  "Great gift for anyone leaving a job they carried.",
+  "Still looks sharp after a lot of washes.",
+  "The tall condensed caps read clean from across the shop.",
+  "Everyone reads it and nods in agreement.",
+  "Bold, honest and a little bit cocky.",
+  "Every hard worker wants one."
+ ],
+ "followups": [
+  "Then they step back so the whole front is in frame.",
+  "Then they smooth the shirt flat with both hands.",
+  "Then they turn slightly left and right to show the print.",
+  "Then they point to each line one by one.",
+  "Then they laugh, look off-camera, and look back at the lens.",
+  "Then they tap IMPOSSIBLE and shrug with a grin.",
+  "Then they dust off their hands and show the shirt again.",
+  "Then they hold the hem out to show the whole graphic."
+ ],
+ "audio": [
+  "Add warm, natural background laughter from coworkers nearby, as if they just read the shirt.",
+  "Background audio has natural chuckles from nearby adults, real and unpolished, not a laugh track.",
+  "Include a coworker off-camera saying \"That's true\" and laughing, mixed with ambient sound.",
+  "Add soft giggles and a short burst of laughter from people just off-camera."
+ ],
+ "titles": [
+  "Good Luck Replacing Me 😂",
+  "Retirement Shirt Check",
+  "Last Day At Work",
+  "Damn Near Impossible",
+  "Retirement Gift Idea",
+  "Two Weeks Notice Shirt",
+  "Hard Worker Shirt 💪",
+  "They'll Miss Me",
+  "Read It To The Gold",
+  "Every Hard Worker Needs This"
+ ],
+ "tags": [
+  "#RetirementGift",
+  "#Retirement",
+  "#WorkHumor",
+  "#HardWorker",
+  "#BlueCollar",
+  "#FunnyTShirt",
+  "#SarcasticShirt",
+  "#AdultHumor",
+  "#FunnyGift",
+  "#GiftIdea",
+  "#StatementTee",
+  "#ShirtCheck",
+  "#LastDay"
+ ]
+}
